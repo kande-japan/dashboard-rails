@@ -6,7 +6,8 @@ Rails.application.routes.draw do
 
   namespace :api do
     namespace :v1 do
-      post 'session', to: 'sessions#session'
+      post 'token', to: 'sessions#session'
+      post 'token/refresh', to: 'sessions#refresh'
       resources :users, only: %i[index create]
     end
   end

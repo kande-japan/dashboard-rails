@@ -40,6 +40,9 @@ gem "rubocop"
 # secure password
 gem 'bcrypt'
 
+# jwt module
+gem 'jwt'
+
 # model json serializer
 gem 'active_model_serializers'
 

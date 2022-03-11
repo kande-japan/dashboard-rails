@@ -1,5 +1,9 @@
+# frozen_string_literal: true
+
 class Api::V1::UsersController < ApplicationController
   wrap_parameters :user, include: %i[name email password]
+
+  skip_before_action :authenticate, only: %i[create]
 
   def index
     @users = User.all

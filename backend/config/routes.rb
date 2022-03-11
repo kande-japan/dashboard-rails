@@ -3,4 +3,11 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+
+  namespace :api do
+    namespace :v1 do
+      post 'session', to: 'sessions#session'
+      resources :users, only: %i[index create]
+    end
+  end
 end

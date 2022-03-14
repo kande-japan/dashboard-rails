@@ -41,12 +41,12 @@ class Api::V1::SessionsController < ApplicationController
       token: Jwt::TokenProvider.issue(
         iss: :kande_inc,
         aud: @user.id,
-        exp: Time.now.to_i + 1.hour # 1hで失効
+        exp: Time.current.to_i + 1.hour.to_i # 1hで失効
       ),
       refresh_token: Jwt::TokenProvider.issue(
         iss: :kande_inc,
         aud: @user.id,
-        exp: Time.now.to_i + 1.year # 1 year で失効
+        exp: Time.current.to_i + 1.year.to_i # 1 year で失効
       )
     }
   end

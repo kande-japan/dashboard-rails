@@ -5,10 +5,14 @@ import { IAuthState } from './state';
 import { MutationTypes } from './mutations';
 import { AugmentedActionContext } from '../types';
 
-// TODO
+export interface ILoginRequest {
+  email: string;
+  password: string;
+}
+
 export interface ILoginResponse {
-  access: string;
-  refresh: string;
+  token: string;
+  refresh_token: string;
 }
 
 export const enum ActionTypes {
@@ -19,13 +23,13 @@ export const enum ActionTypes {
 export interface Actions {
   [ActionTypes.login](
     context: AugmentedActionContext<IAuthState>,
-    payload: ILoginResponse
+    payload: ILoginRequest
   ): Promise<void>;
 }
 
 const actions: ActionTree<IAuthState, IState> & Actions = {
   async [ActionTypes.login](context, payload) {
-    const { data } = await api.post<ILoginResponse>('/session/', payload);
+    const { data } = await api.post<ILoginResponse>('/token', payload);
     context.commit(MutationTypes.SET_NEW_TOKEN, data);
   },
 

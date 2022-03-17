@@ -2,6 +2,9 @@ Rails.application.routes.draw do
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")
+
+  post '/', to: 'slacks#verification'
+
   # root "articles#index"
 
   namespace :api do
@@ -11,4 +14,4 @@ Rails.application.routes.draw do
       resources :users, only: %i[index create]
     end
   end
-end
+end 

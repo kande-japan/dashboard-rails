@@ -10,17 +10,28 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2022_03_14_134155) do
+ActiveRecord::Schema[7.0].define(version: 2022_03_18_131655) do
   create_table "categories", charset: "utf8mb4", collation: "utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.string "name", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
+  create_table "content_categories", charset: "utf8mb4", collation: "utf8mb4_0900_ai_ci", force: :cascade do |t|
+    t.bigint "content_id", null: false
+    t.bigint "category_id", null: false
+    t.integer "user_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["category_id"], name: "index_content_categories_on_category_id"
+    t.index ["content_id"], name: "index_content_categories_on_content_id"
+  end
+
   create_table "contents", charset: "utf8mb4", collation: "utf8mb4_0900_ai_ci", force: :cascade do |t|
     t.string "text"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "name"
   end
 
   create_table "users", id: :string, charset: "utf8mb4", collation: "utf8mb4_0900_ai_ci", force: :cascade do |t|
@@ -31,4 +42,6 @@ ActiveRecord::Schema[7.0].define(version: 2022_03_14_134155) do
     t.string "email", null: false
   end
 
+  add_foreign_key "content_categories", "categories"
+  add_foreign_key "content_categories", "contents"
 end

@@ -3,6 +3,8 @@
 class User < ApplicationRecord
   include UuidGenerator
 
+  has_one :slack_user
+
   # secure password
   has_secure_password
 

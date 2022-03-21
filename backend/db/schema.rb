@@ -10,7 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 20_220_317_132_535) do
+ActiveRecord::Schema[7.0].define(version: 20_220_320_072_522) do
+  create_table 'slack_users', id: { type: :string, limit: 10 }, charset: 'utf8mb4', collation: 'utf8mb4_0900_ai_ci',
+                              force: :cascade do |t|
+    t.string 'email'
+    t.string 'first_name'
+    t.string 'last_name'
+    t.string 'display_name'
+    t.string 'real_name'
+    t.string 'user_id'
+    t.datetime 'created_at', null: false
+    t.datetime 'updated_at', null: false
+    t.index ['email'], name: 'index_slack_users_on_email'
+    t.index ['user_id'], name: 'index_slack_users_on_user_id', unique: true
+  end
+
   create_table 'users', id: :string, charset: 'utf8mb4', collation: 'utf8mb4_0900_ai_ci', force: :cascade do |t|
     t.string 'name', null: false
     t.string 'password_digest', null: false
@@ -19,4 +33,6 @@ ActiveRecord::Schema[7.0].define(version: 20_220_317_132_535) do
     t.string 'email', null: false
     t.index ['email'], name: 'index_users_on_email', unique: true
   end
+
+  add_foreign_key 'slack_users', 'users'
 end

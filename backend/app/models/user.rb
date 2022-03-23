@@ -10,4 +10,7 @@ class User < ApplicationRecord
 
   # email validation
   validates :email, format: { with: URI::MailTo::EMAIL_REGEXP }
+
+  #association
+  has_many :students
 end

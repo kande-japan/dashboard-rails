@@ -11,6 +11,29 @@
 # It's strongly recommended that you check this file into your version control system.
 
 ActiveRecord::Schema[7.0].define(version: 20_220_320_072_522) do
+  create_table 'categories', charset: 'utf8mb4', collation: 'utf8mb4_0900_ai_ci', force: :cascade do |t|
+    t.string 'name', null: false
+    t.datetime 'created_at', null: false
+    t.datetime 'updated_at', null: false
+  end
+
+  create_table 'content_categories', charset: 'utf8mb4', collation: 'utf8mb4_0900_ai_ci', force: :cascade do |t|
+    t.bigint 'content_id', null: false
+    t.bigint 'category_id', null: false
+    t.integer 'user_id'
+    t.datetime 'created_at', null: false
+    t.datetime 'updated_at', null: false
+    t.index ['category_id'], name: 'index_content_categories_on_category_id'
+    t.index ['content_id'], name: 'index_content_categories_on_content_id'
+  end
+
+  create_table 'contents', charset: 'utf8mb4', collation: 'utf8mb4_0900_ai_ci', force: :cascade do |t|
+    t.string 'text'
+    t.datetime 'created_at', null: false
+    t.datetime 'updated_at', null: false
+    t.string 'name'
+  end
+
   create_table 'slack_users', id: { type: :string, limit: 10 }, charset: 'utf8mb4', collation: 'utf8mb4_0900_ai_ci',
                               force: :cascade do |t|
     t.string 'email'
@@ -34,5 +57,7 @@ ActiveRecord::Schema[7.0].define(version: 20_220_320_072_522) do
     t.index ['email'], name: 'index_users_on_email', unique: true
   end
 
+  add_foreign_key 'content_categories', 'categories'
+  add_foreign_key 'content_categories', 'contents'
   add_foreign_key 'slack_users', 'users'
 end

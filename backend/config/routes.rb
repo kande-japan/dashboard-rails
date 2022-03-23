@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
 
-  post '/', to: 'slacks#receiving'
+  post '/', to: 'slacks#receiver'
 
   # root "articles#index"
 

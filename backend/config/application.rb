@@ -52,6 +52,7 @@ module Backend
   end
 end
 
+
 module HogeApp
   class Application < Rails::Application
     config.middleware.delete ActionDispatch::HostAuthorization

@@ -1,19 +1,20 @@
 class SlacksController < ApplicationController
-    skip_before_action :authenticate
-    def receiving
 
+    skip_before_action :authenticate
+    TYPE_TO_ACTION = {
+        url_verification: UrlVerification.method(:url_verification),
+        event_callback: ContentSaving.method(:content_saving)
+    }
+
+    def receiving
         #verification
         if params[:type] == "url_verification"
-            challenge = params[:challenge]
-            render plain: challenge
-        else
-            render plain: "error"
+            TYPE_TO_ACTION[url_verification].call(params)
         end
 
         #getting content
-        new_text = params[:event][:text]
-        user = params[:event][:user]
-        content = Content.new(text = new_text, name = user)
-        content.save
+        TYPE_TO_ACTION[params[:event][:type]].call(params)
+    
     end
+
 end

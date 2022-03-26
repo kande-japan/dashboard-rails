@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class ContentSaver
   def self.content_save(params)
     new_text = params[:event][:text]

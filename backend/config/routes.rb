@@ -12,6 +12,7 @@ Rails.application.routes.draw do
       post 'token', to: 'sessions#session'
       post 'token/refresh', to: 'sessions#refresh'
       resources :users, only: %i[index create]
+      resources :contents, only: %i[index]
     end
   end
 end

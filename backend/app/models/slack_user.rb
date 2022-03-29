@@ -2,5 +2,5 @@
 
 class SlackUser < ApplicationRecord
   belongs_to :user, optional: true
-  has_many :content
+  has_many :contents
 end

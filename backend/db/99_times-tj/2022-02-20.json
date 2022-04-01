@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "1日で作ったガバアプリだし、これから永続的にビルドをあげる意思はないので、当たり前なんですがメインで使用しないでくださいね……",
+        "user": "U02FXPP41QD",
+        "ts": "1645351846.095089",
+        "thread_ts": "1645323405.117539",
+        "root": {
+            "client_msg_id": "9C09E3B4-9C0E-47CB-94F7-C5E981327D0F",
+            "type": "message",
+            "text": "ここでちょっとだけ遊べるようになってるので気になれば (ベータ審査に2日もかかった……)\n\n<https:\/\/testflight.apple.com\/join\/9tohUC5E|https:\/\/testflight.apple.com\/join\/9tohUC5E>",
+            "user": "U02FXPP41QD",
+            "ts": "1645323405.117539",
+            "team": "T02B0FUHKV3",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/testflight.apple.com\/join\/9tohUC5E",
+                    "image_url": "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Purple126\/v4\/a3\/24\/6f\/a3246f97-eeb1-db43-76be-633f495f2721\/AppIcon-1x_U007emarketing-0-10-0-85-220.png\/1920x1080bb-80.png",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 95744,
+                    "service_icon": "https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Purple126\/v4\/a3\/24\/6f\/a3246f97-eeb1-db43-76be-633f495f2721\/AppIcon-1x_U007emarketing-0-10-0-85-220.png\/1920x1080bb-80.png",
+                    "id": 1,
+                    "original_url": "https:\/\/testflight.apple.com\/join\/9tohUC5E",
+                    "fallback": "Join the Jelly Authenticator beta",
+                    "text": "Available on iOS",
+                    "title": "Join the Jelly Authenticator beta",
+                    "title_link": "https:\/\/testflight.apple.com\/join\/9tohUC5E",
+                    "service_name": "testflight.apple.com"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qgrmp",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ここでちょっとだけ遊べるようになってるので気になれば (ベータ審査に2日もかかった……)\n\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/testflight.apple.com\/join\/9tohUC5E",
+                                    "text": "https:\/\/testflight.apple.com\/join\/9tohUC5E"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1645323405.117539",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1645351846.095089",
+            "reply_users": [
+                "U02FXPP41QD"
+            ],
+            "replies": [
+                {
+                    "user": "U02FXPP41QD",
+                    "ts": "1645351846.095089"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I\/rN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1日で作ったガバアプリだし、これから永続的にビルドをあげる意思はないので、当たり前なんですがメインで使用しないでくださいね……"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "92663467-2EB1-4659-92C2-707CC8311C9A",
+        "reactions": [
+            {
+                "name": "zany_face",
+                "users": [
+                    "U02BT600G8G",
+                    "U032L2QR03F",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

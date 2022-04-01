@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "ED72C29C-91C6-47D6-8117-F58599362284",
+        "type": "message",
+        "text": "C++, Ruby, Python (ウルトラ最適化) で競プロ典型問題を解いてみたんだけど意外とRuby が速くてびっくりしてる",
+        "user": "U02FXPP41QD",
+        "ts": "1644893246.992319",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "C++, Ruby, Python (ウルトラ最適化) で競プロ典型問題を解いてみたんだけど意外とRuby が速くてびっくりしてる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644893246.992319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644922196.668109",
+        "reply_users": [
+            "U02FXPP41QD"
+        ],
+        "replies": [
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644922196.668109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "8aa2650b-4df9-4ce4-b803-f2401f32fa11",
+        "type": "message",
+        "text": "<https:\/\/review.foundx.jp\/entry\/startup-fit-journey>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633691804.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "FoundX Review - 起業家とスタートアップのためのノウハウ情報",
+                "title": "スタートアップ・フィット・ジャーニー　今どの段階にいて、何に取り組むべきかのガイド - FoundX Review - 起業家とスタートアップのためのノウハウ情報",
+                "title_link": "https:\/\/review.foundx.jp\/entry\/startup-fit-journey",
+                "text": "スタートアップをフェーズ別に整理してみると、以下のような「Fit」をおおよそ順序だって検証していくことになります。 Customer\/Problem Fit Problem\/Solution Fit Solution\/Product Fit Product\/Market Fit この記事はそれぞれのフェーズの説明と、フェーズに至るまで何をするべきかを示したガイドです。自分たちがどのフェーズにいるのかをチームで確認して、行動計画を考える際の参考にしてみてください。具体的な行動に迷ったら、Startup Playbook を確認してください。 フェーズの紹介 1. Customer 2. Cust…",
+                "fallback": "FoundX Review - 起業家とスタートアップのためのノウハウ情報: スタートアップ・フィット・ジャーニー　今どの段階にいて、何に取り組むべきかのガイド - FoundX Review - 起業家とスタートアップのためのノウハウ情報",
+                "ts": 1605662623,
+                "from_url": "https:\/\/review.foundx.jp\/entry\/startup-fit-journey",
+                "service_icon": "https:\/\/review.foundx.jp\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/review.foundx.jp\/entry\/startup-fit-journey"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=bIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/review.foundx.jp\/entry\/startup-fit-journey"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "434d1aad-35c6-4569-8f6b-1b2322eb7075",
+        "type": "message",
+        "text": "最近この精神を忘れていた",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633691874.001200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VRSHa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近この精神を忘れていた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

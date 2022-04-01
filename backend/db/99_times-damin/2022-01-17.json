@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "f6c6edf7-26ee-45f2-8a5a-81c953b09504",
+        "type": "message",
+        "text": "<https:\/\/gist.github.com\/yogin\/b88b105d9b2e332a5b59a3fd29cac962>",
+        "user": "U02BT600G8G",
+        "ts": "1642438045.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LdNu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/yogin\/b88b105d9b2e332a5b59a3fd29cac962"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d427f8aa-c1be-48d2-9808-f33717d23abe",
+        "type": "message",
+        "text": "外国のQiita的な感じでとても好き\n<https:\/\/hackernoon.com\/>",
+        "user": "U02BT600G8G",
+        "ts": "1642465793.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/hackernoon.com\/",
+                "image_url": "https:\/\/hackernoon.com\/fallback-feat.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 12796,
+                "service_icon": "https:\/\/hackernoon.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/hackernoon.com\/",
+                "fallback": "HackerNoon",
+                "text": "How hackers start their afternoons.",
+                "title": "HackerNoon",
+                "title_link": "https:\/\/hackernoon.com\/",
+                "service_name": "hackernoon.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jCj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "外国のQiita的な感じでとても好き\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hackernoon.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

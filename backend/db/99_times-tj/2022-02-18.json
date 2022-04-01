@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "362326B1-9CD0-4E78-A719-84D888E0A9BD",
+        "type": "message",
+        "text": "<https:\/\/github.com\/tjy-dev\/authenticator|https:\/\/github.com\/tjy-dev\/authenticator>\nソースコードを念のため落としておく",
+        "user": "U02FXPP41QD",
+        "ts": "1645178442.691059",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/tjy-dev\/authenticator",
+                "image_url": "https:\/\/opengraph.githubassets.com\/44b337665b7cfc3c4b4c0c8b907b3775c82a664a5f05e55d08a5f7265f4ba642\/tjy-dev\/authenticator",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 37044,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/tjy-dev\/authenticator",
+                "fallback": "GitHub: GitHub - tjy-dev\/authenticator",
+                "text": "Contribute to tjy-dev\/authenticator development by creating an account on GitHub.",
+                "title": "GitHub - tjy-dev\/authenticator",
+                "title_link": "https:\/\/github.com\/tjy-dev\/authenticator",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mhGHv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/tjy-dev\/authenticator",
+                                "text": "https:\/\/github.com\/tjy-dev\/authenticator"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nソースコードを念のため落としておく"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U032L2QR03F",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

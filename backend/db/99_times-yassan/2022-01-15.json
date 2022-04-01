@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "F52B1980-A5BF-46C1-86C0-8DB48C5F7ABC",
+        "type": "message",
+        "text": "これは見たすぎる\n\n<https:\/\/twitter.com\/nutti__\/status\/1482315369121738759?s=21|https:\/\/twitter.com\/nutti__\/status\/1482315369121738759?s=21>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642267660.001200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78qWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは見たすぎる\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nutti__\/status\/1482315369121738759?s=21",
+                                "text": "https:\/\/twitter.com\/nutti__\/status\/1482315369121738759?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642267660.001200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642298972.000500",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1642298972.000500"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1642298972.000500",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22A7A354-0F3C-44BE-8E0B-681A30CE5FCE",
+        "type": "message",
+        "text": "めちゃくちゃCで難しそう…",
+        "user": "U02BT600G8G",
+        "ts": "1642298972.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k46MB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めちゃくちゃCで難しそう…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642267660.001200",
+        "parent_user_id": "U02AWQ4BE1L"
+    }
+]

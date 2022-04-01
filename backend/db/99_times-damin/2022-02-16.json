@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "9C973F15-A548-4CB4-ADD7-8AD01CEB7753",
+        "type": "message",
+        "text": "Web3.0領域は変化激しすぎるから、情報収集手段としてTwitterにはびこるっていうの意外とベストな気がしてきた:face_with_monocle:",
+        "user": "U02BT600G8G",
+        "ts": "1645069219.392579",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Web3.0領域は変化激しすぎるから、情報収集手段としてTwitterにはびこるっていうの意外とベストな気がしてきた"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "face_with_monocle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U032L2QR03F",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "18646E20-1B54-42A5-A6A4-C69869DE48E1",
+        "type": "message",
+        "text": "<https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101|https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101>\n\nunityのasset。とりあえず、これかなー。値段も安いし。",
+        "user": "U02AWQ4BE1L",
+        "ts": "1637058003.000800",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101",
+                "service_name": "Unity Asset Store",
+                "title": "Make Your Fantasy Game - Fantasy Environment Assets | 3D Fantasy | Unity Asset Store",
+                "title_link": "https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101",
+                "text": "Elevate your workflow with the Make Your Fantasy Game - Fantasy Environment Assets asset from xiaolianhuastudio. Find this &amp; other Fantasy options on the Unity Asset Store.",
+                "image_url": "https:\/\/assetstorev1-prd-cdn.unity3d.com\/key-image\/d50fee2d-448b-4713-8f94-043db246d695.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 832645,
+                "fallback": "Unity Asset Store: Make Your Fantasy Game - Fantasy Environment Assets | 3D Fantasy | Unity Asset Store",
+                "service_icon": "https:\/\/unity-assetstorev2-prd.storage.googleapis.com\/cdn-origin\/images\/favicons\/apple-touch-icon.png?v=1",
+                "id": 1,
+                "original_url": "https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101",
+                                "text": "https:\/\/assetstore.unity.com\/packages\/3d\/environments\/fantasy\/make-your-fantasy-game-fantasy-environment-assets-7101"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nunityのasset。とりあえず、これかなー。値段も安いし。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "127695D8-1EE5-425A-A920-7D65048E659B",
+        "type": "message",
+        "text": "無料で良いのあんま無さそう",
+        "user": "U02AWQ4BE1L",
+        "ts": "1637058012.001300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mPc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "無料で良いのあんま無さそう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,294 @@
+[
+    {
+        "client_msg_id": "c86552b1-5675-4cb8-9823-47e20f0457c0",
+        "type": "message",
+        "text": "まさかのdoor.nttがmozillaのhubsほぼそのままとは……何を開発しているんだ\n<https:\/\/hubs.mozilla.com\/>",
+        "user": "U02BT600G8G",
+        "ts": "1643470973.116569",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/hubs.mozilla.com\/",
+                "image_url": "https:\/\/hubs.mozilla.com\/app-thumbnail.png",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 167156,
+                "service_icon": "https:\/\/hubs.mozilla.com\/app-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/hubs.mozilla.com\/",
+                "fallback": "Hubs by Mozilla",
+                "text": "Meet, share and collaborate together in private 3D virtual spaces.",
+                "title": "Hubs by Mozilla",
+                "title_link": "https:\/\/hubs.mozilla.com\/",
+                "service_name": "Hubs by Mozilla"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7LLE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まさかのdoor.nttがmozillaのhubsほぼそのままとは……何を開発しているんだ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hubs.mozilla.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643470973.116569",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1643521673.120259",
+        "reply_users": [
+            "U02AWQ4BE1L",
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1643474326.886529"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643474989.859569"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643521483.759839"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643521611.446129"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643521673.120259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1643521673.120259"
+    },
+    {
+        "client_msg_id": "ebf2abd4-94c0-4a51-858b-6a0a0558d98b",
+        "type": "message",
+        "text": "ドユコト？",
+        "user": "U02AWQ4BE1L",
+        "ts": "1643474326.886529",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oi6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドユコト？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643470973.116569",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "9f732737-d8e8-4c97-9574-f73a3d1d458a",
+        "type": "message",
+        "text": "door.nttの根幹技術はhubsというMozilla開発のキット的なやつを使っていて，それをどこかの受託会社がdoorの案件を請け負っているらしいです，最後のあたりはbenさん曰くですが…",
+        "user": "U02BT600G8G",
+        "ts": "1643474989.859569",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8dFFH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "door.nttの根幹技術はhubsというMozilla開発のキット的なやつを使っていて，それをどこかの受託会社がdoorの案件を請け負っているらしいです，最後のあたりはbenさん曰くですが…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643470973.116569",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "3a2b7f79-53f6-4033-ae40-f3152336cd8d",
+        "type": "message",
+        "text": "<https:\/\/vr.gree.net\/wp-content\/uploads\/2020\/07\/Hubs-Shirai-20200715.pdf>",
+        "user": "U02BT600G8G",
+        "ts": "1643521483.759839",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WM76N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vr.gree.net\/wp-content\/uploads\/2020\/07\/Hubs-Shirai-20200715.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643470973.116569",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "50d0f483-4586-4492-be2c-59721a1f6eaa",
+        "type": "message",
+        "text": "hubsはAWS MarketplaceでHubs-Opsとして売り出すほど結構2次利用をして欲しいらしいですね\nこれ使えばカスタマイズも可能で同時接続もできる\n\nただ使われている技術セットがとんでもなく幅広いのでかなり大変ですね",
+        "user": "U02BT600G8G",
+        "ts": "1643521611.446129",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1HB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hubsはAWS MarketplaceでHubs-Opsとして売り出すほど結構2次利用をして欲しいらしいですね\nこれ使えばカスタマイズも可能で同時接続もできる\n\nただ使われている技術セットがとんでもなく幅広いのでかなり大変ですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643470973.116569",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "58d31114-7b9a-42b4-b56d-f0873f60c8c6",
+        "type": "message",
+        "text": "ErlangとかPhonenixとか違う言語フレームワークなど知らなきゃかもしれない",
+        "user": "U02BT600G8G",
+        "ts": "1643521673.120259",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v4pug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ErlangとかPhonenixとか違う言語フレームワークなど知らなきゃかもしれない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643470973.116569",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

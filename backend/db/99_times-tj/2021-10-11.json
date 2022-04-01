@@ -1,0 +1,176 @@
+[
+    {
+        "client_msg_id": "417D5A1F-AF48-492E-A95E-D5FA18A7D97D",
+        "type": "message",
+        "text": "そういえば明日は先週と同じく13:00時で大丈夫そうですか？？",
+        "user": "U02FXPP41QD",
+        "ts": "1633947258.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02FXPP41QD",
+            "ts": "1633947269.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9VlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういえば明日は先週と同じく13:00時で大丈夫そうですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7D68A99C-7B05-4932-ACDD-F3E22FC30D92",
+        "type": "message",
+        "text": "大丈夫です！",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633954535.000900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hR77b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4365CF94-7FBB-49E5-B825-BC9C7696586A",
+        "type": "message",
+        "text": "すみません\nやっぱり13:30からでお願いできますか？",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633956766.001500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hX3\/j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません\nやっぱり13:30からでお願いできますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4232C35C-1057-4EDA-80AE-0D665D342C63",
+        "type": "message",
+        "text": "はい",
+        "user": "U02FXPP41QD",
+        "ts": "1633998933.001700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WYB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

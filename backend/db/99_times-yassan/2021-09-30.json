@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "33F465CA-2C9A-4321-87D9-09EA3335BEB8",
+        "type": "message",
+        "text": "問題がなければ10月8日に登記完了",
+        "user": "U02AWQ4BE1L",
+        "ts": "1632992915.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LQhV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "問題がなければ10月8日に登記完了"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

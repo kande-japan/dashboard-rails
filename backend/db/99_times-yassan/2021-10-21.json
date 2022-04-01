@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "これでとりまいきます",
+        "files": [
+            {
+                "id": "F02JP6HF90U",
+                "created": 1634833841,
+                "timestamp": 1634833841,
+                "name": "事業計画書.pptx",
+                "title": "事業計画書.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U02AWQ4BE1L",
+                "editable": false,
+                "size": 245951,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02JP6HF90U\/_______________.pptx?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02JP6HF90U\/download\/_______________.pptx?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02JP6HF90U-bdff5fa742\/________________converted.pdf?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02JP6HF90U-bdff5fa742\/________________thumb_pdf.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02AWQ4BE1L\/F02JP6HF90U\/_______________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02JP6HF90U-4e9899d994",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02AWQ4BE1L",
+        "display_as_bot": false,
+        "ts": "1634833864.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6LMTJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これでとりまいきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "252113ac-4f09-4103-8c8c-4f93e097e5c2",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

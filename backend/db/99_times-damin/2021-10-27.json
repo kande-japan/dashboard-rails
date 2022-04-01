@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "33202a1e-ab31-4242-abef-80ea0c78441a",
+        "type": "message",
+        "text": "VuetifyのMobile遅すぎ問題がわかんなすぎたのでQuasarを代替としてとりあえず使ってみます！\n<https:\/\/quasar.dev\/>",
+        "user": "U02BT600G8G",
+        "ts": "1635337302.001000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Quasar Framework",
+                "title": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+                "title_link": "https:\/\/quasar.dev\/",
+                "text": "Developer-oriented, front-end framework with VueJS components for best-in-class high-performance, responsive websites, PWA, SSR, Mobile and Desktop apps, all from the same codebase. Sensible people choose Vue. Productive people choose Quasar. Be both.",
+                "fallback": "Quasar Framework: Quasar Framework - Build high-performance VueJS user interfaces in record time",
+                "thumb_url": "https:\/\/cdn.quasar.dev\/logo-v2\/512\/logo.png",
+                "from_url": "https:\/\/quasar.dev\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/cdn.quasar.dev\/logo-v2\/favicon\/apple-icon-120x120.png",
+                "id": 1,
+                "original_url": "https:\/\/quasar.dev\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2q+qC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VuetifyのMobile遅すぎ問題がわかんなすぎたのでQuasarを代替としてとりあえず使ってみます！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/quasar.dev\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0F044DE0-1AE8-44B2-8202-E57B0F4635C8",
+        "type": "message",
+        "text": "俺もQuasar勉強します",
+        "user": "U02AWQ4BE1L",
+        "ts": "1635391184.001700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "siXQU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "俺もQuasar勉強します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

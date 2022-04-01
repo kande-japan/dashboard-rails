@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "text": "顧客インタビューのお手本的なやつ",
+        "files": [
+            {
+                "id": "F02HLJ2V0AD",
+                "created": 1633747014,
+                "timestamp": 1633747014,
+                "name": "UX戦略.pdf.pdf",
+                "title": "File from iOS",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 624501,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02HLJ2V0AD\/ux______.pdf.pdf?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02HLJ2V0AD\/download\/ux______.pdf.pdf?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02HLJ2V0AD-5c686d78f3\/ux______.pdf_thumb_pdf.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_pdf_w": 641,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F02HLJ2V0AD\/ux______.pdf.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02HLJ2V0AD-a366f2014e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1633747055.000100",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

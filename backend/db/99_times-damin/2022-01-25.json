@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "99841E36-43FB-476E-8624-333011139EB5",
+        "type": "message",
+        "text": "3Dのなにか作ろうと思ってもやっぱりモデリングが最初に必要になるのでblenderもやんなきゃだめだなあ",
+        "user": "U02BT600G8G",
+        "ts": "1643162669.549889",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cwv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3Dのなにか作ろうと思ってもやっぱりモデリングが最初に必要になるのでblenderもやんなきゃだめだなあ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7858666E-B5D2-4FF5-A378-1B16F3CA31A6",
+        "type": "message",
+        "text": "電子マグロ、とは\n<https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU|https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU>",
+        "user": "U02BT600G8G",
+        "ts": "1643162913.938979",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU",
+                "image_url": "https:\/\/www.metaverse-style.com\/wp-content\/uploads\/2022\/01\/sub1.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 320656,
+                "service_icon": "https:\/\/www.metaverse-style.com\/wp-content\/uploads\/2021\/10\/cropped-favicon-180x180.jpg",
+                "id": 1,
+                "original_url": "https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU",
+                "fallback": "Metaverse Style JP: NFT化された電子マグロで初競り、80万円相当で落札",
+                "text": "新春恒例の豊洲市場での初競りが話題になるなか、人気YouTubeチャンネル「銀座渡利」配信者の渡邉哲也氏が構えるすし店「鮨 渡利」が1月8〜15日、NFT化された電子マグロの初競りオークションをNFT",
+                "title": "NFT化された電子マグロで初競り、80万円相当で落札",
+                "title_link": "https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU",
+                "service_name": "Metaverse Style JP"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuzC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電子マグロ、とは\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU",
+                                "text": "https:\/\/www.metaverse-style.com\/trend\/3821?fbclid=IwAR2jT7xft2mW1mrL6tz0H94oArtRBHyFetjvBrUbLH2hLO9Oa7UiTC1rjkU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

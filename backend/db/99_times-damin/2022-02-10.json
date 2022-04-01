@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "895676f0-8262-4324-bfe6-b0e8b70db6f6",
+        "type": "message",
+        "text": "<https:\/\/gorails.com\/setup\/osx\/12-monterey#rails>",
+        "user": "U02BT600G8G",
+        "ts": "1644558867.653719",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gorails.com\/setup\/osx\/12-monterey#rails",
+                "service_icon": "https:\/\/gorails.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gorails.com\/setup\/osx\/12-monterey#rails",
+                "fallback": "GoRails: Install Ruby On Rails on macOS 12 Monterey | GoRails",
+                "text": "A guide to setting up a Ruby on Rails development environment on macOS 12 Monterey with Git, MySQL, and PostgreSQL",
+                "title": "Install Ruby On Rails on macOS 12 Monterey | GoRails",
+                "title_link": "https:\/\/gorails.com\/setup\/osx\/12-monterey#rails",
+                "service_name": "GoRails"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CGqu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gorails.com\/setup\/osx\/12-monterey#rails"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "c5fa7548-322f-47eb-b1d2-73ae0cd4d2d9",
+        "type": "message",
+        "text": "こんなものに東工大も参加しているのか…\n<https:\/\/www.1stround.jp\/>",
+        "user": "U02BT600G8G",
+        "ts": "1634697600.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "1stRound |",
+                "title": "1stRound",
+                "title_link": "https:\/\/www.1stround.jp\/",
+                "text": "1stRound は、ベンチャーキャピタルから外部調達をする前のチームあるいは設立3年以内のベンチャーが理想的な形で最初の資金調達（1stRound）を達成できる環境を提供するプログラムです。",
+                "fallback": "1stRound |: 1stRound",
+                "thumb_url": "https:\/\/www.1stround.jp\/wp-content\/uploads\/2021\/400_ogp\/01_ogp.png",
+                "from_url": "https:\/\/www.1stround.jp\/",
+                "thumb_width": 1000,
+                "thumb_height": 525,
+                "service_icon": "https:\/\/www.1stround.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.1stround.jp\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qagA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんなものに東工大も参加しているのか…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.1stround.jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

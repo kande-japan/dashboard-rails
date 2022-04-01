@@ -1,0 +1,176 @@
+[
+    {
+        "client_msg_id": "B8DCB17F-8EF9-474F-A302-018962AD088B",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5|https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5>",
+        "user": "U02BT600G8G",
+        "ts": "1645841204.563009",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5",
+                "ts": 1645816685,
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/0*TIcJzc2Ek3Qbl8dA",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 642372,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5",
+                "fallback": "Medium: The Sandbox Alpha Season 2",
+                "text": "More experiences, improved Play&amp;Earn, more Alpha Passes — and every experience is open to all players on PC and Mac!",
+                "title": "The Sandbox Alpha Season 2",
+                "title_link": "https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5",
+                "service_name": "Medium",
+                "fields": [
+                    {
+                        "value": "5 min read",
+                        "title": "Reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5",
+                                "text": "https:\/\/medium.com\/sandbox-game\/the-sandbox-alpha-season-2-8f2ca5a28ea5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645841204.563009",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1645849174.426339",
+        "reply_users": [
+            "U032L2QR03F",
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U032L2QR03F",
+                "ts": "1645846325.742939"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1645849174.426339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56F140D3-8909-4F96-947C-BE3B2173C508",
+        "type": "message",
+        "text": "何こらめちゃくちゃ面白そう",
+        "user": "U032L2QR03F",
+        "ts": "1645846325.742939",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xen6h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何こらめちゃくちゃ面白そう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645841204.563009",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "908fe45a-3203-4091-995d-31e0872ce945",
+        "type": "message",
+        "text": "NFTとゲームを組み合わせたマイクラみたいなゲームだぜ，ちなみにまだ遊んだことはない",
+        "user": "U02BT600G8G",
+        "ts": "1645849174.426339",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yiI0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NFTとゲームを組み合わせたマイクラみたいなゲームだぜ，ちなみにまだ遊んだことはない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645841204.563009",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

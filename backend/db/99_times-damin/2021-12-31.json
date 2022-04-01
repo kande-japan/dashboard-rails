@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "0a78f763-da62-43f9-9417-6755c6041e42",
+        "type": "message",
+        "text": "あけましておめでとうございます:relieved:\n今年も面白いことができて成長できる一年にしたいです！今年もどうぞ宜しくお願いします:handshake:",
+        "user": "U02BT600G8G",
+        "ts": "1641016340.001200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XTK=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あけましておめでとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relieved"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今年も面白いことができて成長できる一年にしたいです！今年もどうぞ宜しくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "handshake"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "red_envelope",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "time-zone-fyi",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

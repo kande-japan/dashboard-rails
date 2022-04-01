@@ -1,0 +1,152 @@
+[
+    {
+        "client_msg_id": "849b3bbe-24e4-4bc9-8d82-da382d6e8cb5",
+        "type": "message",
+        "text": "LINEでのエンドポイントを設定するためのDjangoサーバーを，AWSでSSLでデプロイできた…！！3日ぐらいかかっちゃった…\nドメインは100円\/年くらいで格安\n<https:\/\/dev-dms.tokyo>",
+        "user": "U02BT600G8G",
+        "ts": "1633396865.002900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ksL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LINEでのエンドポイントを設定するためのDjangoサーバーを，AWSでSSLでデプロイできた…！！3日ぐらいかかっちゃった…\nドメインは100円\/年くらいで格安\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/dev-dms.tokyo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633396865.002900",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1633396959.003200",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1633396894.003000"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1633396959.003200"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "141f2e3c-4618-4c83-84ec-27bcb1dfe3ce",
+        "type": "message",
+        "text": "テストなので俺が勝手に閉じたり開いたりします",
+        "user": "U02BT600G8G",
+        "ts": "1633396894.003000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h4C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テストなので俺が勝手に閉じたり開いたりします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633396865.002900",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "92ffef3e-b37b-47cb-9c97-e4de7cbf5369",
+        "type": "message",
+        "text": "ただマジで脆弱性を狙ってるbotからのリクエストが多い",
+        "user": "U02BT600G8G",
+        "ts": "1633396959.003200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QM9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ただマジで脆弱性を狙ってるbotからのリクエストが多い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1633396865.002900",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

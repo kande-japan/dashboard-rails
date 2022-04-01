@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "B3189B31-0CFE-42E5-93A6-F3446AD0FD8B",
+        "type": "message",
+        "text": "何らかの言語でアプリを作ったとして、結局表示する求人とか自分の情報をget, postする為にはAPIを叩く他ないので、そのAPI設計をDjangoに任せるというのは普通に考えて普通かもしれない\n\n普通のアプリでも、APIはアプリとは別の何かで実装することが多いらしい\n\nAWSの上にDocker、その上にDjango、みたいな構成になるのかな？",
+        "user": "U02BT600G8G",
+        "ts": "1632062876.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7x=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何らかの言語でアプリを作ったとして、結局表示する求人とか自分の情報をget, postする為にはAPIを叩く他ないので、そのAPI設計をDjangoに任せるというのは普通に考えて普通かもしれない\n\n普通のアプリでも、APIはアプリとは別の何かで実装することが多いらしい\n\nAWSの上にDocker、その上にDjango、みたいな構成になるのかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

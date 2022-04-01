@@ -1,0 +1,486 @@
+[
+    {
+        "type": "message",
+        "text": "案外簡単だ",
+        "files": [
+            {
+                "id": "F02M67W30M7",
+                "created": 1636531806,
+                "timestamp": 1636531806,
+                "name": "Screen Recording 2021-11-10 at 17.08.21.mov",
+                "title": "Screen Recording 2021-11-10 at 17.08.21.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 7062194,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02M67W30M7-60408fa5fc\/screen_recording_2021-11-10_at_17.08.21.mp4?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02M67W30M7-60408fa5fc\/screen_recording_2021-11-10_at_17.08.21.mp4?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02M67W30M7\/download\/screen_recording_2021-11-10_at_17.08.21.mov?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02M67W30M7-60408fa5fc\/file.m3u8?_xcb=f92e3&t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9ODE5NjEyLEFWRVJBR0UtQkFORFdJRFRIPTgxOTYxMixDT0RFQ1M9ImF2YzEuNjQwMDI4LG1wNGEuNDAuNSIsUkVTT0xVVElPTj0xNzI4eDEwODAsRlJBTUUtUkFURT0yOS45NzAKZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvM0NpTkZXRlF0V0MxTlJVUkpRUzFUUlZGVlJVNURSVG94Q2lORldGUXRXQzFRVEVGWlRFbFRWQzFVV1ZCRk9sWlBSQW9qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlRakJHVlVoTFZqTXRSakF5VFRZM1Z6TXdUVGN0TmpBME1EaG1ZVFZtWXk5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNUzUwY3dvalJWaFVTVTVHT2pBdU1qTTBMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5UWpCR1ZVaExWak10UmpBeVRUWTNWek13VFRjdE5qQTBNRGhtWVRWbVl5OW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TWk1MGN3b2pSVmhVTFZndFJVNUVURWxUVkFvPQojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NTA3MzQzLEFWRVJBR0UtQkFORFdJRFRIPTUwNzM0MyxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj0xMTUyeDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDAyQjBGVUhLVjMtRjAyTTY3VzMwTTctNjA0MDhmYTVmYy9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTXzdRVkJSLm0zdTgK",
+                "duration_ms": 6239,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02M67W30M7-60408fa5fc\/screen_recording_2021-11-10_at_17.08.21_thumb_video.jpeg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_video_w": 2880,
+                "thumb_video_h": 1800,
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F02M67W30M7\/screen_recording_2021-11-10_at_17.08.21.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02M67W30M7-cca8a831fd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1636531927.000600",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "案外簡単だ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "05677cf5-fec0-4843-a6c0-0d99c260bdc8",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "157F1C46-CCCD-4403-B188-D1567F43A1DB",
+        "type": "message",
+        "text": "ひまか()",
+        "user": "U02FXPP41QD",
+        "ts": "1636532269.001100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yroa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひまか()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636532269.001100",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1636580195.005900",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD",
+            "U02AWQ4BE1L"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1636533449.001300"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1636545854.001900"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1636556639.003000"
+            },
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1636560394.004600"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1636580195.005900"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1636580195.005900"
+    },
+    {
+        "client_msg_id": "1d1f7325-3163-4476-9d11-aa56a9d394d3",
+        "type": "message",
+        "text": "実は色々あって医者バイトのやつをやめることになってだな……これが本職かもしれないのだよ……",
+        "user": "U02BT600G8G",
+        "ts": "1636533449.001300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RoE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実は色々あって医者バイトのやつをやめることになってだな……これが本職かもしれないのだよ……"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636532269.001100",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "D9DAFCCF-E996-4973-B702-45E40AC17A39",
+        "type": "message",
+        "text": "ダイナミックに変わってるね:innocent:",
+        "user": "U02FXPP41QD",
+        "ts": "1636545854.001900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q7RKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ダイナミックに変わってるね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636532269.001100",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_head_bandage",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37D6EEB8-E57E-451F-ADE5-274816DDD37B",
+        "type": "message",
+        "text": "せっかく色々手伝ってもらったのにほんとにごめんよ、、、、、",
+        "user": "U02BT600G8G",
+        "ts": "1636556639.003000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "せっかく色々手伝ってもらったのにほんとにごめんよ、、、、、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636532269.001100",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "BB357A04-E553-4770-9971-511EC5D8E509",
+        "type": "message",
+        "text": "本当に色々な理由が重なってしまって…\n田島くんとはぜひこれからも一緒に仕事したいので、またなんか進捗あれば話します！:pray:",
+        "user": "U02AWQ4BE1L",
+        "ts": "1636560394.004600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZUd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当に色々な理由が重なってしまって…\n田島くんとはぜひこれからも一緒に仕事したいので、またなんか進捗あれば話します！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636532269.001100",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "AE32D93E-0D25-46D3-A17F-340408A6F004",
+        "type": "message",
+        "text": "なるほど、今度お話を聞かせていただければありがたいです",
+        "user": "U02FXPP41QD",
+        "ts": "1636580195.005900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9Y7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、今度お話を聞かせていただければありがたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636532269.001100",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tj",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "はじめてのもでりんぐ",
+        "files": [
+            {
+                "id": "F02LYDY6R0T",
+                "created": 1636602264,
+                "timestamp": 1636602264,
+                "name": "valxBottle.png",
+                "title": "valxBottle.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 959255,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02LYDY6R0T\/valxbottle.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02LYDY6R0T\/download\/valxbottle.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_960.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02LYDY6R0T-af832d4129\/valxbottle_1024.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADDMooooAKKsWSo8xDrkbajuFCTuqjABoAjooooAKKKKAJIZTC+4AHjGDTZHMkjOepNNooAKKKKAP\/\/Z",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F02LYDY6R0T\/valxbottle.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02LYDY6R0T-79a5b33aff",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1636602275.006700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xU2P1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめてのもでりんぐ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "bc545b66-7bc4-4e68-9530-b13254b9a259",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

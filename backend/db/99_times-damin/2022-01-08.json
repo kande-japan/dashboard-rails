@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "40F1622D-AC17-458D-956E-9F2FD8E13DA6",
+        "type": "message",
+        "text": "Bomb Cryptoを見て「俺の方ができる」って思う人は多いんだな\n<https:\/\/twitter.com\/hori_crypto\/status\/1479419928189235203?s=21|https:\/\/twitter.com\/hori_crypto\/status\/1479419928189235203?s=21>",
+        "user": "U02BT600G8G",
+        "ts": "1641640862.001000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1C=8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bomb Cryptoを見て「俺の方ができる」って思う人は多いんだな\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/hori_crypto\/status\/1479419928189235203?s=21",
+                                "text": "https:\/\/twitter.com\/hori_crypto\/status\/1479419928189235203?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

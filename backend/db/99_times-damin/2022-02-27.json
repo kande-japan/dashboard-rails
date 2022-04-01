@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "0d5be8ad-f75d-44f5-aed0-6b3384279110",
+        "type": "message",
+        "text": "ひえ〜こわいね\n<https:\/\/www.itmedia.co.jp\/news\/articles\/2202\/25\/news174.html?fbclid=IwAR3wzSU5cWdgT_7CBk3-HCRwbnQWBZnn3PLOWwrNLN0wdyEqzbNIHaGbr8w>",
+        "user": "U02BT600G8G",
+        "ts": "1646005729.704409",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.itmedia.co.jp\/news\/articles\/2202\/25\/news174.html?fbclid=IwAR3wzSU5cWdgT_7CBk3-HCRwbnQWBZnn3PLOWwrNLN0wdyEqzbNIHaGbr8w",
+                "thumb_url": "https:\/\/image.itmedia.co.jp\/news\/articles\/2202\/25\/cover_news174.jpg",
+                "thumb_width": 869,
+                "thumb_height": 455,
+                "service_icon": "https:\/\/www.itmedia.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.itmedia.co.jp\/news\/articles\/2202\/25\/news174.html?fbclid=IwAR3wzSU5cWdgT_7CBk3-HCRwbnQWBZnn3PLOWwrNLN0wdyEqzbNIHaGbr8w",
+                "fallback": "ITmedia NEWS: 「ロシア政府に対抗作戦を行う」──ハッカー集団Anonymousが声明　サイバー攻撃を示唆",
+                "text": "匿名のハッカー集団「Anonymous」は、「ロシア政府を標的にした、対抗作戦を実行する」という声明をTwitter上に投稿した。民間企業にも影響を与える可能性は高いとしている。",
+                "title": "「ロシア政府に対抗作戦を行う」──ハッカー集団Anonymousが声明　サイバー攻撃を示唆",
+                "title_link": "https:\/\/www.itmedia.co.jp\/news\/articles\/2202\/25\/news174.html?fbclid=IwAR3wzSU5cWdgT_7CBk3-HCRwbnQWBZnn3PLOWwrNLN0wdyEqzbNIHaGbr8w",
+                "service_name": "ITmedia NEWS"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ひえ〜こわいね\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.itmedia.co.jp\/news\/articles\/2202\/25\/news174.html?fbclid=IwAR3wzSU5cWdgT_7CBk3-HCRwbnQWBZnn3PLOWwrNLN0wdyEqzbNIHaGbr8w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

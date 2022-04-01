@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "BDA30F07-E30B-43DB-ADD5-92E1D8561BC1",
+        "type": "message",
+        "text": "メタバース婚ってパワーワードすぎる笑\n<https:\/\/boznews.net\/vr-metaversemarry\/|https:\/\/boznews.net\/vr-metaversemarry\/>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642175575.000700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/boznews.net\/vr-metaversemarry\/",
+                "ts": 1639642408,
+                "image_url": "https:\/\/boznews.net\/wp-content\/uploads\/2021\/12\/Metaverse-marry-top.png",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1565890,
+                "service_icon": "https:\/\/boznews.net\/wp-content\/uploads\/2022\/01\/cropped-BOZ-logo-ver1.2-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/boznews.net\/vr-metaversemarry\/",
+                "fallback": "BOZNEWS（ボツニュース） | VRゲームのレビューや攻略情報を発信中！: 【メタバース婚】VRで出会ってリアルで婚約した方に経緯や心境を聞いてみた | インタビュー | BOZNEWS（ボツニュース）",
+                "text": "今回は、VRの中で出会いリアルでご結婚された方にいンタビューさせていただきました！メタバースで出会いリアルでゴールイン！ポピュレーションワンというVRマルチプレイゲームで知り合い、顔や名前が分からない中どのような心境でお付き合いに至ったのか、どのような経緯で結婚まで至ったのでしょうか？",
+                "title": "【メタバース婚】VRで出会ってリアルで婚約した方に経緯や心境を聞いてみた | インタビュー | BOZNEWS（ボツニュース）",
+                "title_link": "https:\/\/boznews.net\/vr-metaversemarry\/",
+                "service_name": "BOZNEWS（ボツニュース） | VRゲームのレビューや攻略情報を発信中！"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メタバース婚ってパワーワードすぎる笑\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/boznews.net\/vr-metaversemarry\/",
+                                "text": "https:\/\/boznews.net\/vr-metaversemarry\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

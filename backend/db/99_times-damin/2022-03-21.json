@@ -1,0 +1,255 @@
+[
+    {
+        "client_msg_id": "16736724-384e-48b0-bc2f-208bb962c369",
+        "type": "message",
+        "text": "ようやくEVM, geth, Solidityの関係がわかった…\n\n• Ethereumの中のユーザーというのはノードが主体であって（逆に言えばノードしかない），ノードはそれぞれスマコンを実行するためのEVM（ここでは抽象的な意味でのVM）を持つ必要がある．\n• トランザクションは，相手のアドレス，自分のアドレスとともに，payloadを持っている\n    ◦ もし相手のアドレスがコントラクトアドレスではない（Externally Owned Account: EOA）なら，payloadはどれだけのETHを送るかを示す\n    ◦ もし相手のアドレスがコントラクトアドレスなら，payloadはコントラクトの関数（バイトコード）を実行するための情報（関数名や引数など）になる\n• EVMは，コントラクトアドレスに紐づいている，バイトコードを実行する役割を果たす\n    ◦ バイトコードを直書きするのは，どう考えてもやばすぎるので，もっと高レベル言語で書きたい→コンパイラが必要\n        ▪︎ 高レベル言語の例：Solidity，Rust，Vyper, JavaScriptなど （あくまでもSolidityは最初に作られたスマコン用の言語で使いやすいからたくさん使われているというだけ）\n        ▪︎ コンパイラの例： `solc` (Solidity), `cargo` (Rust)など\n• クライアント（ノード）のGoでの実装がgethであり，ここにEVMの実装も含まれている",
+        "user": "U02BT600G8G",
+        "ts": "1647854520.416609",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3tMz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ようやくEVM, geth, Solidityの関係がわかった…\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Ethereumの中のユーザーというのはノードが主体であって（逆に言えばノードしかない），ノードはそれぞれスマコンを実行するためのEVM（ここでは抽象的な意味でのVM）を持つ必要がある．"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "トランザクションは，相手のアドレス，自分のアドレスとともに，payloadを持っている"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "もし相手のアドレスがコントラクトアドレスではない（Externally Owned Account: EOA）なら，payloadはどれだけのETHを送るかを示す"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "もし相手のアドレスがコントラクトアドレスなら，payloadはコントラクトの関数（バイトコード）を実行するための情報（関数名や引数など）になる"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "EVMは，コントラクトアドレスに紐づいている，バイトコードを実行する役割を果たす"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "バイトコードを直書きするのは，どう考えてもやばすぎるので，もっと高レベル言語で書きたい→コンパイラが必要"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "高レベル言語の例：Solidity，Rust，Vyper, JavaScriptなど （あくまでもSolidityは最初に作られたスマコン用の言語で使いやすいからたくさん使われているというだけ）"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "コンパイラの例： "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "solc",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (Solidity), "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "cargo",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " (Rust)など"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "クライアント（ノード）のGoでの実装がgethであり，ここにEVMの実装も含まれている"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647854520.416609",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1647854553.440729",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1647854553.440729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4295b77a-eada-4c5d-bcc3-912443502d73",
+        "type": "message",
+        "text": "しっかり理解するのは難しい",
+        "user": "U02BT600G8G",
+        "ts": "1647854553.440729",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しっかり理解するのは難しい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1647854520.416609",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

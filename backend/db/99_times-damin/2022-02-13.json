@@ -1,0 +1,211 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1644807147.918219",
+        "thread_ts": "1644807147.918219",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644807470.165579",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1644807470.165579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1644807470.165579"
+    },
+    {
+        "client_msg_id": "10b480c0-54b3-45f3-adde-db1f84940524",
+        "type": "message",
+        "text": "もちろんです！！！！！！！！！",
+        "user": "U02BT600G8G",
+        "ts": "1644807470.165579",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h0eS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もちろんです！！！！！！！！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644807147.918219",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15C3D065-33CC-4D0F-A5FC-422BF31511E6",
+        "type": "message",
+        "text": "Astarの勢いが止まらない…\n<https:\/\/t.co\/3JlItODe3Y|https:\/\/t.co\/3JlItODe3Y>",
+        "user": "U02BT600G8G",
+        "ts": "1644817291.805639",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.neweconomy.jp\/posts\/191124",
+                "ts": 1644815560,
+                "image_url": "https:\/\/s3-ap-northeast-1.amazonaws.com\/static.neweconomy.jp\/content\/uploads\/2022\/02\/14134912\/0b68e12d19765b3ffcc82e1d21fc6434.jpg",
+                "image_width": 437,
+                "image_height": 250,
+                "image_bytes": 247387,
+                "service_icon": "https:\/\/www.neweconomy.jp\/wp-content\/themes\/new_economy\/assets\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.neweconomy.jp\/posts\/191124",
+                "fallback": "あたらしい経済: アスターネットワーク（ASTR）が、約115億円規模のファンド立ち上げ | あたらしい経済",
+                "text": "アスターネットワークが、約115億円規模のファンド立ち上げ ステイクテクノロジーズ（Stake Technologies）が開発する、日本発のパブリックブロックチェーン「Astar Network（アスターネットワーク）」が、約115億円（1億ドル）規模のファンド「アスター・ブースト・プログラム（Astar Boost Program）」を立ち上げたことが2月11日に分かった。 アスターネットワー",
+                "title": "アスターネットワーク（ASTR）が、約115億円規模のファンド立ち上げ | あたらしい経済",
+                "title_link": "https:\/\/www.neweconomy.jp\/posts\/191124",
+                "service_name": "あたらしい経済"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fMpBx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Astarの勢いが止まらない…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/3JlItODe3Y",
+                                "text": "https:\/\/t.co\/3JlItODe3Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644817291.805639",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644817375.775029",
+        "reply_users": [
+            "U02AWQ4BE1L"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1644817375.775029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1644817375.775029",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F6596D73-B200-43F6-B293-562AA4734397",
+        "type": "message",
+        "text": "去年はこんな事になるとは思わんかったなぁー\nこの領域の変化激しすぎる",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644817375.775029",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n5j7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年はこんな事になるとは思わんかったなぁー\nこの領域の変化激しすぎる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644817291.805639",
+        "parent_user_id": "U02BT600G8G",
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

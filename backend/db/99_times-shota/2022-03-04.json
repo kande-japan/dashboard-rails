@@ -1,0 +1,326 @@
+[
+    {
+        "client_msg_id": "C4244C42-1DBA-490A-A2D6-287CF3DD4594",
+        "type": "message",
+        "text": "tjの系所属点高すぎる",
+        "user": "U032L2QR03F",
+        "ts": "1646399348.076849",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d5i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tjの系所属点高すぎる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646399348.076849",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1646427867.195329",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1646404277.708469"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1646427867.195329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "aa5521de-df7e-40bd-acab-f72917fe61a8",
+        "type": "message",
+        "text": "ギリギリすぎて危うく数理計算だった　アブネ〜",
+        "user": "U02BT600G8G",
+        "ts": "1646404277.708469",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9jKh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ギリギリすぎて危うく数理計算だった　アブネ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646399348.076849",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "22887378-8101-41F7-B7DE-7A3BBBBC162B",
+        "type": "message",
+        "text": "ある程度のライン超えてたら変わらないからなぁ",
+        "user": "U02FXPP41QD",
+        "ts": "1646427867.195329",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cibz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ある程度のライン超えてたら変わらないからなぁ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646399348.076849",
+        "parent_user_id": "U032L2QR03F",
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9087c728-5f84-4a16-a675-7e93acd1d8c2",
+        "type": "message",
+        "text": "テストコードこのハンドラだけで1,400行行った:innocent:",
+        "user": "U032L2QR03F",
+        "ts": "1646452584.907019",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2BPN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テストコードこのハンドラだけで1,400行行った"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fearful",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63e2a6d9-a15b-4cfc-a930-8b7ce638cd2f",
+        "type": "message",
+        "text": "<https:\/\/kandejp.slack.com\/archives\/C032P0LG3GT\/p1645798354518889>",
+        "user": "U032L2QR03F",
+        "ts": "1646452590.348669",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kandejp.slack.com\/archives\/C032P0LG3GT\/p1645798354518889",
+                "ts": "1645798354.518889",
+                "author_id": "U032L2QR03F",
+                "channel_team": "T02B0FUHKV3",
+                "channel_id": "C032P0LG3GT",
+                "channel_name": "99_times-shota",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02B0FUHKV3",
+                        "channel": "C032P0LG3GT",
+                        "ts": "1645798354.518889",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "EFaMs",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "ハンドラデカすぎてその関数一個でユニットテスト書くのに2時間以上かけててくそ時間もったいない"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kandejp.slack.com\/archives\/C032P0LG3GT\/p1645798354518889",
+                "fallback": "[February 25th, 2022 6:12 AM] dqx1005: ハンドラデカすぎてその関数一個でユニットテスト書くのに2時間以上かけててくそ時間もったいない",
+                "text": "ハンドラデカすぎてその関数一個でユニットテスト書くのに2時間以上かけててくそ時間もったいない",
+                "author_name": "河野将太",
+                "author_link": "https:\/\/kandejp.slack.com\/team\/U032L2QR03F",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_48.jpg",
+                "author_subname": "河野将太",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#99_times-shota に投稿"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1es1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kandejp.slack.com\/archives\/C032P0LG3GT\/p1645798354518889"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac9d4168-c0e2-4774-b8c1-a0f11b333196",
+        "type": "message",
+        "text": "ちゃんとテストした分色々改善できたけど...",
+        "user": "U032L2QR03F",
+        "ts": "1646452627.252149",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FNT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちゃんとテストした分色々改善できたけど..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

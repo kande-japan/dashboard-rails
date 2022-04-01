@@ -13,6 +13,7 @@ Rails.application.routes.draw do
       post 'token/refresh', to: 'sessions#refresh'
       resources :users, only: %i[index create]
       resources :contents, only: %i[index]
+      resources :content_categories, only: %i[create update]
     end
   end
 end

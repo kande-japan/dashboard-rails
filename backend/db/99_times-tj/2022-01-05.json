@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "4FB7DC5A-6F92-4C69-9399-0CC2A3B17006",
+        "type": "message",
+        "text": "The Tech That Will Invade Our Lives in 2022\n<https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare|https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare>",
+        "user": "U02FXPP41QD",
+        "ts": "1641428245.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2022\/01\/05\/business\/05Techfix-illo\/05Techfix-illo-largeHorizontalJumbo.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 683,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/nytimes.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare",
+                "fallback": "The New York Times The Tech That Will Invade Our Lives in 2022",
+                "text": "Here we go again: Virtual reality, now dubbed ‘the metaverse,’ will be a thing. So will the smart home.",
+                "title": "The Tech That Will Invade Our Lives in 2022",
+                "title_link": "https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare",
+                "author_name": "By Brian X. Chen",
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ABDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Tech That Will Invade Our Lives in 2022\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare",
+                                "text": "https:\/\/www.nytimes.com\/2022\/01\/05\/technology\/personaltech\/tech-2022-vr-metaverse.html?referringSource=articleShare"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

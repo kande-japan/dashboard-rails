@@ -1,0 +1,439 @@
+[
+    {
+        "client_msg_id": "0EE8432C-2DCD-4F5B-93D8-4584C23719D6",
+        "type": "message",
+        "text": "ちょっともったいなさもあるけど今日でピクシブ退職することにした",
+        "user": "U032L2QR03F",
+        "ts": "1646202782.831829",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bp5WR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっともったいなさもあるけど今日でピクシブ退職することにした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646202782.831829",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1646203910.700509",
+        "reply_users": [
+            "U02BT600G8G",
+            "U032L2QR03F"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1646202886.432499"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1646202916.265939"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1646203910.700509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4B2A27AE-CBC3-4C7E-999C-15CE8980FB84",
+        "type": "message",
+        "text": "ええっ！？まじ！？",
+        "user": "U02BT600G8G",
+        "ts": "1646202886.432499",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ayv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ええっ！？まじ！？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646202782.831829",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "E910FB66-913A-4B9B-8137-FBFC76A3310D",
+        "type": "message",
+        "text": "カンデサンヨロシクオネガイシマス",
+        "user": "U032L2QR03F",
+        "ts": "1646202900.234049",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ire",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "カンデサンヨロシクオネガイシマス"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "it's_god",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78105385-4E93-407B-9446-64BC549889A5",
+        "type": "message",
+        "text": "まじでござるよ",
+        "user": "U032L2QR03F",
+        "ts": "1646202916.265939",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "covVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まじでござるよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646202782.831829",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "F50A9DF0-64CB-4E8F-B511-5D3A00CFE8A7",
+        "type": "message",
+        "text": "もう神、ほんとに神",
+        "user": "U02BT600G8G",
+        "ts": "1646203910.700509",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iv3f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう神、ほんとに神"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646202782.831829",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "986880CE-3A58-463D-87F2-E9A7EA7998F7",
+        "type": "message",
+        "text": "追いコンでクラスター発生してて今熱出始めた",
+        "user": "U032L2QR03F",
+        "ts": "1646204938.532539",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "htsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追いコンでクラスター発生してて今熱出始めた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F7CC0A5C-4E2D-4C9E-8DB7-18690A1C1289",
+        "type": "message",
+        "text": "オワタ",
+        "user": "U032L2QR03F",
+        "ts": "1646204944.658929",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "オワタ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B39C4A96-AFD9-45FC-B128-4DA2F4CB0CD7",
+        "type": "message",
+        "text": "100%コロナです",
+        "user": "U032L2QR03F",
+        "ts": "1646204951.791459",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100%コロナです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "mask",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cry",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8E18AA98-926B-42C8-B627-57A44B5F5B69",
+        "type": "message",
+        "text": "とりあえず英語勉強すればいいのかな",
+        "user": "U032L2QR03F",
+        "ts": "1646206432.458719",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tUcUJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とりあえず英語勉強すればいいのかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

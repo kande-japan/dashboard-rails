@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "347BBACA-3CB8-4813-BCDD-DE566711C453",
+        "type": "message",
+        "text": "住所入力フォームのUIだけでこれだけ語れるのすごい\n\n<https:\/\/blog.kenall.jp\/entry\/address-form-best-practice|https:\/\/blog.kenall.jp\/entry\/address-form-best-practice>",
+        "user": "U02FXPP41QD",
+        "ts": "1646227843.546159",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/blog.kenall.jp\/entry\/address-form-best-practice",
+                "ts": 1646006400,
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/k\/kenall\/20220225\/20220225163230.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 59915,
+                "service_icon": "https:\/\/blog.kenall.jp\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/blog.kenall.jp\/entry\/address-form-best-practice",
+                "fallback": "ケンオールブログ: これだけは押さえよう！住所フォームの作り方 - ケンオールブログ",
+                "text": "まとめ 住所フォームの作り方 住所フォームを作るときには以下の4つを押さえましょう。 オートコンプリート機能に最適化する 郵便番号フィールドは1フィールドにしてハイフン有無どちらも対応する モバイルUX優先なら郵便番号が入力されたら即座に補完。精度優先なら郵便番号補完ボタンを設置 住所フィールドは「都道府県」「市区町村」「町名以下」の3フィールドが基本。「建物」フィールドはオプション 本文 地域SNSのユーザー登録、ECサイトの配送先入力、資料請求、自治体サイトでの電子申請など、ウェブサービスを活用する上で住所入力は欠かすことができません。 住所入力をシンプルかつ正確に行えるような入力インタフ…",
+                "title": "これだけは押さえよう！住所フォームの作り方 - ケンオールブログ",
+                "title_link": "https:\/\/blog.kenall.jp\/entry\/address-form-best-practice",
+                "service_name": "ケンオールブログ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NHlvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "住所入力フォームのUIだけでこれだけ語れるのすごい\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.kenall.jp\/entry\/address-form-best-practice",
+                                "text": "https:\/\/blog.kenall.jp\/entry\/address-form-best-practice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "postbox",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

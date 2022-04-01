@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628840396.000200",
+        "user": "U02BT600G8G",
+        "text": "<@U02BT600G8G>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1628840402.000400",
+        "user": "U02AWQ4BE1L",
+        "text": "<@U02AWQ4BE1L>さんがチャンネルに参加しました",
+        "inviter": "U02BT600G8G"
+    }
+]

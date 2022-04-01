@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "1F5DFC8F-695C-4865-9961-453964D4C0F1",
+        "type": "message",
+        "text": "<@U02FXPP41QD> <@U032L2QR03F> \nOtsuka punksの仕事の話ですか、今先方と交渉中なのでもう少々お待ちください…！",
+        "user": "U02AWQ4BE1L",
+        "ts": "1646231732.970269",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tyq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U02FXPP41QD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U032L2QR03F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nOtsuka punksの仕事の話ですか、今先方と交渉中なのでもう少々お待ちください…！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U032L2QR03F",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

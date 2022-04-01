@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "2c5d9776-b3bf-4d7e-ace8-40a79426b89f",
+        "type": "message",
+        "text": "Chefの概要\n<https:\/\/atmarkit.itmedia.co.jp\/ait\/articles\/1305\/24\/news003.html>",
+        "user": "U02BT600G8G",
+        "ts": "1644883262.758429",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/atmarkit.itmedia.co.jp\/ait\/articles\/1305\/24\/news003.html",
+                "thumb_url": "https:\/\/image.itmedia.co.jp\/images\/logo\/1200x630_500x500_ait.gif",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/atmarkit.itmedia.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/atmarkit.itmedia.co.jp\/ait\/articles\/1305\/24\/news003.html",
+                "fallback": "＠IT: インフラストラクチャ自動化フレームワーク「Chef」の基本",
+                "text": "DevOpsというキーワードに関連して、「Chef」というツールの名前を聞いたことのある人も多いのではないでしょうか。この記事では、インフラにおける構成管理、展開作業を自動化するChefの構造および基本的な使い方について解説します。",
+                "title": "インフラストラクチャ自動化フレームワーク「Chef」の基本",
+                "title_link": "https:\/\/atmarkit.itmedia.co.jp\/ait\/articles\/1305\/24\/news003.html",
+                "service_name": "＠IT"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+=HBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chefの概要\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/atmarkit.itmedia.co.jp\/ait\/articles\/1305\/24\/news003.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644883262.758429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644885881.427709",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1644885881.427709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U032L2QR03F",
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b53abce-791e-4579-b4aa-4fdb020710cc",
+        "type": "message",
+        "text": "Chefも中身はRubyで書くようですね",
+        "user": "U02BT600G8G",
+        "ts": "1644885881.427709",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nN3h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chefも中身はRubyで書くようですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644883262.758429",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

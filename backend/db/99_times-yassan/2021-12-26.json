@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "CC77EA2F-93CC-4DBE-9A63-0AD34760E90E",
+        "type": "message",
+        "text": "<https:\/\/t.co\/kAvtcTRrDW|https:\/\/t.co\/kAvtcTRrDW>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1640584595.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/dev.classmethod.jp\/articles\/official-deepl-chrome-extension-is-awesome\/",
+                "image_url": "https:\/\/cdn-ssl-devio-img.classmethod.jp\/wp-content\/uploads\/2021\/03\/deepl.001.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 10262,
+                "service_icon": "https:\/\/dev.classmethod.jp\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/dev.classmethod.jp\/articles\/official-deepl-chrome-extension-is-awesome\/",
+                "fallback": "クラスメソッド発「やってみた」系技術メディア | DevelopersIO: DeepLの”公式”Chrome拡張がヤバイ。TwitterもSlackも英語でつぶやき放題 | DevelopersIO",
+                "text": "入力中のテキストを英語に変換してくれるなんて！",
+                "title": "DeepLの”公式”Chrome拡張がヤバイ。TwitterもSlackも英語でつぶやき放題 | DevelopersIO",
+                "title_link": "https:\/\/dev.classmethod.jp\/articles\/official-deepl-chrome-extension-is-awesome\/",
+                "service_name": "クラスメソッド発「やってみた」系技術メディア | DevelopersIO"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8psRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/kAvtcTRrDW",
+                                "text": "https:\/\/t.co\/kAvtcTRrDW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "78D04303-BA8D-4FE1-8C6D-3979D0B746CC",
+        "type": "message",
+        "text": "ほんとだサーバーが死んでる……",
+        "user": "U02BT600G8G",
+        "ts": "1643727332.472379",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NMW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほんとだサーバーが死んでる……"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643687611.954979",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "82248477-BDC2-4B9F-873F-E2EF36DF12FB",
+        "type": "message",
+        "text": "↑これはHubsのAWSをクローンしただけの何も生んでいないサイトです",
+        "user": "U02BT600G8G",
+        "ts": "1643727369.492659",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hnigf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑これはHubsのAWSをクローンしただけの何も生んでいないサイトです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "time-zone-fyi",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

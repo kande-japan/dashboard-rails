@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "12a1131f-58c5-4467-bee3-17e094abc855",
+        "type": "message",
+        "text": "MRは営業してはいけない…\n<https:\/\/xr-hub.com\/archives\/20133>",
+        "user": "U02BT600G8G",
+        "ts": "1637105917.000300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/xr-hub.com\/archives\/20133",
+                "service_name": "XRの『知』を共創するメディア XR-Hub",
+                "title": "【第二創業への飛翔】1億8,000万円を調達したホロラボ社CEO\/COOトップ対談！ | XR-Hub",
+                "title_link": "https:\/\/xr-hub.com\/archives\/20133",
+                "text": "» 【第二創業への飛翔】1億8,000万円を調達したホロラボ社CEO\/COOトップ対談！",
+                "ts": 1568363706,
+                "image_url": "https:\/\/xr-hub.com\/wp-content\/uploads\/2019\/09\/スクリーンショット-2019-09-13-16.44.48-500x250.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 174665,
+                "fallback": "XRの『知』を共創するメディア XR-Hub: 【第二創業への飛翔】1億8,000万円を調達したホロラボ社CEO\/COOトップ対談！ | XR-Hub",
+                "service_icon": "https:\/\/xr-hub.com\/wp-content\/uploads\/2018\/05\/cropped-2018-05-27-0.33.11-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/xr-hub.com\/archives\/20133"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pCbg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MRは営業してはいけない…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/xr-hub.com\/archives\/20133"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

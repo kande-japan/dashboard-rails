@@ -1,0 +1,172 @@
+[
+    {
+        "client_msg_id": "EB9F37E2-6925-4F80-B6E7-963CABC213F8",
+        "type": "message",
+        "text": "<http:\/\/jelyonmyetp.club|jelyonmyetp.club>",
+        "user": "U02FXPP41QD",
+        "ts": "1642150287.000300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "644",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/jelyonmyetp.club",
+                                "text": "jelyonmyetp.club"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "god_shining",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FC6B5629-46D6-42BD-A49B-103483270BDB",
+        "type": "message",
+        "text": "(パソコン推奨)",
+        "user": "U02FXPP41QD",
+        "ts": "1642150324.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c6ijC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(パソコン推奨)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ECACA2B-1540-409B-B371-8D6C803F14DC",
+        "type": "message",
+        "text": "<https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news|https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news>\n\nNFTのこういうところだけは分からない:innocent:",
+        "user": "U02FXPP41QD",
+        "ts": "1642203454.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news",
+                "ts": 1642197875,
+                "image_url": "https:\/\/image-cdn.hypb.st\/https%3A%2F%2Fjp.hypebeast.com%2Ffiles%2F2022%2F01%2FTW-2-ghozali-ghozalo-opensea-nft-surge-news.jpg?w=960&cbr=1&q=90&fit=max",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 61150,
+                "service_icon": "https:\/\/static.hypebeast.com\/dist\/hypebeast\/favicon\/apple-touch-icon-57x57.png?v3",
+                "id": 1,
+                "original_url": "https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news",
+                "fallback": "HYPEBEAST.JP: インドネシアの大学生の自撮り画像が1億円以上の価値を持つ NFT コレクションに",
+                "text": "現在一番高いもので約2,500万円……",
+                "title": "インドネシアの大学生の自撮り画像が1億円以上の価値を持つ NFT コレクションに",
+                "title_link": "https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news",
+                "service_name": "HYPEBEAST.JP"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTtR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news",
+                                "text": "https:\/\/hypebeast.com\/jp\/2022\/1\/ghozali-ghozalo-opensea-nft-surge-news"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nNFTのこういうところだけは分からない"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

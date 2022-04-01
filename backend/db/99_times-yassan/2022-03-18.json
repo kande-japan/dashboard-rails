@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "03777D07-5273-4C21-A9B3-7DB1BF6F53D1",
+        "type": "message",
+        "text": "solidityがバージョンアップしたっぽい\n\n<https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/|https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1647667109.415719",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/",
+                "thumb_url": "https:\/\/blog.soliditylang.org\/img\/avatar-icon.png",
+                "thumb_width": 636,
+                "thumb_height": 636,
+                "service_icon": "https:\/\/blog.soliditylang.org\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/",
+                "fallback": "Solidity 0.8.13 Release Announcement",
+                "text": "Solidity v0.8.13 fixes an important bug related to abi.encodeCall, extends the using for directive and implements “go to definition” for the language server. Furthermore, compiling via the new Yul IR pipeline is now considered production ready. Important Bugs When abi.encodeCall was introduced in Solidity 0.8.11, hex literals (0x1234) and string...",
+                "title": "Solidity 0.8.13 Release Announcement",
+                "title_link": "https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/",
+                "service_name": "blog.soliditylang.org"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MpTb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "solidityがバージョンアップしたっぽい\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/",
+                                "text": "https:\/\/blog.soliditylang.org\/2022\/03\/16\/solidity-0.8.13-release-announcement\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

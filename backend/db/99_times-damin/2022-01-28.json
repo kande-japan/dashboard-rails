@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "8B2910D3-5E77-4736-AD9C-5D9F82EC22D5",
+        "type": "message",
+        "text": "エグすぎるだろ\n<https:\/\/youtu.be\/xeBpp3GcScM|https:\/\/youtu.be\/xeBpp3GcScM>",
+        "user": "U02BT600G8G",
+        "ts": "1643414717.365199",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/xeBpp3GcScM",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xeBpp3GcScM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/xeBpp3GcScM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/xeBpp3GcScM",
+                "fallback": "YouTube Video: Welcome, Ziva Dynamics!",
+                "title": "Welcome, Ziva Dynamics!",
+                "title_link": "https:\/\/youtu.be\/xeBpp3GcScM",
+                "author_name": "Unity",
+                "author_link": "https:\/\/www.youtube.com\/c\/unity",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCvS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "エグすぎるだろ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/xeBpp3GcScM",
+                                "text": "https:\/\/youtu.be\/xeBpp3GcScM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D1B02B29-6DCA-4A42-A568-E253E2451B41",
+        "type": "message",
+        "text": "人間としか思えない",
+        "user": "U02BT600G8G",
+        "ts": "1643414730.439749",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cbar",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "人間としか思えない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

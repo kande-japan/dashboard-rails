@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "1f92c6d9-3612-4e9a-9d70-1c7561782f29",
+        "type": "message",
+        "text": "transaction内の操作するテーブルの順を一貫させないとデットロックになるの初めて知った。\n[MySQLのデッドロックについて - mita2 database life (<http:\/\/hateblo.jp|hateblo.jp>)](<https:\/\/mita2db.hateblo.jp\/entry\/mysql-deadlock?msclkid=a42d0b86a8ca11ec99bc3ad7469c0a3c>)",
+        "user": "U032L2QR03F",
+        "ts": "1647835953.634469",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/mita2db.hateblo.jp\/entry\/mysql-deadlock?msclkid=a42d0b86a8ca11ec99bc3ad7469c0a3c",
+                "ts": 1512604800,
+                "image_url": "https:\/\/ogimage.blog.st-hatena.com\/26006613469370122\/26006613469373240\/1574390279",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 32799,
+                "service_icon": "https:\/\/mita2db.hateblo.jp\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/mita2db.hateblo.jp\/entry\/mysql-deadlock?msclkid=a42d0b86a8ca11ec99bc3ad7469c0a3c",
+                "fallback": "mita2 database life: MySQLのデッドロックについて - mita2 database life",
+                "text": "この記事は MySQL Casual Advent Calendar 2017 の7日目です。 最近、デッドロックを真剣に対応する機会があったのでその時のメモです。 デッドロックとは？ デッドロックとは「複数のトランザクションが互いがロックの開放を待ち、結果として、どの処理も先に進めなくなってしまった状態」を指す。 単にロック待ちが長時間になっているケースはデッドロックとは呼ばない。 時間 TRANSACTION(1) TRANSACTION(2) 1 BEGIN 2 BEGIN 3 UPDATE t1 SET col1 = 'session1' WHERE pk = 1; 4 UPDATE …",
+                "title": "MySQLのデッドロックについて - mita2 database life",
+                "title_link": "https:\/\/mita2db.hateblo.jp\/entry\/mysql-deadlock?msclkid=a42d0b86a8ca11ec99bc3ad7469c0a3c",
+                "service_name": "mita2 database life"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9P2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "transaction内の操作するテーブルの順を一貫させないとデットロックになるの初めて知った。\n[MySQLのデッドロックについて - mita2 database life ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/hateblo.jp",
+                                "text": "hateblo.jp"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")]("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/mita2db.hateblo.jp\/entry\/mysql-deadlock?msclkid=a42d0b86a8ca11ec99bc3ad7469c0a3c"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "exactly",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

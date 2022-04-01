@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "50AFF5B7-D439-4CF6-A0BB-EEDD5DDB4865",
+        "type": "message",
+        "text": "wordle が NYTimes に ~1 億円~ 数億円で買収されたとはすごいな\n\n<https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html|https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html>",
+        "user": "U02FXPP41QD",
+        "ts": "1643669222.094089",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02FXPP41QD",
+            "ts": "1643675056.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2022\/01\/31\/business\/31tk\/31tk-largeHorizontalJumbo.jpg",
+                "thumb_width": 1024,
+                "thumb_height": 682,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/nytimes.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html",
+                "fallback": "The New York Times The New York Times Buys Wordle",
+                "text": "The word game, released in October, has millions of daily users.",
+                "title": "The New York Times Buys Wordle",
+                "title_link": "https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html",
+                "author_name": "By Marc Tracy",
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wordle が NYTimes に"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1 億円 ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "数億円で買収されたとはすごいな\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html",
+                                "text": "https:\/\/www.nytimes.com\/2022\/01\/31\/business\/media\/new-york-times-wordle.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643669222.094089",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1643695379.572899",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643683049.566699"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1643695379.572899"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31902f62-962f-4969-81bf-3442f8ab82ed",
+        "type": "message",
+        "text": "ローンチからわずか4ヶ月ないんだね",
+        "user": "U02BT600G8G",
+        "ts": "1643683049.566699",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qwf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ローンチからわずか4ヶ月ないんだね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643669222.094089",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "B2E57AA0-42BD-46EB-A413-F1FFCBEF0D3B",
+        "type": "message",
+        "text": "かなり新しいみたいね",
+        "user": "U02FXPP41QD",
+        "ts": "1643695379.572899",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rib",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かなり新しいみたいね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643669222.094089",
+        "parent_user_id": "U02FXPP41QD"
+    }
+]

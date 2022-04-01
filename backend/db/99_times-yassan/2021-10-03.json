@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "0945EA38-01F1-4438-B0E4-DC7DE4E19ED4",
+        "type": "message",
+        "text": "最初の広げ方は、先に病院側(最初は高単価案件という条件を設けるのもあり)集め、研究医志望を中心にバイラルに広げてもらう、って感じになるんかな。\n\n<https:\/\/startuptimez.com\/nfx\/chicken_egg|https:\/\/startuptimez.com\/nfx\/chicken_egg>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633315014.002900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "スタタイ",
+                "title": "マーケットプレイスにおける鶏と卵問題を解決するための19の戦術",
+                "title_link": "https:\/\/startuptimez.com\/nfx\/chicken_egg",
+                "text": "60社以上の初期のマーケットプレイススタートアップに投資し、アドバイザーを務めてきた私たちは、マーケットプレイスを立ち上げるために何が必要なのかに注目してきました。 供給と需要のどちらが先なのか？鶏か卵か？私たちは、創業者が「鶏か卵か」問題を解決するために利用できる、少なくとも19の明確で実行可能な戦術を発見しました。 戦術1：難しい側を先に手に入れる。 難しい側（供給 or 需要）が活動",
+                "fallback": "スタタイ: マーケットプレイスにおける鶏と卵問題を解決するための19の戦術",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb12b8da9-4854-4979-9aaa-b07171fb39b6%2F__(2).jpg?table=block&id=0eb5618d-7453-4087-9bc1-3327f75f2a3b&cache=v2&userId=22e6b418-445b-4d17-a706-80096ead9ea2&width=1200",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/startuptimez.com\/nfx\/chicken_egg",
+                "image_bytes": 53735,
+                "service_icon": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/notionstyles.appspot.com\/o\/users%2Fc8YwN78tS9Pk5jkzm9HBj7ViOSl1%2F70062798-ffa0-481f-bd95-197d87b9cc56.png?alt=media&amp;token=57236ded-3b00-48ff-9eda-b0318b92b962",
+                "id": 1,
+                "original_url": "https:\/\/startuptimez.com\/nfx\/chicken_egg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Usn9f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最初の広げ方は、先に病院側(最初は高単価案件という条件を設けるのもあり)集め、研究医志望を中心にバイラルに広げてもらう、って感じになるんかな。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/startuptimez.com\/nfx\/chicken_egg",
+                                "text": "https:\/\/startuptimez.com\/nfx\/chicken_egg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

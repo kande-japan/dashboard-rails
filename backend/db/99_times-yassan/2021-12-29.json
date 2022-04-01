@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "BF8EC3BA-F6CD-4829-8B0F-7FFD49DA57DC",
+        "type": "message",
+        "text": "<https:\/\/www.mag2.com\/m\/0001323030|https:\/\/www.mag2.com\/m\/0001323030>\n\nこれ登録するのありやな\nエンジニア界隈でかなり有名らしい",
+        "user": "U02AWQ4BE1L",
+        "ts": "1640823208.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.mag2.com\/m\/0001323030",
+                "thumb_url": "https:\/\/www.mag2.com\/images\/MagazineCover\/0001323030c.jpg",
+                "thumb_width": 459,
+                "thumb_height": 375,
+                "service_icon": "https:\/\/www.mag2.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.mag2.com\/m\/0001323030",
+                "fallback": "まぐまぐ: 週刊 Life is beautiful - まぐまぐ！",
+                "text": "「エンジニアのための経営学講座」を中心としたゼミ形式のメルマガ。世界に通用するエンジニアになるためには、今、何を勉強すべきか、どんな時間の過ごし方をすべきか。毎週火曜日発行。連載：菅首相に会って来た／米国で起業する時に知っておかねばならないこと。",
+                "title": "週刊 Life is beautiful - まぐまぐ！",
+                "title_link": "https:\/\/www.mag2.com\/m\/0001323030",
+                "service_name": "まぐまぐ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mag2.com\/m\/0001323030",
+                                "text": "https:\/\/www.mag2.com\/m\/0001323030"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nこれ登録するのありやな\nエンジニア界隈でかなり有名らしい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

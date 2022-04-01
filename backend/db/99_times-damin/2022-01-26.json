@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "81767BF6-3F66-42B9-A359-FD829DE33E94",
+        "type": "message",
+        "text": "<https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764|https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764>",
+        "user": "U02BT600G8G",
+        "ts": "1643216150.573379",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764",
+                "image_url": "https:\/\/www.notion.so\/image\/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F27e73c2b-9709-4873-a0ad-aea5087e0000%2FUntitled.png?table=block&id=be0df90d-01d5-4bb9-ac0e-805f6c1405ad&width=2000&userId=&cache=v2",
+                "image_width": 240,
+                "image_height": 240,
+                "image_bytes": 8935,
+                "id": 1,
+                "original_url": "https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764",
+                "fallback": "nobumeii's Notion on Notion: [Daily Topics]なぜ日本のNFTマーケットプレイスがYoutuberの電子うんこを垂れ流さざるを得ないのか、その理由を徹底解説",
+                "text": "Daily TopicsのBacklogとして残しているページになります。 最新の日付のTopicsはこちら → @Daily Topics",
+                "title": "[Daily Topics]なぜ日本のNFTマーケットプレイスがYoutuberの電子うんこを垂れ流さざるを得ないのか、その理由を徹底解説",
+                "title_link": "https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764",
+                "service_name": "nobumeii's Notion on Notion"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KeC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764",
+                                "text": "https:\/\/www.notion.so\/Daily-Topics-NFT-Youtuber-b94bada4c71b40e5a568f334aa6a2764"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

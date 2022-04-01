@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "3f781dc7-ba33-4026-8322-18c6dcf07a68",
+        "type": "message",
+        "text": "railsのapiモードでsession_storeをredisに設定するのが相当面倒だったけど一発で解決してくれる記事。",
+        "user": "U032L2QR03F",
+        "ts": "1644892175.443849",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5bty",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "railsのapiモードでsession_storeをredisに設定するのが相当面倒だったけど一発で解決してくれる記事。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD",
+                    "U02BT600G8G"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aed7b6de-81bd-46a0-a67e-7d70889bc2ce",
+        "type": "message",
+        "text": "<https:\/\/tech.drecom.co.jp\/ac2021-rails-api-only-setup-session-store-redis\/>",
+        "user": "U032L2QR03F",
+        "ts": "1644892179.500909",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/tech.drecom.co.jp\/ac2021-rails-api-only-setup-session-store-redis\/",
+                "ts": 1638324037,
+                "image_url": "https:\/\/tech.drecom.co.jp\/wp-content\/uploads\/2021\/11\/eyecatch_AC2021_day1-fs8.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 164055,
+                "service_icon": "https:\/\/tech.drecom.co.jp\/wp-content\/uploads\/2016\/03\/cropped-site-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/tech.drecom.co.jp\/ac2021-rails-api-only-setup-session-store-redis\/",
+                "fallback": "Tech Inside Drecom: API 専用 Rails における session_store redis の設定方法",
+                "text": "API 専用アプリケーションとして作成した Rails プロジェクトにおける session_store の設定が効かなくて困っていませんか？対応についてまとめました。",
+                "title": "API 専用 Rails における session_store redis の設定方法",
+                "title_link": "https:\/\/tech.drecom.co.jp\/ac2021-rails-api-only-setup-session-store-redis\/",
+                "service_name": "Tech Inside Drecom"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4zU6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/tech.drecom.co.jp\/ac2021-rails-api-only-setup-session-store-redis\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c98df498-5c05-4df6-941d-914d0c1bfdb7",
+        "type": "message",
+        "text": "ソースコード見てここまで理解できるのまじで強いと思う",
+        "user": "U032L2QR03F",
+        "ts": "1644893223.570079",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7gwo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ソースコード見てここまで理解できるのまじで強いと思う"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

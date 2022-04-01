@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "6c51fa53-10b6-43d0-97ba-6171468977f8",
+        "type": "message",
+        "text": "<https:\/\/drsprime.com\/>\n二宮さんの友人の会社\nリリース2年くらいで、売上3億円くらい",
+        "user": "U02AWQ4BE1L",
+        "ts": "1635758116.000400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Dr.'s Prime -医師の働き方を最適化する、高額アルバイト求人情報サービス-",
+                "title_link": "https:\/\/drsprime.com\/",
+                "text": "どこよりも高い給与を全案件で提供",
+                "fallback": "Dr.'s Prime -医師の働き方を最適化する、高額アルバイト求人情報サービス-",
+                "image_url": "https:\/\/drsprime.com\/img\/og.jpg",
+                "from_url": "https:\/\/drsprime.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 61656,
+                "service_icon": "https:\/\/drsprime.com\/icons\/favicon.ico",
+                "service_name": "drsprime.com",
+                "id": 1,
+                "original_url": "https:\/\/drsprime.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FjMtx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drsprime.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n二宮さんの友人の会社\nリリース2年くらいで、売上3億円くらい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "type": "message",
+        "text": "coincheck、ナスダック上場を計画…！！\n<https:\/\/www.coindeskjapan.com\/142522\/>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1647936778.773959",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.coindeskjapan.com\/142522\/",
+                "ts": 1647935738,
+                "image_url": "https:\/\/www.coindeskjapan.com\/wp-content\/uploads\/2020\/08\/coincheckimage-scaled.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 531155,
+                "service_icon": "https:\/\/www.coindeskjapan.com\/wp-content\/uploads\/2019\/02\/cropped-cropped-coindesk-new-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.coindeskjapan.com\/142522\/",
+                "fallback": "CoinDesk Japan: コインチェック、ナスダックに上場へ──SPAC上場計画を発表 | coindesk JAPAN | コインデスク・ジャパン",
+                "text": "暗号資産（仮想通貨）取引サービスを手がけるコインチェック（Coincheck）が、米国のナスダック市場に株式を上場する計画を明らかにした。実現すれば、日本の暗号 ...",
+                "title": "コインチェック、ナスダックに上場へ──SPAC上場計画を発表 | coindesk JAPAN | コインデスク・ジャパン",
+                "title_link": "https:\/\/www.coindeskjapan.com\/142522\/",
+                "service_name": "CoinDesk Japan"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "god",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

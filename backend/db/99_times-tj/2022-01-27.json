@@ -1,0 +1,277 @@
+[
+    {
+        "client_msg_id": "894F084D-410F-46A7-8A5C-ED0C50DE7507",
+        "type": "message",
+        "text": "ジェネリクスいいよね。わかる。\n\n<https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb|https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb>\n",
+        "user": "U02FXPP41QD",
+        "ts": "1643289795.174799",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU3JUI2JTk5JUU2JTg5JUJGJUUzJTgyJTgyJUU4JTgwJTgzJUU2JTg1JUFFJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgzJUExJUUzJTgyJUJEJUUzJTgzJTgzJUUzJTgzJTg5JUUzJTgzJTgxJUUzJTgyJUE3JUUzJTgzJUJDJUUzJTgzJUIzJUUzJTgyJTkyJUU2JTlCJUI4JUUzJTgxJThGJUU2JTk2JUI5JUU2JUIzJTk1JUUzJTgwJTkwQyUyMyVFMyU4MCU5MSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YmYyOWJjYzRmZDQ5MTViNmQ4NzQ4ZmE2YTM3OWExNDI%26mark-x%3D142%26mark-y%3D112%26s%3D624ae1f43d834e11590cbfb715697d2b?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwRGFtaW4zOTI3JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1mNjU0ZTBhMjExYzY3YzhiZjA5YzMwYmZhOTUxMTAxZg&mark-x=142&mark-y=491&s=8938da0745bb0b5b768468b38e81d73e",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 48382,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb",
+                "fallback": "Qiita: 継承も考慮したメソッドチェーンを書く方法【C#】 - Qiita",
+                "text": "UnityでC#のスクリプトを書いている中で、同じクラスに複数の処理をすることがあり、メソッドチェーンにできないかと工夫した結果を共有します。 メソッドチェーンとは？ これはどのプログラミング言語にも共通する概念ですが、複数の処...",
+                "title": "継承も考慮したメソッドチェーンを書く方法【C#】 - Qiita",
+                "title_link": "https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UbEsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジェネリクスいいよね。わかる。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb",
+                                "text": "https:\/\/qiita.com\/Damin3927\/items\/f1407f18bea285995ceb"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643289795.174799",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1643333369.295359",
+        "reply_users": [
+            "U02FXPP41QD",
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1643290421.139929"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643296493.008399"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1643322063.273229"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643333369.295359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62BB7A94-2977-47BE-9341-29C4079F4913",
+        "type": "message",
+        "text": "でもこうやってみると Swift の protocol \/ extension は本当に優秀だなと思う(Swiftおじさんの譫言は無視してください())",
+        "user": "U02FXPP41QD",
+        "ts": "1643290421.139929",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02FXPP41QD",
+            "ts": "1643290591.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ziq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "でもこうやってみると Swift の protocol \/ extension は本当に優秀だなと思う(Swiftおじさんの譫言は無視してください())"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643289795.174799",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "31F750B6-A748-473B-BE8B-BDB32EF2C2EF",
+        "type": "message",
+        "text": "他でいうところのinterfaceとabstract class的な感じか…！",
+        "user": "U02BT600G8G",
+        "ts": "1643296493.008399",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EZsu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他でいうところのinterfaceとabstract class的な感じか…！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643289795.174799",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "5A8D13E9-96F0-4945-94C5-449FE4277E35",
+        "type": "message",
+        "text": "そうそう！特に Swift は class を使わない傾向があるので実装の要になるんだよね",
+        "user": "U02FXPP41QD",
+        "ts": "1643322063.273229",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GRc71",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうそう！特に Swift は class を使わない傾向があるので実装の要になるんだよね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643289795.174799",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "a292405b-2c69-4fa5-a649-7e8eed6b8b24",
+        "type": "message",
+        "text": "なるほどね！\nイマドキの関数型言語とかも書けるようになりたいな",
+        "user": "U02BT600G8G",
+        "ts": "1643333369.295359",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I39Xr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどね！\nイマドキの関数型言語とかも書けるようになりたいな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643289795.174799",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

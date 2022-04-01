@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "50e50a11-883d-4f95-8ec2-7b555049a929",
+        "type": "message",
+        "text": "vitalikのblog(?)をみつけた\n<https:\/\/vitalik.ca\/>",
+        "user": "U02BT600G8G",
+        "ts": "1648391549.356749",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G5hI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vitalikのblog(?)をみつけた\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vitalik.ca\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12C5888E-0098-45F3-B779-E54F41F8F41A",
+        "type": "message",
+        "text": "次の時代はwasmなのかもしれない…\n<https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes|https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes>",
+        "user": "U02BT600G8G",
+        "ts": "1648438980.855829",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes",
+                "ts": 1636869843,
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/B\/BioErrorLog\/20211110\/20211110003501.png",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 44750,
+                "service_icon": "https:\/\/www.bioerrorlog.work\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes",
+                "fallback": "BioErrorLog Tech Blog: Dfinityが目指す15個の目的を理解する | Internet Computer, ICP - BioErrorLog Tech Blog",
+                "text": "Dfinity \/ Internet Computerが目指している15個の目的をまとめます。 はじめに Dfinityが目指す15個の目的 公共財として成長し続けるネットワーク効果 インターネットそのものに匹敵する可用性 デフォルトでセキュアかつプライバシーを保つ仕組み システムの複雑性とスケール問題の解決 インターネットの\"エッジ\"で動くウェブスピードのブロックチェーン ブロックチェーンシステムからの厄介な仲介者の排除 ブロックチェーンシステム特有のユーザビリティ問題の解決 自律的な進化を実現するガバナンスシステム トークンガバナンスによる“Open Internet Service”の実…",
+                "title": "Dfinityが目指す15個の目的を理解する | Internet Computer, ICP - BioErrorLog Tech Blog",
+                "title_link": "https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes",
+                "service_name": "BioErrorLog Tech Blog"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0jl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次の時代はwasmなのかもしれない…\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes",
+                                "text": "https:\/\/www.bioerrorlog.work\/entry\/dfinity-15-purposes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

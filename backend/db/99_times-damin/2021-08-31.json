@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "dfac774c-cccb-469e-b647-d6bcbd135512",
+        "type": "message",
+        "text": "ウェブ制作の究極のお手本\n<https:\/\/baigie.me\/sogitani\/2018\/08\/baigie-workflow\/>",
+        "user": "U02BT600G8G",
+        "ts": "1630395128.002100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ベイジの社長ブログ",
+                "title": "ベイジのweb制作ワークフロー2018（140のタスクと解説） | ベイジの社長ブログ",
+                "title_link": "https:\/\/baigie.me\/sogitani\/2018\/08\/baigie-workflow\/",
+                "text": "ベイジで社内のワークフローを整理しだしたのは確か2014年頃です。その頃はまだ4～5人しか社員がいない状態で、タスクの粒...",
+                "fallback": "ベイジの社長ブログ: ベイジのweb制作ワークフロー2018（140のタスクと解説） | ベイジの社長ブログ",
+                "image_url": "https:\/\/baigie.me\/sogitani\/wp-content\/uploads\/workflow.png",
+                "from_url": "https:\/\/baigie.me\/sogitani\/2018\/08\/baigie-workflow\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 549052,
+                "service_icon": "https:\/\/baigie.me\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/baigie.me\/sogitani\/2018\/08\/baigie-workflow\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WxFv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ウェブ制作の究極のお手本\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/baigie.me\/sogitani\/2018\/08\/baigie-workflow\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1632903277.000100",
+        "user": "U02BT600G8G",
+        "text": "チャンネル名を「times-damin」から「99_times-damin」に変更しました",
+        "old_name": "times-damin",
+        "name": "99_times-damin"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1632903731.000300",
+        "user": "U02FXPP41QD",
+        "text": "<@U02FXPP41QD>さんがチャンネルに参加しました",
+        "inviter": "U02BT600G8G"
+    }
+]

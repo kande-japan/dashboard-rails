@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "E284359D-F6EF-4B54-9E97-9AB0D5F1BA93",
+        "type": "message",
+        "text": "哲学の講義でNFT系の話出てきておおって思ってたけどそういえば同じの取ってるんだった",
+        "user": "U02FXPP41QD",
+        "ts": "1643017461.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E=PcV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "哲学の講義でNFT系の話出てきておおって思ってたけどそういえば同じの取ってるんだった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643017461.000100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1643018915.000400",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1643018634.000200"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1643018915.000400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0cecbb97-c3b1-45d8-9d73-aa8a7c332d93",
+        "type": "message",
+        "text": "クリプトが〜っていう質問したのは残念ながら私だね",
+        "user": "U02BT600G8G",
+        "ts": "1643018634.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DYdpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クリプトが〜っていう質問したのは残念ながら私だね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643017461.000100",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E57FA199-C8B6-418C-9849-27BF8AEB2977",
+        "type": "message",
+        "text": "そうそうすげえ人いるなって感心してたらあれ？同じだったよなあって思い出した",
+        "user": "U02FXPP41QD",
+        "ts": "1643018915.000400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mtfoa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうそうすげえ人いるなって感心してたらあれ？同じだったよなあって思い出した"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1643017461.000100",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "speak_no_evil",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

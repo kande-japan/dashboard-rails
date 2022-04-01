@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "C118804A-B0EA-4C57-83E9-E3293D2B3103",
+        "type": "message",
+        "text": "未来にしか行けないと思ってたけどワンチャン過去にもタイムスリップできるのか\n\n<https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4|https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4>",
+        "user": "U032L2QR03F",
+        "ts": "1646351649.322979",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4",
+                "image_url": "https:\/\/www.tel.co.jp\/museum\/magazine\/022\/img\/pic_top_rep_image02_03.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 249599,
+                "service_icon": "https:\/\/www.tel.co.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4",
+                "fallback": "TELESCOPE Magazine: TELESCOPE Magazine | サイエンス リポート | 過去や未来へ旅しよう！タイムマシンは実現できるか?",
+                "text": "ナノテクノロジーと半導体技術が可能にする未来はどのような世界なのか。最前線で活躍する研究者やプロジェクトを取材し、未来社会の風景を先取りしてお届けします",
+                "title": "TELESCOPE Magazine | サイエンス リポート | 過去や未来へ旅しよう！タイムマシンは実現できるか?",
+                "title_link": "https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4",
+                "service_name": "TELESCOPE Magazine"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "未来にしか行けないと思ってたけどワンチャン過去にもタイムスリップできるのか\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4",
+                                "text": "https:\/\/www.tel.co.jp\/museum\/magazine\/022\/report02_03\/?section=4"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

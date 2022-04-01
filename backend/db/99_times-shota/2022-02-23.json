@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "cbd11a32-64f5-43c7-ac2a-e9269212090a",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/Shiruba\/items\/7810a686d8510fd1555a>",
+        "user": "U032L2QR03F",
+        "ts": "1645613996.694329",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/Shiruba\/items\/7810a686d8510fd1555a",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9UmVkaXMlRTMlODElQTglRTMlODIlQUQlRTMlODMlQTMlRTMlODMlODMlRTMlODIlQjclRTMlODMlQTUlRTMlODElQUIlRTMlODElQTQlRTMlODElODQlRTMlODElQTYlRTclOTAlODYlRTglQTclQTMlRTMlODIlOTIlRTYlQjclQjElRTMlODIlODElRTMlODElQTYlRTMlODElQkYlRTMlODElOUYlRTMlODAlODImdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWUwNWQwNTNkZTM5MzVmMTU3YWJhNDE2NDc1ZTU2Yzg3&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwU2hpcnViYSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YTYyNjMwZjE5NDg4NDI3OTViODY4MTNhMzUwOTFjNjU&blend-x=142&blend-y=491&blend-mode=normal&s=b75483544a8f533f861cf41bf8cf30bf",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 45966,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Shiruba\/items\/7810a686d8510fd1555a",
+                "fallback": "Qiita: Redisとキャッシュについて理解を深めてみた。 - Qiita",
+                "text": "業務でキャッシュに関わる部分を見る機会があり、せっかくなのでキャッシュについて理解を深めてみました。そのまとめです。 Redisとは Redisは「REmote DIctionary Server」の略です。githubのリポジ...",
+                "title": "Redisとキャッシュについて理解を深めてみた。 - Qiita",
+                "title_link": "https:\/\/qiita.com\/Shiruba\/items\/7810a686d8510fd1555a",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lni",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/Shiruba\/items\/7810a686d8510fd1555a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "400c0bd9-710f-43ee-a1a5-ea1405c06d5b",
+        "type": "message",
+        "text": "複数サーバー使うとかならrediとか使ったりするのかな",
+        "user": "U032L2QR03F",
+        "ts": "1645614155.791769",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1645614443.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLRcP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "複数サーバー使うとかならrediとか使ったりするのかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645614155.791769",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1645624906.678099",
+        "reply_users": [
+            "U02BT600G8G",
+            "U032L2QR03F"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1645624271.366229"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1645624701.169829"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1645624867.111549"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1645624906.678099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e2e6160-99e7-496d-ba09-12b7d7b20e35",
+        "type": "message",
+        "text": "複数サーバーだったら何用途で使うんだろう",
+        "user": "U02BT600G8G",
+        "ts": "1645624271.366229",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ElOh8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "複数サーバーだったら何用途で使うんだろう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645614155.791769",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "805df837-6e6f-4845-898b-17c7590a70c1",
+        "type": "message",
+        "text": "local cacheでcacheするとサーバーごとにcacheしてるものが同じじゃなくなちゃうから、別でcacheサーバーを切り分けて作りたいときに一番使いたくなる理由な気がする。",
+        "user": "U032L2QR03F",
+        "ts": "1645624701.169829",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c31bW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "local cacheでcacheするとサーバーごとにcacheしてるものが同じじゃなくなちゃうから、別でcacheサーバーを切り分けて作りたいときに一番使いたくなる理由な気がする。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645614155.791769",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "f2eca540-ceca-476b-9d1a-5a9a446ffea8",
+        "type": "message",
+        "text": "サーバーごとにapiを完全に役割分担するとかすればlocal cacheだけでなんとかすることもできるけど。他にもインメモリキャッシュならではの機能もあるみたいだけど。",
+        "user": "U032L2QR03F",
+        "ts": "1645624867.111549",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NRV5t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サーバーごとにapiを完全に役割分担するとかすればlocal cacheだけでなんとかすることもできるけど。他にもインメモリキャッシュならではの機能もあるみたいだけど。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645614155.791769",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "0d10bc01-4de7-4073-81c1-d7c56c88a982",
+        "type": "message",
+        "text": "なるほどね，クソデカRedisサーバーとして使うってことね",
+        "user": "U02BT600G8G",
+        "ts": "1645624906.678099",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4jx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどね，クソデカRedisサーバーとして使うってことね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645614155.791769",
+        "parent_user_id": "U032L2QR03F",
+        "reactions": [
+            {
+                "name": "point_left",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b3ee9506-da6d-4809-8970-8172d8654cbb",
+        "type": "message",
+        "text": "趣味でアプリ作るくらいの規模感だったら気にする必要のないキャッシュとか他のミドルウェア諸々のチューニング、スケーラブルを考慮した設計をするのとかができたら一番楽しみかもしれない",
+        "user": "U032L2QR03F",
+        "ts": "1645625007.359119",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1645625136.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kkpw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "趣味でアプリ作るくらいの規模感だったら気にする必要のないキャッシュとか他のミドルウェア諸々のチューニング、スケーラブルを考慮した設計をするのとかができたら一番楽しみかもしれない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

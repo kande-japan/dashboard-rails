@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "B658B720-9CA1-45AB-92D6-F91C9C8D2F2B",
+        "type": "message",
+        "text": "ハンドラデカすぎてその関数一個でユニットテスト書くのに2時間以上かけててくそ時間もったいない",
+        "user": "U032L2QR03F",
+        "ts": "1645798354.518889",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1645798401.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EFaMs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ハンドラデカすぎてその関数一個でユニットテスト書くのに2時間以上かけててくそ時間もったいない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4E31270A-EB2F-4FD8-AE4D-865F4A9823C1",
+        "type": "message",
+        "text": "でもバグがあるともっとだるいからなあ",
+        "user": "U032L2QR03F",
+        "ts": "1645798558.296879",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ENW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "でもバグがあるともっとだるいからなあ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A196E51F-2914-4C4F-A435-F4121CE24BF1",
+        "type": "message",
+        "text": "実際の開発現場だとバグあったらないてまう",
+        "user": "U032L2QR03F",
+        "ts": "1645798588.282419",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNYJB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実際の開発現場だとバグあったらないてまう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            },
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

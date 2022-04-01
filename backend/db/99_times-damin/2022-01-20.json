@@ -1,0 +1,168 @@
+[
+    {
+        "client_msg_id": "de20271c-3cad-437e-abd8-ede03746cd9b",
+        "type": "message",
+        "text": "Solidityはassemblyチックなことも書くのか…oncyberのコードにもチラッと載っててローレベル言語を身につけるいい機会になりそうだ\n<https:\/\/docs.soliditylang.org\/en\/v0.8.9\/yul.html>",
+        "user": "U02BT600G8G",
+        "ts": "1642697004.000900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "za=V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Solidityはassemblyチックなことも書くのか…oncyberのコードにもチラッと載っててローレベル言語を身につけるいい機会になりそうだ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.soliditylang.org\/en\/v0.8.9\/yul.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "473061ff-6aa2-427c-9645-f328484a80da",
+        "type": "message",
+        "text": "出ると思いました\n<https:\/\/jp.techcrunch.com\/2022\/01\/20\/2022-01-19-opera-launches-a-dedicated-crypto-browser\/>",
+        "user": "U02BT600G8G",
+        "ts": "1642699311.001400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/jp.techcrunch.com\/2022\/01\/20\/2022-01-19-opera-launches-a-dedicated-crypto-browser\/",
+                "image_url": "https:\/\/jp.techcrunch.com\/wp-content\/uploads\/2022\/01\/FJdjMbzWUAEPdSu.jpeg?w=1024",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 43747,
+                "service_icon": "https:\/\/jp.techcrunch.com\/wp-content\/uploads\/2021\/05\/cropped-logo_tc-1.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/jp.techcrunch.com\/2022\/01\/20\/2022-01-19-opera-launches-a-dedicated-crypto-browser\/",
+                "fallback": "TechCrunch Japan: Operaが暗号資産ウォレットやdAppsサポートを搭載したWeb3「クリプトブラウザ」ベータ版で提供開始 | TechCrunch Japan",
+                "text": "OperaのEVPであるヨルゲン・アーネンセン氏は「メインストリームユーザーが戸惑うことの多いWeb3のユーザー体験をシンプルにする」ことを目指していると声明で述べている。主な特徴は、イーサリアム、ビットコイン、セロ、ネルボスなどのブロックチェーンに対応するノンカストディアル（自己管理型）ウォレットを最初から内蔵し..",
+                "title": "Operaが暗号資産ウォレットやdAppsサポートを搭載したWeb3「クリプトブラウザ」ベータ版で提供開始 | TechCrunch Japan",
+                "title_link": "https:\/\/jp.techcrunch.com\/2022\/01\/20\/2022-01-19-opera-launches-a-dedicated-crypto-browser\/",
+                "service_name": "TechCrunch Japan"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "出ると思いました\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jp.techcrunch.com\/2022\/01\/20\/2022-01-19-opera-launches-a-dedicated-crypto-browser\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642699311.001400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642726243.000100",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1642726243.000100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ad735e5-6e68-42e2-b3ec-fe25971e5a10",
+        "type": "message",
+        "text": "そのうちWalletが内部実装されたOSも出ると踏んでいる",
+        "user": "U02BT600G8G",
+        "ts": "1642726243.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VkoD+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そのうちWalletが内部実装されたOSも出ると踏んでいる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642699311.001400",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "f774f276-3068-475a-aeb0-3671533dcd93",
+        "type": "message",
+        "text": "<https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000136.000034617.html>",
+        "user": "U02BT600G8G",
+        "ts": "1636971376.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES: HIKKY、シリーズA資金調達のファーストクローズを65億円で完了",
+                "image_url": "https:\/\/prtimes.jp\/i\/34617\/136\/ogp\/d34617-136-512e92c62612fc11b9db-1.png",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 3223561,
+                "from_url": "https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000136.000034617.html",
+                "service_name": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
+                "service_icon": "https:\/\/prtimes.jp\/common\/v4.1\/images\/html\/favicon\/apple-touch-icon-114x114.png",
+                "title": "HIKKY、シリーズA資金調達のファーストクローズを65億円で完了",
+                "title_link": "https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000136.000034617.html",
+                "text": "株式会社HIKKYのプレスリリース（2021年11月15日 15時00分）HIKKY、シリーズA資金調達のファーストクローズを65億円で完了",
+                "id": 1,
+                "original_url": "https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000136.000034617.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vKIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/prtimes.jp\/main\/html\/rd\/p\/000000136.000034617.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636971376.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1636982747.001100",
+        "reply_users": [
+            "U02AWQ4BE1L"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1636982747.001100"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1636982747.001100"
+    },
+    {
+        "client_msg_id": "73D92726-6167-4D1B-A690-4DC2C6052C25",
+        "type": "message",
+        "text": "シリーズAで65億はすごい",
+        "user": "U02AWQ4BE1L",
+        "ts": "1636982747.001100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t\/qE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "シリーズAで65億はすごい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1636971376.000600",
+        "parent_user_id": "U02BT600G8G",
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

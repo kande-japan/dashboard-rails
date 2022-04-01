@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "18E3232A-11C6-49DB-9348-7F1BD9BA5DC3",
+        "type": "message",
+        "text": "おおー\n\n<https:\/\/twitter.com\/sakinotomiura\/status\/1481254755405946882?s=21|https:\/\/twitter.com\/sakinotomiura\/status\/1481254755405946882?s=21>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642080752.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OgW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おおー\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/sakinotomiura\/status\/1481254755405946882?s=21",
+                                "text": "https:\/\/twitter.com\/sakinotomiura\/status\/1481254755405946882?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8782B3A1-0E5D-4556-9EFC-F71D1AFA6B08",
+        "type": "message",
+        "text": "<https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/|https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642090139.001100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/",
+                "ts": 1634144640,
+                "image_url": "https:\/\/www.paradigm.xyz\/wp-content\/uploads\/2021\/10\/3-1.png",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 20406,
+                "service_icon": "https:\/\/www.paradigm.xyz\/wp-content\/themes\/wpt_paradigm2021\/library\/img\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/",
+                "fallback": "Paradigm: A Guide to Designing Effective NFT Launches",
+                "text": "Blockchains revolutionized fundraising for open-source software, but not everything worked right from the start. In fact, ICOs of the 2016-2018 era were often horribly broken mechanisms that allowed…",
+                "title": "A Guide to Designing Effective NFT Launches",
+                "title_link": "https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/",
+                "service_name": "Paradigm"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fonde",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/",
+                                "text": "https:\/\/www.paradigm.xyz\/2021\/10\/a-guide-to-designing-effective-nft-launches\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

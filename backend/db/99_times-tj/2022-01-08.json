@@ -1,0 +1,363 @@
+[
+    {
+        "client_msg_id": "5ECD9323-D6C5-40DB-B064-673C3822DB1A",
+        "type": "message",
+        "text": "دامِن ",
+        "user": "U02FXPP41QD",
+        "ts": "1641628876.001400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Woob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "دامِن "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "223815EF-3167-4A9D-8C33-B744099A7805",
+        "type": "message",
+        "text": "(アラビア語でだーみん)",
+        "user": "U02FXPP41QD",
+        "ts": "1641628955.001800",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(アラビア語でだーみん)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1641641139.000600",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1641629118.002100"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1641629438.003000"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1641630117.004200"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1641632433.001000"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1641639631.000300"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1641641139.000600"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2775A4DB-CD54-4069-9F15-7057D532CF16",
+        "type": "message",
+        "text": "急にどうした、、w",
+        "user": "U02BT600G8G",
+        "ts": "1641629118.002100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wdj0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急にどうした、、w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "15F91058-E550-4EF0-B119-3DA4521E9DF2",
+        "type": "message",
+        "text": "アラビア語の勉強を始めればだーみんっていいたくなる気持ち絶対わかるw",
+        "user": "U02FXPP41QD",
+        "ts": "1641629438.003000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sPT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アラビア語の勉強を始めればだーみんっていいたくなる気持ち絶対わかるw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "6E519022-9AFC-4BDF-A3D3-0C972ABCF64D",
+        "type": "message",
+        "text": "そうなのかっていう驚きとなんでアラビア語勉強してんだっていう驚きが二重に来た",
+        "user": "U02BT600G8G",
+        "ts": "1641630117.004200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ezi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうなのかっていう驚きとなんでアラビア語勉強してんだっていう驚きが二重に来た"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "7FFE3622-5D68-44F7-96DE-1A18749F4DD8",
+        "type": "message",
+        "text": "なんとなくアラビア語を読めるようになりたいな〜って",
+        "user": "U02FXPP41QD",
+        "ts": "1641632433.001000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jKTE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんとなくアラビア語を読めるようになりたいな〜って"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "tj",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6295B0B9-BAEC-4616-BC95-43A4780687F5",
+        "type": "message",
+        "text": "生粋の変人",
+        "user": "U02BT600G8G",
+        "ts": "1641639631.000300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2\/y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "生粋の変人"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "DBFA63B3-5E2B-4034-AE2B-E9C7814CE8F0",
+        "type": "message",
+        "text": ":innocent:",
+        "user": "U02FXPP41QD",
+        "ts": "1641641139.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IC73",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1641628955.001800",
+        "parent_user_id": "U02FXPP41QD"
+    }
+]

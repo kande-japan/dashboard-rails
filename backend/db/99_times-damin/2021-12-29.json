@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "c55ca7fb-c76c-4565-85c9-c8c2a32c5671",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/teto_btc\/items\/2c4ae1a870f387100e73>",
+        "user": "U02BT600G8G",
+        "ts": "1640817964.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/teto_btc\/items\/2c4ae1a870f387100e73",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9MTAlRTclQTclOTIlRTMlODElQTc2JTJDMDAwJUU0JUI4JTg3JUU1JTg2JTg2JUU3JUE4JUJDJUUzJTgxJTg0JUUzJTgxJUEwJUUzJTgwJThDTkZUJUU5JUFCJTk4JUU5JTgwJTlGTUlOVCUyMGJvdCVFMyU4MCU4RCZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ZDllZTg3NGIxNDkxMWY3YTdhNDliNzllMGU3NmI3NTQ%26mark-x%3D142%26mark-y%3D112%26s%3D962b100d1de1e8b34af92934bae980cd?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwdGV0b19idGMmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWM4Yzg1ZjZlNWI4ZDc2ZGRkMmE1OWYxNmQyMDI2YTVh&mark-x=142&mark-y=491&s=3ccafef3195105d91c6443e0b14c9e21",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 40286,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/teto_btc\/items\/2c4ae1a870f387100e73",
+                "fallback": "Qiita: 10秒で6,000万円稼いだ「NFT高速MINT bot」 - Qiita",
+                "text": "この記事では約6,000万円（2,800 SOL）の利益をあげた、「NFT高速MINT bot」のソースコードを公開します。 NFTをmintした当時、実際に使用したソースコードです。 また、当時私がどんなことをして利益を上げたのか...",
+                "title": "10秒で6,000万円稼いだ「NFT高速MINT bot」 - Qiita",
+                "title_link": "https:\/\/qiita.com\/teto_btc\/items\/2c4ae1a870f387100e73",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zLb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/teto_btc\/items\/2c4ae1a870f387100e73"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

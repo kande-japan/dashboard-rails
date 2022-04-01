@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "DC7C58EC-469A-4A82-B89A-CFCBB44180D7",
+        "type": "message",
+        "text": "こういうクラウド型の開発環境って実際仕事する上でどうなんですかね\nGoogle colaboratoryしか使った事ないので、有識者教えて欲しいっす\n\n<https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215|https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644903213.220779",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215",
+                "ts": 1589424735,
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/m\/mbaasdevrel\/20200513\/20200513175628.png",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 529104,
+                "service_icon": "https:\/\/blog.mbaas.nifcloud.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215",
+                "fallback": "ニフクラ mobile backend（mBaaS）お役立ちブログ: 【2020年05月版】開発もクラウドで。クラウドIDEまとめ - ニフクラ mobile backend（mBaaS）お役立ちブログ",
+                "text": "アプリ開発をはじめようと思ったら、まるプログラミングエディタをダウンロードしてセットアップするところからはじめるでしょう。しかしクラウドIDEがその習慣をなくしてしまうかも知れません。 今回は最近になって続々登場しているクラウドIDEをまとめて紹介します。",
+                "title": "【2020年05月版】開発もクラウドで。クラウドIDEまとめ - ニフクラ mobile backend（mBaaS）お役立ちブログ",
+                "title_link": "https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215",
+                "service_name": "ニフクラ mobile backend（mBaaS）お役立ちブログ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ChT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こういうクラウド型の開発環境って実際仕事する上でどうなんですかね\nGoogle colaboratoryしか使った事ないので、有識者教えて欲しいっす\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215",
+                                "text": "https:\/\/blog.mbaas.nifcloud.com\/entry\/2020\/05\/14\/115215"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_with_monocle",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

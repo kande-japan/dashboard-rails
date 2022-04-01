@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "991357AD-B761-4BD6-993E-3CA1BF96BC80",
+        "type": "message",
+        "text": "<https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/|https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/>",
+        "user": "U02BT600G8G",
+        "ts": "1636163067.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "MoguraVR: ナイアンティックのAR開発者キット「Niantic Lightship ARDK」本格的な提供がスタート、11月9日から | Mogura VR",
+                "image_url": "https:\/\/www.moguravr.com\/wp-content\/uploads\/2021\/11\/202111051851551000.jpg",
+                "image_width": 518,
+                "image_height": 250,
+                "image_bytes": 20982,
+                "from_url": "https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/",
+                "service_name": "MoguraVR",
+                "service_icon": "https:\/\/www.moguravr.com\/wp-content\/uploads\/2015\/06\/smartphone-icon.png.pagespeed.ce.KEYroLTV4R.png",
+                "title": "ナイアンティックのAR開発者キット「Niantic Lightship ARDK」本格的な提供がスタート、11月9日から | Mogura VR",
+                "title_link": "https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/",
+                "text": "ナイアンティックは日本時間11月9日より、AR開発者キット「Niantic Lightship ARDK」の本格提供を開始します。同日米国で開催されるローンチイベントの字幕つき再放映が、日本時間10時より「Niantic Lightship Virtual Global Launch」として配信予定。登録・参加は無料です。 「Niantic Lightship",
+                "ts": 1636108214,
+                "id": 1,
+                "original_url": "https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+oGK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/",
+                                "text": "https:\/\/www.moguravr.com\/niantic-lightship-ardk-2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

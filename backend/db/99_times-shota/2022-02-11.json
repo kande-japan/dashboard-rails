@@ -1,0 +1,564 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568695.245949",
+        "user": "U032L2QR03F",
+        "text": "<@U032L2QR03F>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568755.655089",
+        "user": "U02BT600G8G",
+        "text": "<@U02BT600G8G>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "f0fbf153-3617-4e88-ab46-92639c579a37",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/nousi\/items\/f0ab345402362e43db80>",
+        "user": "U032L2QR03F",
+        "ts": "1644568794.103929",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/nousi\/items\/f0ab345402362e43db80",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUU3JThCJUFDJUU1JUFEJUE2JUUzJTgxJUE3JUUzJTgxJUFGJUUzJTgxJTk4JUUzJTgyJTgxJUUzJTgxJUE2QVdTJUUzJTgxJUFFRUMyJUUzJTgxJUFCJUUzJTgzJTg3JUUzJTgzJTk3JUUzJTgzJUFEJUUzJTgyJUE0JUUzJTgxJTk5JUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JUUyJTkxJUEwJUVGJUJDJTg4JUUzJTgyJUE0JUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgyJUJGJUUzJTgzJUIzJUUzJTgyJUI5JUUzJTgxJUFFJUU0JUJEJTlDJUU2JTg4JTkwJUVGJUJDJTg5JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1hNDZmZjMyODhlMGU3ZWJiMDY5ZWZmZDRlZTQ2ZDUxMA%26mark-x%3D142%26mark-y%3D112%26s%3Dbcf903356cfff59873865273afd0d2d9?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwZ3l1X291dHB1dHMmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTU1MzIyNjljNDljMjQ3NDFiZjg0NWFiYmY5N2NlZWFh&mark-x=142&mark-y=491&s=b5a029a0946752256d7965336d380e6c",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 59899,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/nousi\/items\/f0ab345402362e43db80",
+                "fallback": "Qiita: 独学ではじめてAWSのEC2にデプロイする方法①（インスタンスの作成） - Qiita",
+                "text": "AWSアカウントのリージョン設定をしよう リージョンとは、AWSの物理的なサーバの場所を指定するものです。リージョンは世界各地に10箇所以上存在し、そのうちの一つは東京にあります。 リージョンを東京に設定していきましょう 手...",
+                "title": "独学ではじめてAWSのEC2にデプロイする方法①（インスタンスの作成） - Qiita",
+                "title_link": "https:\/\/qiita.com\/nousi\/items\/f0ab345402362e43db80",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/nousi\/items\/f0ab345402362e43db80"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568890.623699",
+        "user": "U02AWQ4BE1L",
+        "text": "<@U02AWQ4BE1L>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568954.913669",
+        "user": "U02FXPP41QD",
+        "text": "<@U02FXPP41QD>さんがチャンネルに参加しました",
+        "inviter": "U02BT600G8G"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568954.974939",
+        "user": "U0328BSUGT1",
+        "text": "<@U0328BSUGT1>さんがチャンネルに参加しました",
+        "inviter": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "86E173AF-0996-48A3-A457-FD596C1A5498",
+        "type": "message",
+        "text": "コーディングテストとかいうの、競プロ未経験だから無理ゲーなんだが",
+        "user": "U032L2QR03F",
+        "ts": "1644577308.056119",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c44J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コーディングテストとかいうの、競プロ未経験だから無理ゲーなんだが"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B6187790-56BA-4794-9F88-9CACD0DC6C98",
+        "type": "message",
+        "text": "rubyのCI環境ちゃんと作ってみたいわね",
+        "user": "U032L2QR03F",
+        "ts": "1644577474.521739",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1644577499.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rubyのCI環境ちゃんと作ってみたいわね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FCAB9210-93C9-4113-8619-2CAC7D955FB8",
+        "type": "message",
+        "text": "traPの洗練されたtimes文化浸透させます",
+        "user": "U032L2QR03F",
+        "ts": "1644577586.752519",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "traPの洗練されたtimes文化浸透させます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A0759D05-171F-4DEC-8770-3413C5210F26",
+        "type": "message",
+        "text": "コーディングテスト対策、競プロをやるのが正解なのかはよくわからん",
+        "user": "U032L2QR03F",
+        "ts": "1644578826.786849",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ASer",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コーディングテスト対策、競プロをやるのが正解なのかはよくわからん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644578826.786849",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1644589143.584539",
+        "reply_users": [
+            "U02BT600G8G",
+            "U032L2QR03F"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1644580479.771679"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1644585884.499309"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1644585922.259989"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1644589143.584539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D0E04B03-10D6-42C6-B21A-B5C002976319",
+        "type": "message",
+        "text": "実際何も調べずアルゴリズム書くテストする必要あるんかとなっている(負け惜しみ)",
+        "user": "U032L2QR03F",
+        "ts": "1644578932.278759",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7C4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実際何も調べずアルゴリズム書くテストする必要あるんかとなっている(負け惜しみ)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7444C9CF-4FD8-4A1F-963C-54AA497CD279",
+        "type": "message",
+        "text": "なんのコーディングテスト…？",
+        "user": "U02BT600G8G",
+        "ts": "1644580479.771679",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hr5gz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんのコーディングテスト…？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644578826.786849",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "bf1a0953-8536-4541-b37e-97761ff3ccd7",
+        "type": "message",
+        "text": "<https:\/\/kandejp.slack.com\/archives\/C02G37YUHJ8\/p1644234503599739>",
+        "user": "U032L2QR03F",
+        "ts": "1644585884.499309",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/kandejp.slack.com\/archives\/C02G37YUHJ8\/p1644234503599739",
+                "ts": "1644234503.599739",
+                "author_id": "U02AWQ4BE1L",
+                "channel_team": "T02B0FUHKV3",
+                "channel_id": "C02G37YUHJ8",
+                "channel_name": "99_times-yassan",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T02B0FUHKV3",
+                        "channel": "C02G37YUHJ8",
+                        "ts": "1644234503.599739",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "1ML",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "bitFlyerと仕事やる時、業務委託もコーディングテスト受けさせられるっぽいな\n何が出るんや"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/kandejp.slack.com\/archives\/C02G37YUHJ8\/p1644234503599739",
+                "fallback": "[February 7th, 2022 3:48 AM] yakkun20000: bitFlyerと仕事やる時、業務委託もコーディングテスト受けさせられるっぽいな\n何が出るんや",
+                "text": "bitFlyerと仕事やる時、業務委託もコーディングテスト受けさせられるっぽいな\n何が出るんや",
+                "author_name": "西原　靖貴",
+                "author_link": "https:\/\/kandejp.slack.com\/team\/U02AWQ4BE1L",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_48.png",
+                "author_subname": "西原　靖貴",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#99_times-yassan に投稿"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rLsQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kandejp.slack.com\/archives\/C02G37YUHJ8\/p1644234503599739"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644578826.786849",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "0d946b8d-1470-4826-ac80-9078e2216137",
+        "type": "message",
+        "text": "コーディング面接って経験と聞いた情報によるとだいたいなんらかのアルゴリズム書かされる感じなんだけど",
+        "user": "U032L2QR03F",
+        "ts": "1644585922.259989",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1644585977.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vz1jw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コーディング面接って経験と聞いた情報によるとだいたいなんらかのアルゴリズム書かされる感じなんだけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644578826.786849",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "F09B7246-D884-4905-A1F7-50EF83E76857",
+        "type": "message",
+        "text": "これはbitflyerの話でまた別！笑\n今回話があるのはCoincheckで、別にそういうのないよ！だから大丈夫やで",
+        "user": "U02BT600G8G",
+        "ts": "1644589143.584539",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0UmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これはbitflyerの話でまた別！笑\n今回話があるのはCoincheckで、別にそういうのないよ！だから大丈夫やで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644578826.786849",
+        "parent_user_id": "U032L2QR03F",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

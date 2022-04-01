@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "382404ad-8c6d-44cb-9255-57f8744eae89",
+        "type": "message",
+        "text": "Vuetifyがモバイルで遅いのはこれかもしれない\n<https:\/\/github.com\/vuetifyjs\/vuetify\/issues\/7265>",
+        "user": "U02BT600G8G",
+        "ts": "1635298679.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "GitHub: [Feature Request] How to improve lighthouse score with Vuetify · Issue #7265 · vuetifyjs\/vuetify",
+                "image_url": "https:\/\/opengraph.githubassets.com\/3c2eb1c3637444eca3073d1896bf6b7ed23892e82da503011def3ab2b5a4f9ca\/vuetifyjs\/vuetify\/issues\/7265",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 99788,
+                "from_url": "https:\/\/github.com\/vuetifyjs\/vuetify\/issues\/7265",
+                "service_name": "GitHub",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "title": "[Feature Request] How to improve lighthouse score with Vuetify · Issue #7265 · vuetifyjs\/vuetify",
+                "title_link": "https:\/\/github.com\/vuetifyjs\/vuetify\/issues\/7265",
+                "text": "Problem to solve We have a number of web sites with Vuetify and Nuxt. Vuetify works great for us, only concern is performance. As soon as we add vuetify Lighthouse score tumbles down. Most probably...",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/vuetifyjs\/vuetify\/issues\/7265"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tia8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vuetifyがモバイルで遅いのはこれかもしれない\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/vuetifyjs\/vuetify\/issues\/7265"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

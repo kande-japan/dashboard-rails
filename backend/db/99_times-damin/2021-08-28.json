@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "2c8ef4f3-d231-40e7-b820-8409591fb553",
+        "type": "message",
+        "text": "セキュリティ人材のニーズと育成の難しさについて\n<https:\/\/japan.zdnet.com\/article\/35114853\/>",
+        "user": "U02BT600G8G",
+        "ts": "1630134431.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ZDNet Japan",
+                "title": "セキュリティ人材の末路--人数不足と育成の必要性は本当なのか？",
+                "title_link": "https:\/\/japan.zdnet.com\/article\/35114853\/",
+                "text": "「セキュリティ人材育成ブーム」を言われる昨今、本当にそのような需要がユーザー企業側にあるのだろうか。「セキュリティ人材不足」の真実に迫ってみたい。",
+                "fallback": "ZDNet Japan: セキュリティ人材の末路--人数不足と育成の必要性は本当なのか？",
+                "thumb_url": "https:\/\/japan.zdnet.com\/storage\/2018\/02\/16\/f586685542f0f31950572341ce02d43b\/securityarukikatalarge.jpg",
+                "ts": 1519592400,
+                "from_url": "https:\/\/japan.zdnet.com\/article\/35114853\/",
+                "thumb_width": 640,
+                "thumb_height": 480,
+                "service_icon": "https:\/\/japan.zdnet.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/japan.zdnet.com\/article\/35114853\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "セキュリティ人材のニーズと育成の難しさについて\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/japan.zdnet.com\/article\/35114853\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1622de0b-3f91-428d-8cf0-6d78344da0b9",
+        "type": "message",
+        "text": "セキュリティ人材がいない理由が企業側からの視点で書かれていてわかりやすかった\n<https:\/\/www.soumu.go.jp\/main_content\/000591470.pdf>",
+        "user": "U02BT600G8G",
+        "ts": "1630146881.000600",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "セキュリティ人材がいない理由が企業側からの視点で書かれていてわかりやすかった\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.soumu.go.jp\/main_content\/000591470.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1808254C-7411-40FB-BC8C-ACFC5CE75EB0",
+        "type": "message",
+        "text": "<https:\/\/houmu-bu.com\/job-advertisement-trouble-1519|https:\/\/houmu-bu.com\/job-advertisement-trouble-1519>\n\n↑注意",
+        "user": "U02AWQ4BE1L",
+        "ts": "1630156826.001000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "こちらビジネス法務相談室",
+                "title": "求人広告を利用した悪質商法－対処法を徹底解説",
+                "title_link": "https:\/\/houmu-bu.com\/job-advertisement-trouble-1519",
+                "text": "求人広告を利用した悪質商法の対処法を弁護士が解説しました。法律的には、錯誤無効、詐欺取消し、債務不履行解除が考えられます。",
+                "fallback": "こちらビジネス法務相談室: 求人広告を利用した悪質商法－対処法を徹底解説",
+                "thumb_url": "https:\/\/houmu-bu.com\/wp-content\/uploads\/2016\/10\/shutterstock_131245436.jpg",
+                "from_url": "https:\/\/houmu-bu.com\/job-advertisement-trouble-1519",
+                "thumb_width": 1000,
+                "thumb_height": 1000,
+                "service_icon": "https:\/\/houmu-bu.com\/wp-content\/themes\/houmu\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/houmu-bu.com\/job-advertisement-trouble-1519"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vW3DF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/houmu-bu.com\/job-advertisement-trouble-1519",
+                                "text": "https:\/\/houmu-bu.com\/job-advertisement-trouble-1519"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n↑注意"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

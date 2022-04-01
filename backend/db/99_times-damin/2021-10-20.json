@@ -1,0 +1,44 @@
+[
+    {
+        "type": "message",
+        "text": "着々と…",
+        "files": [
+            {
+                "id": "F02JASN0C2Z",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1634723508.001000",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bg5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "着々と…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "804d88a0-6c9f-4de8-be37-25096953d71b",
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

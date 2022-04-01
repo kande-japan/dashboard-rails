@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "4f42cc5d-554b-474f-a2fd-a0c056c5fa43",
+        "type": "message",
+        "text": "Hololiveの英語版のVTuberアツすぎた…普通にファンになりそう\n<https:\/\/www.youtube.com\/watch?v=8J50SJRmAwQ>",
+        "user": "U02BT600G8G",
+        "ts": "1637974333.000700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8J50SJRmAwQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "【POKÉMON BRILLIANT DIAMOND】WATER-ONLY  💦",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8J50SJRmAwQ",
+                "author_name": "Gawr Gura Ch. hololive-EN",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCoSrY_IQQVpmIRZ9Xf-y93g",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8J50SJRmAwQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "fallback": "YouTube Video: 【POKÉMON BRILLIANT DIAMOND】WATER-ONLY  💦",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8J50SJRmAwQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8J50SJRmAwQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hololiveの英語版のVTuberアツすぎた…普通にファンになりそう\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=8J50SJRmAwQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637974333.000700",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1637980359.000800",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1637975478.000900"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1637980359.000800"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f923a2a-fa55-4457-8aa7-f158a6f12e87",
+        "type": "message",
+        "text": "バイリンガル＆カワボとかどんだけ前世で徳積んだんだ",
+        "user": "U02BT600G8G",
+        "ts": "1637975478.000900",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "okvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バイリンガル＆カワボとかどんだけ前世で徳積んだんだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637974333.000700",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "3C2867C1-7B82-4884-8EDD-D3C69875F46E",
+        "type": "message",
+        "text": "間違えた、日本語そんなに喋れなかった、でもかわいい",
+        "user": "U02BT600G8G",
+        "ts": "1637980359.000800",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fEVg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "間違えた、日本語そんなに喋れなかった、でもかわいい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1637974333.000700",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

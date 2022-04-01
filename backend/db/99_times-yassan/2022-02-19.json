@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "EBB7EE1A-CD4D-4CFA-97E5-A045673931B3",
+        "type": "message",
+        "text": "CTOがQiitaで記事を書き始めた:sunglasses:\n\n<https:\/\/t.co\/M1eC5GWUfd|https:\/\/t.co\/M1eC5GWUfd>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1645339281.391929",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/Damin3927\/items\/23b232a426d7929e6e45",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9QWN0aXZlTW9kZWwlM0ElM0FNaXNzaW5nQXR0cmlidXRlRXJyb3IlM0ElMjBjYW4lMjd0JTIwd3JpdGUlMjB1bmtub3duJTIwYXR0cmlidXRlJTIwJTYwJTYwJTIwJUUzJTgxJUFCJUU2JTgyJUE5JUUzJTgxJUJFJUUzJTgxJTk1JUUzJTgyJThDJUUzJTgxJTlGJUUzJTgwJTkwUmFpbHMlRTMlODAlOTEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTk2MThiZDNmZDFlODRiNjYxYjMyNjIyYzdhOWU5NjE0&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwRGFtaW4zOTI3JnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1mNjU0ZTBhMjExYzY3YzhiZjA5YzMwYmZhOTUxMTAxZg&blend-x=142&blend-y=491&blend-mode=normal&s=71e3cf33acd9ccb324b170c00c9c3f24",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 60725,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Damin3927\/items\/23b232a426d7929e6e45",
+                "fallback": "Qiita: ActiveModel::MissingAttributeError: can't write unknown attribute `` に悩まされた【Rails】 - Qiita",
+                "text": "RailsのAPIを一から作っている時に遭遇しました。ググっても全然引っかからないし「もぅﾏﾁﾞ無理。。。ﾘｽｶしょ。。。」ってなってました。ですが結構基本的なところでポカしてました。 結論から言えば，primary_key: tru...",
+                "title": "ActiveModel::MissingAttributeError: can't write unknown attribute `` に悩まされた【Rails】 - Qiita",
+                "title_link": "https:\/\/qiita.com\/Damin3927\/items\/23b232a426d7929e6e45",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ryh5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CTOがQiitaで記事を書き始めた"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/M1eC5GWUfd",
+                                "text": "https:\/\/t.co\/M1eC5GWUfd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U032L2QR03F",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

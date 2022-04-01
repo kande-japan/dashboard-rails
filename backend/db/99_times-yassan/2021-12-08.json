@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "121DBCE6-3C72-4068-8F73-50223F630158",
+        "type": "message",
+        "text": "<https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517|https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1638966030.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517",
+                "ts": 1638871888,
+                "image_url": "https:\/\/medy-jp.imgix.net\/df137a63-d591-41e1-a04a-2a3d7c3ac8d1.png?auto=format&fm=png",
+                "image_width": 468,
+                "image_height": 250,
+                "image_bytes": 261228,
+                "service_icon": "https:\/\/yu8muraka3.medy.jp\/static\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517",
+                "fallback": "最高峰Cryptoファンド「Paradigm」の研究と彼らの未来予測",
+                "text": "過去10年Sequoia唯一の見逃し?とも言われるParadigmの歴史や投資戦略、彼らのCrypto、Web3.0、DeFi等への予測",
+                "title": "最高峰Cryptoファンド「Paradigm」の研究と彼らの未来予測",
+                "title_link": "https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517",
+                "service_name": "yu8muraka3.medy.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PKfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517",
+                                "text": "https:\/\/yu8muraka3.medy.jp\/p\/3ee423f9-2e3d-4c87-b85e-0a95cd410517"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

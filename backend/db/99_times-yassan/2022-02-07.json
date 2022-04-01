@@ -1,0 +1,579 @@
+[
+    {
+        "client_msg_id": "0f503311-e0b3-45dd-ab50-4eb2d332512b",
+        "type": "message",
+        "text": "なんと、、、、、、、、、、、、、、、、、、、、、、\nbitFlyerの社長と直接お話しできました！社長室の人に話回してもらえて、なんか案件受けられるかもしれん。\n（ただ、鶏と卵問題にはかなり共感はしてもらえたが、やはり大きくなってしまうと納品実績がないとリスク取りにくいので、現場がどう判断するかは保証できんとは言われた。）\n\n<https:\/\/bitflyer.com\/ja-jp\/>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644230534.805279",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/bitflyer.com\/ja-jp\/",
+                "image_url": "https:\/\/bitflyer.com\/a\/e5366671e54df4a859a42248d9dda994.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 96882,
+                "service_icon": "https:\/\/bitflyer.com\/a\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/bitflyer.com\/ja-jp\/",
+                "fallback": "bitFlyer: bitFlyer（ビットフライヤー）- 暗号資産（仮想通貨）の購入\/販売所\/取引所",
+                "text": "bitFlyer（ビットフライヤー）は国内最大級の仮想通貨取引所です。信頼と安心のセキュリティで、ビットコインやリップル（XRP）、モナコイン、イーサリアムなど人気な仮想通貨をわずか100円から購入可能です。",
+                "title": "bitFlyer（ビットフライヤー）- 暗号資産（仮想通貨）の購入\/販売所\/取引所",
+                "title_link": "https:\/\/bitflyer.com\/ja-jp\/",
+                "service_name": "bitFlyer"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wM+KM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんと、、、、、、、、、、、、、、、、、、、、、、\nbitFlyerの社長と直接お話しできました！社長室の人に話回してもらえて、なんか案件受けられるかもしれん。\n（ただ、鶏と卵問題にはかなり共感はしてもらえたが、やはり大きくなってしまうと納品実績がないとリスク取りにくいので、現場がどう判断するかは保証できんとは言われた。）\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bitflyer.com\/ja-jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644230534.805279",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1644270852.024229",
+        "reply_users": [
+            "U02FXPP41QD",
+            "U02AWQ4BE1L"
+        ],
+        "replies": [
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644233307.665599"
+            },
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1644234396.935279"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644236506.563519"
+            },
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1644242852.497829"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644270852.024229"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1644270852.024229",
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42B7893F-4209-43CC-9DD4-91C9AF4CC327",
+        "type": "message",
+        "text": "受けられるとして、どういう系統の案件を想定してるんですか？？",
+        "user": "U02FXPP41QD",
+        "ts": "1644233307.665599",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "63W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "受けられるとして、どういう系統の案件を想定してるんですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644230534.805279",
+        "parent_user_id": "U02AWQ4BE1L"
+    },
+    {
+        "client_msg_id": "B695C637-ECBB-45B1-A0F0-D8423EA978D8",
+        "type": "message",
+        "text": "まだなんも分からん…！！！！！\n金融システムの開発かもしれんし、bitflyerのモバイルアプリの新機能追加開発かもしれん",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644234396.935279",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJJYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだなんも分からん…！！！！！\n金融システムの開発かもしれんし、bitflyerのモバイルアプリの新機能追加開発かもしれん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644230534.805279",
+        "parent_user_id": "U02AWQ4BE1L"
+    },
+    {
+        "client_msg_id": "5DA6C48E-91E4-4FF8-BA95-995BEAED440C",
+        "type": "message",
+        "text": "bitFlyerと仕事やる時、業務委託もコーディングテスト受けさせられるっぽいな\n何が出るんや",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644234503.599739",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ML",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bitFlyerと仕事やる時、業務委託もコーディングテスト受けさせられるっぽいな\n何が出るんや"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ぶおおおおおおおおおおおおおおおお\n\ncoincheckの創業者から案件決まりそうです。多分bitFlyerよりも先にこっちになりそう。",
+        "files": [
+            {
+                "id": "F031H2JNBCP",
+                "created": 1644234523,
+                "timestamp": 1644234523,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02AWQ4BE1L",
+                "editable": false,
+                "size": 321807,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F031H2JNBCP\/ios__________.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F031H2JNBCP\/download\/ios__________.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________960.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F031H2JNBCP-4b62ad5827\/ios___________1024.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABrRIAHC5+lQtKu4dse4qZiQOBmm7j3A\/KmhMZ5qHqQPqakAyB3pV5HIFOouFhr5xxTfmpWZT0PQ44pvA\/8A1Uhj0zjmnU1MY4p1ABioDJMCcJ+lTd+9HPqaadhMgEkxIGzH1FTjOBnrSE4XPJ+gp1DYJH\/\/2Q==",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02AWQ4BE1L\/F031H2JNBCP\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F031H2JNBCP-3ffb350fff",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02AWQ4BE1L",
+        "display_as_bot": false,
+        "ts": "1644234834.161249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omYui",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぶおおおおおおおおおおおおおおおお\n\ncoincheckの創業者から案件決まりそうです。多分bitFlyerよりも先にこっちになりそう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "B87FCC8F-FD9B-429E-80C7-E6D944B0E544",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "nisshi",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6A589CFA-6603-4970-9E58-A8ED1195D567",
+        "type": "message",
+        "text": "フルオンチェーンは熱い。今のNFTは詐欺まがいのものが多いけど、フルオンチェーンはブレイクスルーテクノロジーやと思う。ぜひやりましょう(ってか言っちゃった",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644234908.935869",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGyg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フルオンチェーンは熱い。今のNFTは詐欺まがいのものが多いけど、フルオンチェーンはブレイクスルーテクノロジーやと思う。ぜひやりましょう(ってか言っちゃった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644234908.935869",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1644235041.107289",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1644235041.107289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1644235041.107289"
+    },
+    {
+        "client_msg_id": "5ED4489B-3BFC-4036-A508-93BC09B9910D",
+        "type": "message",
+        "text": "えっえっえっ",
+        "user": "U02BT600G8G",
+        "ts": "1644235041.107289",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VbQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "えっえっえっ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644234908.935869",
+        "parent_user_id": "U02AWQ4BE1L"
+    },
+    {
+        "client_msg_id": "A7F13342-17F8-4AD7-B597-A3872B61B0B6",
+        "type": "message",
+        "text": "フルオンチェーンNFTプロジェクトのソースコードなんかで見た気がするけど、なんだっけな。cryptopunksかそれに類するプロジェクト…\ngithubに落ちてるの見た事ある気が",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644235403.347849",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOy4=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フルオンチェーンNFTプロジェクトのソースコードなんかで見た気がするけど、なんだっけな。cryptopunksかそれに類するプロジェクト…\ngithubに落ちてるの見た事ある気が"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9BA433B9-53E8-4BAC-8ECE-7BEB6BB763C7",
+        "type": "message",
+        "text": "なるほど……何であったとしても面白そうですね！",
+        "user": "U02FXPP41QD",
+        "ts": "1644236506.563519",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dnb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど……何であったとしても面白そうですね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644230534.805279",
+        "parent_user_id": "U02AWQ4BE1L"
+    },
+    {
+        "client_msg_id": "73E3E801-60B2-419A-835F-8E934D16E4D4",
+        "type": "message",
+        "text": "それな！\nただ、bitflyerは俺らに頼む前に1つ納品実績作ってほしそうやったから、まず大塚さんのフルオンチェーンNFTかな〜。\n\nTJもどうすか！ポートフォリオ1個増えるぜ……！今の詐欺NFTと違って、フルオンチェーンは本当の意味で中世的農奴の解放を実現する、インターネット史の革命やと思う。更に、大塚さん起点にすれば、マネックス証券の松本大さんを筆頭に、IT業界の大物たちの中に入った切り込んでいけて、もっと面白い世界見にいける気がするぜえええええええええええ",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644242852.497829",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tUEoY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それな！\nただ、bitflyerは俺らに頼む前に1つ納品実績作ってほしそうやったから、まず大塚さんのフルオンチェーンNFTかな〜。\n\nTJもどうすか！ポートフォリオ1個増えるぜ……！今の詐欺NFTと違って、フルオンチェーンは本当の意味で中世的農奴の解放を実現する、インターネット史の革命やと思う。更に、大塚さん起点にすれば、マネックス証券の松本大さんを筆頭に、IT業界の大物たちの中に入った切り込んでいけて、もっと面白い世界見にいける気がするぜえええええええええええ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644230534.805279",
+        "parent_user_id": "U02AWQ4BE1L"
+    },
+    {
+        "client_msg_id": "68CD90A2-5A55-4E4F-A5D8-3136AB30489C",
+        "type": "message",
+        "text": "ぜひやってみたいです！近いうちに会いましょう",
+        "user": "U02FXPP41QD",
+        "ts": "1644270852.024229",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tcr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぜひやってみたいです！近いうちに会いましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644230534.805279",
+        "parent_user_id": "U02AWQ4BE1L",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

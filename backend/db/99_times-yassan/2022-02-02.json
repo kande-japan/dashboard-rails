@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "B78ACC42-907C-42C0-A27B-C1FBE57B2DE7",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/nztm_tw\/status\/1488814449624424449?s=21|https:\/\/twitter.com\/nztm_tw\/status\/1488814449624424449?s=21>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1643874187.191719",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FGM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/nztm_tw\/status\/1488814449624424449?s=21",
+                                "text": "https:\/\/twitter.com\/nztm_tw\/status\/1488814449624424449?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C7194973-82E0-410A-A9C7-01AEF042E209",
+        "type": "message",
+        "text": "これすごそう",
+        "user": "U02AWQ4BE1L",
+        "ts": "1643874196.039219",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d9\/q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これすごそう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

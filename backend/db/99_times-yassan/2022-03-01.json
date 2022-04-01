@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "90876230-ACBF-463C-B495-306A683EEA82",
+        "type": "message",
+        "text": "日本銀行が出してるセキュリティ関連の資料\nサービス作り始める時、見返したい\n<https:\/\/www.imes.boj.or.jp\/research\/papers\/japanese\/22-J-02.pdf|https:\/\/www.imes.boj.or.jp\/research\/papers\/japanese\/22-J-02.pdf>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1646150386.387579",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02AWQ4BE1L",
+            "ts": "1646150450.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JjBuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日本銀行が出してるセキュリティ関連の資料\nサービス作り始める時、見返したい\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.imes.boj.or.jp\/research\/papers\/japanese\/22-J-02.pdf",
+                                "text": "https:\/\/www.imes.boj.or.jp\/research\/papers\/japanese\/22-J-02.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G",
+                    "U032L2QR03F"
+                ],
+                "count": 2
+            },
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

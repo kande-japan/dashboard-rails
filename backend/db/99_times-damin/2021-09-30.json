@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "d5e1f598-c80c-4748-a89f-30c1e50a7065",
+        "type": "message",
+        "text": "なんと！テレラボが新たな資金調達を\n<https:\/\/jp.techcrunch.com\/2021\/09\/28\/drafty-fundraising\/>",
+        "user": "U02BT600G8G",
+        "ts": "1633005953.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TechCrunch Japan",
+                "title": "リモートワーク可能な勤務特化の求人サイト・情報メディア「テレラボ」を展開するDraftyが4500万円の資金調達 | TechCrunch Japan",
+                "title_link": "https:\/\/jp.techcrunch.com\/2021\/09\/28\/drafty-fundraising\/",
+                "text": "リモートワーク特化の求人サイト・情報メディア「テレラボ」を展開するDrafty（ドラフティー）は9月27日、シードラウンドにおいて、第三者割当増資による総額4500万円の資金調達を発表した。調達した資金は、さらなる顧客企業の獲得、カスタマーユーザビリティの向上、プロダクト開発のスピード化、マーケティングの推進などに..",
+                "fallback": "TechCrunch Japan: リモートワーク可能な勤務特化の求人サイト・情報メディア「テレラボ」を展開するDraftyが4500万円の資金調達 | TechCrunch Japan",
+                "image_url": "https:\/\/jp.techcrunch.com\/wp-content\/uploads\/2021\/09\/2021-09-28-004-index.jpg?w=1024",
+                "from_url": "https:\/\/jp.techcrunch.com\/2021\/09\/28\/drafty-fundraising\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 209345,
+                "service_icon": "https:\/\/jp.techcrunch.com\/wp-content\/uploads\/2021\/05\/cropped-logo_tc-1.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/jp.techcrunch.com\/2021\/09\/28\/drafty-fundraising\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjn+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんと！テレラボが新たな資金調達を\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/jp.techcrunch.com\/2021\/09\/28\/drafty-fundraising\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

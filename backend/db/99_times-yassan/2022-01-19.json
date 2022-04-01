@@ -1,0 +1,246 @@
+[
+    {
+        "client_msg_id": "1669CB9E-39C7-4988-A7D7-DECB129FF85E",
+        "type": "message",
+        "text": "ふむふむ\n\n<https:\/\/news.denfaminicogamer.jp\/interview\/220118b|https:\/\/news.denfaminicogamer.jp\/interview\/220118b>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642585053.000300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/news.denfaminicogamer.jp\/interview\/220118b",
+                "ts": 1642475455,
+                "image_url": "https:\/\/img-denfaminicogamer.com\/wp-content\/uploads\/2022\/01\/Wormhole_2_3840x2160.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 93174,
+                "service_icon": "https:\/\/img-denfaminicogamer.com\/wp-content\/uploads\/2016\/12\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/news.denfaminicogamer.jp\/interview\/220118b",
+                "fallback": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？: 恥ずかしながら「ビデオゲームとNFT」の現状がわからないので18年続くMMO『EVE Online』運営にメールで「ゲームはどう変わるの？」と率直な疑問をぶつけてみた | 電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+                "text": "　ゲームメディアのニュース担当者のひとりとして働いた2021年、日々送られてくる大量のプレス向け情報の中で明らかに増えたキーワードがある。",
+                "title": "恥ずかしながら「ビデオゲームとNFT」の現状がわからないので18年続くMMO『EVE Online』運営にメールで「ゲームはどう変わるの？」と率直な疑問をぶつけてみた | 電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+                "title_link": "https:\/\/news.denfaminicogamer.jp\/interview\/220118b",
+                "service_name": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+                "fields": [
+                    {
+                        "value": "久田晴",
+                        "title": "Written by",
+                        "short": true
+                    },
+                    {
+                        "value": "4分",
+                        "title": "Est. reading time",
+                        "short": true
+                    }
+                ]
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nPT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ふむふむ\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/news.denfaminicogamer.jp\/interview\/220118b",
+                                "text": "https:\/\/news.denfaminicogamer.jp\/interview\/220118b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "affac5e6-fa16-4b46-985c-941a89af0f01",
+        "type": "message",
+        "text": "Web3が騒がれているが、思想はともかく技術的整備が伴っていないのでは\n\n<https:\/\/moxie.org\/2022\/01\/07\/web3-first-impressions.html>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642593977.001100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/moxie.org\/2022\/01\/07\/web3-first-impressions.html",
+                "service_icon": "https:\/\/moxie.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/moxie.org\/2022\/01\/07\/web3-first-impressions.html",
+                "fallback": "Moxie Marlinspike: My first impressions of web3",
+                "text": "Despite considering myself a cryptographer, I have not found myself particularly drawn to “crypto.” I don’t think I’ve ever actually said the words “get off my lawn,” but I’m much more likely to click on Pepperidge Farm Remembers flavored memes about how “crypto” used to mean “cryptography” than ...",
+                "title": "My first impressions of web3",
+                "title_link": "https:\/\/moxie.org\/2022\/01\/07\/web3-first-impressions.html",
+                "service_name": "Moxie Marlinspike"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Web3が騒がれているが、思想はともかく技術的整備が伴っていないのでは\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/moxie.org\/2022\/01\/07\/web3-first-impressions.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0657a283-359e-44f9-83b7-3639bfa58cd6",
+        "type": "message",
+        "text": "↑こんな事言いつつ、アマンガスを、メタバースアマンガスと称してNFTに出品してみた件",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642600163.002000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02AWQ4BE1L",
+            "ts": "1642600195.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJtR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑こんな事言いつつ、アマンガスを、メタバースアマンガスと称してNFTに出品してみた件"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c429df5c-0767-41b9-b63b-a3086831e078",
+        "type": "message",
+        "text": "<https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/99092047866218766819650393658959090941642086204980133078864880877165640417281\/|https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/9909204[…]66819650393658959090941642086204980133078864880877165640417281\/>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642600200.002300",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/99092047866218766819650393658959090941642086204980133078864880877165640417281\/",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/FT8ixzJzcisFyGLegzGsqvWq7cpndZ4fbqHQ7bu0xCzXNx2DC3V5VYTZBHUN2eeVbZinkzBEKFl6UT-tRZ0ai0LthKJPQLo9T3df2g",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 89190,
+                "service_icon": "https:\/\/opensea.io\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/99092047866218766819650393658959090941642086204980133078864880877165640417281\/",
+                "fallback": "OpenSea: metaverse among us - Untitled Collection #204035737 | OpenSea",
+                "text": "This is a 3D among us. You can use this avatar in a metaverse. Only Polygon user can buy this.",
+                "title": "metaverse among us - Untitled Collection #204035737 | OpenSea",
+                "title_link": "https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/99092047866218766819650393658959090941642086204980133078864880877165640417281\/",
+                "service_name": "OpenSea"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHhl=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/99092047866218766819650393658959090941642086204980133078864880877165640417281\/",
+                                "text": "https:\/\/opensea.io\/assets\/matic\/0x2953399124f0cbb46d2cbacd8a89cf0599974963\/9909204[…]66819650393658959090941642086204980133078864880877165640417281\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "nisshi",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

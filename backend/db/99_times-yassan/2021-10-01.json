@@ -1,0 +1,118 @@
+[
+    {
+        "client_msg_id": "0C129B3E-5DB3-44DC-9443-5CBD417C1F99",
+        "type": "message",
+        "text": "サービス運用始まったら参考にしよう。\n\n<https:\/\/t.co\/HoYweOts2N|https:\/\/t.co\/HoYweOts2N>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633072101.000400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "note（ノート）",
+                "title": "ファネル分析実践入門  〜Web版メルカリの事例で学ぶ〜｜Mercari Analytics｜note",
+                "title_link": "https:\/\/note.com\/mercari_data\/n\/n0dab99eb8375",
+                "text": "こんにちは。メルカリ Analytics チームの @suwachan です。2021年4月にメルカリに入社し、入社当時からWeb版メルカリの分析を行っています。 この記事では、私が実際に行ったWeb版メルカリの分析を例に、ファネル分析の具体的な進め方・考え方について解説いたします。 この記事を通して、ファネル分析の実践のサポートができれば幸いです。 想定する読者の方 ・ファネル分析をやってみたいマーケティング担当・アナリスト・PMなどの方 ・ファネル分析にかかわらず、分析の基礎について学びたい方 注: この記事に出てくる分析内容・結果は、実際のものとは異なります。 ファ",
+                "fallback": "note（ノート）: ファネル分析実践入門  〜Web版メルカリの事例で学ぶ〜｜Mercari Analytics｜note",
+                "image_url": "https:\/\/assets.st-note.com\/production\/uploads\/images\/62317636\/rectangle_large_type_2_be0b84c04a62eb88a0dd2e1533f10c41.png?fit=bounds&quality=85&width=1280",
+                "from_url": "https:\/\/note.com\/mercari_data\/n\/n0dab99eb8375",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 77524,
+                "service_icon": "https:\/\/d291vdycu0ht11.cloudfront.net\/nuxt\/static\/metaicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/note.com\/mercari_data\/n\/n0dab99eb8375"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6aA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サービス運用始まったら参考にしよう。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/HoYweOts2N",
+                                "text": "https:\/\/t.co\/HoYweOts2N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7BC913EC-82ED-469A-83CF-66498981EA9C",
+        "type": "message",
+        "text": "IAシンキングの要約(かなり簡潔に)\n1.\n・情報アーキテクチャ=サイトマップやワイヤーフレームを作る作業。\n・目的は以下の2つ\n①ユーザーとのコミュニケーション内容の明確化\n②それを他のメンバーと共有する作業の効率化\n・特に、見つけやすさ・探しやすさを重視\n(情報デザインは分かりやすさを重視する概念)\n\n2.扱う情報を\n①5つの方法で、数は5つくらいまで、\n②使いやすさを重視(基本は馴染みのものに合わせると上手くいく)\nを踏まえた分類し、ラベル付けして整理。\n\n3.用途毎にサイトマップ(5パターン、物理構造であるファイルリストとは別物)を使って全体像を可視化する事で、理解をしやすくする。\n\n4.見やすさと使いやすさのバランスを意識しつつ、ナビゲーション(7パターン)を使い分ける事で、サイトの目的とそれを達成するための個々の手順を示す。\n\n5.2.3.4.を踏まえて、ワイヤーフレームを作る。\n・ページやページ内の前後関係を踏まえて、ユーザーが求めているであろうコンテンツとその機能をユーザーが求めているであろう順番に配置する。(ページタイプ\/属性にパターンあり)\n・要素多すぎ問題に注意。\n・視線の動きはF。2回横へ動かしたらあとは読み飛ばされる事も念頭に置く。\n\n\n\n色々書いてたけど、視線のFの動きやナビゲーションとサイトマップのパターンをパラっと見るくらいで良かった気がする……\n2に至ってはよく分からん。",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633113409.003400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IAシンキングの要約(かなり簡潔に)\n1.\n・情報アーキテクチャ=サイトマップやワイヤーフレームを作る作業。\n・目的は以下の2つ\n①ユーザーとのコミュニケーション内容の明確化\n②それを他のメンバーと共有する作業の効率化\n・特に、見つけやすさ・探しやすさを重視\n(情報デザインは分かりやすさを重視する概念)\n\n2.扱う情報を\n①5つの方法で、数は5つくらいまで、\n②使いやすさを重視(基本は馴染みのものに合わせると上手くいく)\nを踏まえた分類し、ラベル付けして整理。\n\n3.用途毎にサイトマップ(5パターン、物理構造であるファイルリストとは別物)を使って全体像を可視化する事で、理解をしやすくする。\n\n4.見やすさと使いやすさのバランスを意識しつつ、ナビゲーション(7パターン)を使い分ける事で、サイトの目的とそれを達成するための個々の手順を示す。\n\n5.2.3.4.を踏まえて、ワイヤーフレームを作る。\n・ページやページ内の前後関係を踏まえて、ユーザーが求めているであろうコンテンツとその機能をユーザーが求めているであろう順番に配置する。(ページタイプ\/属性にパターンあり)\n・要素多すぎ問題に注意。\n・視線の動きはF。2回横へ動かしたらあとは読み飛ばされる事も念頭に置く。\n\n\n\n色々書いてたけど、視線のFの動きやナビゲーションとサイトマップのパターンをパラっと見るくらいで良かった気がする……\n2に至ってはよく分からん。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

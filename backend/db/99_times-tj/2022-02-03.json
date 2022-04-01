@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "F0937FC0-17CF-40E1-A141-A9C447AC2774",
+        "type": "message",
+        "text": "一方的に知ってるヤバい方が、MacBook のパスワード忘れてハッキングしたわ〜wwみたいなことを言ってて凄かった。しかも同世代",
+        "user": "U02FXPP41QD",
+        "ts": "1643939434.098769",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K0Go",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一方的に知ってるヤバい方が、MacBook のパスワード忘れてハッキングしたわ〜wwみたいなことを言ってて凄かった。しかも同世代"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02BT600G8G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

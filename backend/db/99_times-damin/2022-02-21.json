@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "d877ff06-fa7d-40f4-ad5b-96bf19240382",
+        "type": "message",
+        "text": "原点回帰でSQL勉強してるけど深いな…そして読みにくい",
+        "user": "U02BT600G8G",
+        "ts": "1645450379.360279",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Cil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "原点回帰でSQL勉強してるけど深いな…そして読みにくい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U02FXPP41QD",
+                    "U032L2QR03F"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

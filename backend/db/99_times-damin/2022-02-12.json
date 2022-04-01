@@ -1,0 +1,216 @@
+[
+    {
+        "type": "message",
+        "text": "TwitterにNFTが導入されている…！！！\nこれマジで広まる可能性ありますね",
+        "files": [
+            {
+                "id": "F033JKMF90Q",
+                "created": 1644711389,
+                "timestamp": 1644711389,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 1904810,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F033JKMF90Q\/image_from_ios.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F033JKMF90Q\/download\/image_from_ios.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_960.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033JKMF90Q-ef1caabfba\/image_from_ios_1024.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABah2FJx61LbxrKyqxPPP4VOtvE7FQGB7c9KdhPQp7jjHFJmlbg9OKbkUhkyfIVYNgjkcU8SkM7hlUsMEYNRjO3ocUEbeopiGsAT1\/Kk2inGkoGOVS3QZpP89KTrTipx900CENJRRQB\/\/9k=",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F033JKMF90Q\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F033JKMF90Q-4554053236",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1644711422.343509",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "67Q2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TwitterにNFTが導入されている…！！！\nこれマジで広まる可能性ありますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F878E419-C31C-40D0-8F5E-8396273FCD68",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U032L2QR03F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63de11e4-9b3d-4917-8607-883e17b3b71b",
+        "type": "message",
+        "text": "ほぼ他のOrganizationか他の人のリポジトリにcommitしてるので自分のリポジトリにpublicがありませんでした\nなのでこれから積極的にpublicを作るようにします\n\n<https:\/\/github.com\/Damin3927>",
+        "user": "U02BT600G8G",
+        "ts": "1644720517.955129",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/Damin3927",
+                "thumb_url": "https:\/\/avatars.githubusercontent.com\/u\/82698421?v=4?s=400",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/Damin3927",
+                "fallback": "GitHub: Damin3927 - Overview",
+                "text": "Damin3927 has one repository available. Follow their code on GitHub.",
+                "title": "Damin3927 - Overview",
+                "title_link": "https:\/\/github.com\/Damin3927",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "74ZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほぼ他のOrganizationか他の人のリポジトリにcommitしてるので自分のリポジトリにpublicがありませんでした\nなのでこれから積極的にpublicを作るようにします\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Damin3927"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "child",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1644720540.339709",
+        "user": "U02BT600G8G",
+        "text": "がこのチャンネルの説明を「<https:\/\/github.com\/Damin3927>」に設定しました",
+        "purpose": "<https:\/\/github.com\/Damin3927>"
+    },
+    {
+        "client_msg_id": "87953203-ebd8-4c28-a6fd-ac0563c7e6d8",
+        "type": "message",
+        "text": "railsでAPI叩くことでしかツイートができない排他的ツイッターを作ってみる",
+        "user": "U02BT600G8G",
+        "ts": "1644735287.892099",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "railsでAPI叩くことでしかツイートができない排他的ツイッターを作ってみる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U032L2QR03F",
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

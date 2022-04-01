@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "text": "読み終わった，基本が一番むずい説isある",
+        "files": [
+            {
+                "id": "F02DMCP6DM2",
+                "created": 1630816341,
+                "timestamp": 1630816341,
+                "name": "IMG_0283.HEIC",
+                "title": "IMG_0283.HEIC",
+                "mimetype": "image\/heic",
+                "filetype": "heic",
+                "pretty_type": "High Efficiency Image File",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 1754192,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02DMCP6DM2\/img_0283.heic?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02DMCP6DM2\/download\/img_0283.heic?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_960.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02DMCP6DM2-571cdc20cb\/img_0283_1024.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 2448,
+                "original_h": 3264,
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F02DMCP6DM2\/img_0283.heic",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02DMCP6DM2-e19f6a741a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1630816414.000900",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RPlR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "読み終わった，基本が一番むずい説isある"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

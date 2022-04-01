@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "a8d016d5-a245-438b-af89-b60719d54ab7",
+        "type": "message",
+        "text": "<https:\/\/free-doc.hatenablog.com\/entry\/tenshoku-money>",
+        "user": "U02BT600G8G",
+        "ts": "1631775245.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "フリドク  〜フリーランスの医師が医師転職・非常勤やスポットバイト・フリーランス・医師転職サイトについて考えるブログ〜",
+                "title": "常勤・非常勤などの医師の転職を市場規模から考える - フリドク  〜フリーランスの医師が医師転職・非常勤やスポットバイト・フリーランス・医師転職サイトについて考えるブログ〜",
+                "title_link": "https:\/\/free-doc.hatenablog.com\/entry\/tenshoku-money",
+                "text": "今までは実際に転職するにあたって、転職を希望する医師側の目線で様々な記事を書いてきました。 今回は市場規模のデータをもとに、医師の転職について考察してみようと思います。",
+                "fallback": "フリドク  〜フリーランスの医師が医師転職・非常勤やスポットバイト・フリーランス・医師転職サイトについて考えるブログ〜: 常勤・非常勤などの医師の転職を市場規模から考える - フリドク  〜フリーランスの医師が医師転職・非常勤やスポットバイト・フリーランス・医師転職サイトについて考えるブログ〜",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/f\/freelance-doctor\/20190731\/20190731123712.jpg",
+                "ts": 1628672400,
+                "from_url": "https:\/\/free-doc.hatenablog.com\/entry\/tenshoku-money",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 41181,
+                "service_icon": "https:\/\/free-doc.hatenablog.com\/icon\/touch",
+                "id": 1,
+                "original_url": "https:\/\/free-doc.hatenablog.com\/entry\/tenshoku-money"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jL3=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/free-doc.hatenablog.com\/entry\/tenshoku-money"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "text": "パスポート取り直し完了。",
+        "files": [
+            {
+                "id": "F0380BLRFL7",
+                "created": 1648094432,
+                "timestamp": 1648094432,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02AWQ4BE1L",
+                "editable": false,
+                "size": 1601589,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F0380BLRFL7\/ios__________.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F0380BLRFL7\/download\/ios__________.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________64.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________80.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________360.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________480.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________160.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________720.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________800.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________960.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0380BLRFL7-642784daa4\/ios___________1024.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRVNSioFPNSlj3GKRuyQjA5FROOOlPaQsMGmOx2gEcUCREetJSE80ZoLAGn72YgdT2qv5o9KnhmQKcnBNBLaHHcBkg4pGckYqVWz9KrtgMQOmaVxIQ0lGaM0zQr0BsUlHFBkyxDNhSuPpQTk81HEV3HIp7EZ4pFRQZozTc0Zpln\/9k=",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02AWQ4BE1L\/F0380BLRFL7\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F0380BLRFL7-9485d55c4e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02AWQ4BE1L",
+        "display_as_bot": false,
+        "ts": "1648094463.484549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=aA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "パスポート取り直し完了。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1b72ca89-eceb-4a51-8d54-417cf39888b6",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "airplane",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

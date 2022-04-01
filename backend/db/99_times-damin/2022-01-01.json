@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "66bd3def-7f92-46b7-8fe3-cf018eba9571",
+        "type": "message",
+        "text": "<https:\/\/themassage.jp\/archives\/15167>",
+        "user": "U02BT600G8G",
+        "ts": "1641106826.002000",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/themassage.jp\/archives\/15167",
+                "ts": 1637932545,
+                "image_url": "https:\/\/themassage.jp\/wwp\/wp-content\/uploads\/2021\/11\/loot2-1.jpg",
+                "image_width": 418,
+                "image_height": 250,
+                "image_bytes": 163587,
+                "service_icon": "https:\/\/themassage.jp\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/themassage.jp\/archives\/15167",
+                "fallback": "MASSAGE: Vineの共同創設者Dom Hofmannが作り出したNFT、「Blitmap」そして「Loot」の革新性 | MASSAGE MAGAZINE マッサージマガジン",
+                "text": "NFTに存在するさまざまな逸話の中でも、特に際立って輝いているのが「Loot」という作品である。今回は、その「Loot」、そして同じ制作者が作り出した「Blitmap」の提示した革新性について解説してみたい。 「Loot」とは、Vineの共同創設者の1人で、プログラマーのDom Hofmannが作り出したテキストNFT。2021年8月、彼は合計8000の「かばん」を鋳造した。かばんといってもそれは...",
+                "title": "Vineの共同創設者Dom Hofmannが作り出したNFT、「Blitmap」そして「Loot」の革新性 | MASSAGE MAGAZINE マッサージマガジン",
+                "title_link": "https:\/\/themassage.jp\/archives\/15167",
+                "service_name": "MASSAGE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/themassage.jp\/archives\/15167"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

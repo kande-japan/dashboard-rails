@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "a8d1b06d-d16e-4e22-8f5b-4c02b66941fb",
+        "type": "message",
+        "text": "クリプトの一つの記事を読んで，わからない単語が数個出てきて，またその解説を見て，わからない単語がまた出てきて，を繰り返すと大体リサーチ時間ってO(4^n)くらいかもしれない",
+        "user": "U02BT600G8G",
+        "ts": "1642772247.001700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "クリプトの一つの記事を読んで，わからない単語が数個出てきて，またその解説を見て，わからない単語がまた出てきて，を繰り返すと大体リサーチ時間ってO(4^n)くらいかもしれない"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

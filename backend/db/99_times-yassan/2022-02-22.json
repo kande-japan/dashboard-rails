@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "15282916-C869-4DDC-AE42-E5DB6A3D2157",
+        "type": "message",
+        "text": "REST、今まで何の略か理解せずに使ってたけど、Representational State Transferの略だったんすねー。",
+        "user": "U02AWQ4BE1L",
+        "ts": "1645533378.982489",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DElU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "REST、今まで何の略か理解せずに使ってたけど、Representational State Transferの略だったんすねー。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hushed",
+                "users": [
+                    "U032L2QR03F",
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

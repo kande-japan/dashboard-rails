@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "9a02b08d-9077-49ec-9b90-11e57e9409fd",
+        "type": "message",
+        "text": "世界金融の頂点、Goldmansachsが自社HPのトップでクリプトについての特集やってる…！ゴールドマンクリプト懐疑派だっただけに、これは中々の大事件では。\n\n<https:\/\/www.goldmansachs.com\/insights\/topics\/digitalization-2022\/index.html>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1648480137.071309",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X5AU2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "世界金融の頂点、Goldmansachsが自社HPのトップでクリプトについての特集やってる…！ゴールドマンクリプト懐疑派だっただけに、これは中々の大事件では。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.goldmansachs.com\/insights\/topics\/digitalization-2022\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

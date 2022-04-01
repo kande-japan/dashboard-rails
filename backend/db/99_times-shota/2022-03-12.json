@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "9cde7a34-4b54-495d-96d4-6f3f59f1ad22",
+        "type": "message",
+        "text": "千年ぶりに更新したポートフォリオ",
+        "user": "U032L2QR03F",
+        "ts": "1647086446.128859",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mlKjU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "千年ぶりに更新したポートフォリオ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efe1740f-cab2-46a6-8cba-52075b2fe8c5",
+        "type": "message",
+        "text": "<https:\/\/shota-aa.github.io\/portfolio-v2\/>",
+        "user": "U032L2QR03F",
+        "ts": "1647086449.269699",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ASr1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shota-aa.github.io\/portfolio-v2\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

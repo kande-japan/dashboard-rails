@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "A2F79FA0-7607-4949-AB83-4B51593628C3",
+        "type": "message",
+        "text": "翻訳ソフトの訳が誤文だとわかる能力があって初めて役に立つ←分かる\n\n<https:\/\/twitter.com\/m_sekijima\/status\/1498092055918440451?s=21|https:\/\/twitter.com\/m_sekijima\/status\/1498092055918440451?s=21>",
+        "user": "U02FXPP41QD",
+        "ts": "1646009670.394079",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HDBk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "翻訳ソフトの訳が誤文だとわかる能力があって初めて役に立つ←分かる\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/m_sekijima\/status\/1498092055918440451?s=21",
+                                "text": "https:\/\/twitter.com\/m_sekijima\/status\/1498092055918440451?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4E7ECED7-DACB-404D-AB10-39604AB0667B",
+        "type": "message",
+        "text": "アーサー王物語の一節、”Ye shall never lose no blood, be ye never so sore wounded” は「傷を負うことがばければ血を失うことはない」と翻訳本では訳されているたんだけど、実は誤訳で、「いくら傷を負っても血を失うことはない」が正しい訳っていう話とても好き",
+        "user": "U02FXPP41QD",
+        "ts": "1646010673.253719",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Spe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "アーサー王物語の一節、”Ye shall never lose no blood, be ye never so sore wounded” は「傷を負うことがばければ血を失うことはない」と翻訳本では訳されているたんだけど、実は誤訳で、「いくら傷を負っても血を失うことはない」が正しい訳っていう話とても好き"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

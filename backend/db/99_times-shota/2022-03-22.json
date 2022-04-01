@@ -1,0 +1,268 @@
+[
+    {
+        "client_msg_id": "85E36479-87E2-4E56-9EF7-EFA79EB61506",
+        "type": "message",
+        "text": "[報告]カウシェの選考通過しました！！",
+        "user": "U032L2QR03F",
+        "ts": "1648014443.608179",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1648014679.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ruex",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[報告]カウシェの選考通過しました！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648014443.608179",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1648015970.958419",
+        "reply_users": [
+            "U02AWQ4BE1L",
+            "U032L2QR03F"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1648015320.548759"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1648015441.104539"
+            },
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1648015529.467789"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1648015970.958419"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1648015970.958419",
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "god",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45c2f3ad-a44a-4afa-9ce8-d85b2d3e7fa3",
+        "type": "message",
+        "text": "おおおおおおおおお！！\nいつから勤務開始ですか？？",
+        "user": "U02AWQ4BE1L",
+        "ts": "1648015320.548759",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QSe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おおおおおおおおお！！\nいつから勤務開始ですか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648014443.608179",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "F47BE85C-9FDC-489F-A42F-DC12790C6D0C",
+        "type": "message",
+        "text": "これから勤務条件等含めて話し合う感じです！",
+        "user": "U032L2QR03F",
+        "ts": "1648015441.104539",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "181",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これから勤務条件等含めて話し合う感じです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648014443.608179",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "63e653ae-9b7c-4964-b196-6d8fe279455f",
+        "type": "message",
+        "text": "おおおおお素晴らしい！！！\n詳細決まれば、また教えてください！",
+        "user": "U02AWQ4BE1L",
+        "ts": "1648015529.467789",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おおおおお素晴らしい！！！\n詳細決まれば、また教えてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648014443.608179",
+        "parent_user_id": "U032L2QR03F"
+    },
+    {
+        "client_msg_id": "f465d2ad-4991-4b6e-baff-520ffbeb6f58",
+        "type": "message",
+        "text": "了解しました！",
+        "user": "U032L2QR03F",
+        "ts": "1648015970.958419",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1648014443.608179",
+        "parent_user_id": "U032L2QR03F",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

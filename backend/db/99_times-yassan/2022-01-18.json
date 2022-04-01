@@ -1,0 +1,165 @@
+[
+    {
+        "client_msg_id": "fa70925d-1a1a-4b15-a347-ac155151535f",
+        "type": "message",
+        "text": "NFTのプロトコルとして、バブルではなく本質的価値があるのは今のところこれと思われ\n\n<https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-designed-for-subscriptions-and-memberships\/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIA5mmKBBjFsPqpxtSEnnXysjfHC7ANo8CywoRuhCbGMtXdLLH0ovVgD6RiQmpBeBXwtaXD1M8TjnWiEa-3xdiZpzk-d01Yri26U3VOw9aL8reXEgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE|https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-d[…]EgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642515935.001100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-designed-for-subscriptions-and-memberships\/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIA5mmKBBjFsPqpxtSEnnXysjfHC7ANo8CywoRuhCbGMtXdLLH0ovVgD6RiQmpBeBXwtaXD1M8TjnWiEa-3xdiZpzk-d01Yri26U3VOw9aL8reXEgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE",
+                "image_url": "https:\/\/techcrunch.com\/wp-content\/uploads\/2021\/09\/Julien-Genestoux-Unlock-Protocol.jpg?w=400",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 45046,
+                "service_icon": "https:\/\/techcrunch.com\/wp-content\/uploads\/2015\/02\/cropped-cropped-favicon-gradient.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-designed-for-subscriptions-and-memberships\/?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAIA5mmKBBjFsPqpxtSEnnXysjfHC7ANo8CywoRuhCbGMtXdLLH0ovVgD6RiQmpBeBXwtaXD1M8TjnWiEa-3xdiZpzk-d01Yri26U3VOw9aL8reXEgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE",
+                "fallback": "TechCrunch: Guardian backed-fund invests in Unlock, an NFT protocol designed for subscriptions and memberships – TechCrunch",
+                "text": "Monetization for the creator economy continues to be a huge issue and opportunity, but creators mostly have to lock themselves into platforms like Patreon to realize their value. A better method would be to have a membership system for creators which sat across several platforms. Now, GMG Ventures …",
+                "title": "Guardian backed-fund invests in Unlock, an NFT protocol designed for subscriptions and memberships – TechCrunch",
+                "title_link": "https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-designed-for-subscriptions-and-memberships\/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIA5mmKBBjFsPqpxtSEnnXysjfHC7ANo8CywoRuhCbGMtXdLLH0ovVgD6RiQmpBeBXwtaXD1M8TjnWiEa-3xdiZpzk-d01Yri26U3VOw9aL8reXEgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE",
+                "service_name": "TechCrunch"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dU9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NFTのプロトコルとして、バブルではなく本質的価値があるのは今のところこれと思われ\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-designed-for-subscriptions-and-memberships\/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIA5mmKBBjFsPqpxtSEnnXysjfHC7ANo8CywoRuhCbGMtXdLLH0ovVgD6RiQmpBeBXwtaXD1M8TjnWiEa-3xdiZpzk-d01Yri26U3VOw9aL8reXEgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE",
+                                "text": "https:\/\/techcrunch.com\/2021\/09\/28\/guardian-owner-invests-in-unlock-an-nft-protocol-d[…]EgjVp8mzNJ58BGD6_HRh1JA-ET_Ei0l03yoOAa-5d_pi_c0etWv4dlP5gUEKE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "毎日blender生活その2\n角の丸みがこだわり\n\nメモ\n・円メッシュの頂点数は最初に設定せなあかん。\n・3.0verでのナイフ投影のやり方覚えた。\n・Iで拡大・縮小の押し出し。これも色々使えそう。\n・円のサイズは後から数値で変更可能\n・辺ループ選択便利\n・辺選択後、ベベルで丸みを。セグメント多くしてより滑らかにできる。ただ、フリーズしやすいので注意。\n・キーボードの入力ソースを画面上で英語にしておくと、ショートカットのエラーが起きない。\n・重複頂点が起きると色々だるいので、定期的に距離でマージせよ（全選択→m→距離でマージ）。ベベルミスとか面の挿入ミスとか色々起きる。\n・こまめに保存しておくべき。\n・辺の挿入などは相変わらず汎用性の高いテクニック。\n・複製はctrl +D",
+        "files": [
+            {
+                "id": "F02ULH3REJY",
+                "created": 1642532257,
+                "timestamp": 1642532257,
+                "name": "corn.png",
+                "title": "corn.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02AWQ4BE1L",
+                "editable": false,
+                "size": 1977801,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02ULH3REJY\/corn.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02ULH3REJY\/download\/corn.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_960.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02ULH3REJY-fb47a62eb0\/corn_1024.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1920,
+                "original_h": 1080,
+                "thumb_tiny": "AwAbADCxRSZFGfrUjGyZ2HGc+1MjJ8sZzn3qeIgNknHHemykM\/ynP0NA76WI+9KKTnPSlH0NAizsFLtFOopgZ90SzgFNuPXvTbYlGPyMQfQVo0UrGntPd5bEe32pNvtUtJTMz\/\/Z",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02AWQ4BE1L\/F02ULH3REJY\/corn.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02ULH3REJY-3bd605d13b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02AWQ4BE1L",
+        "display_as_bot": false,
+        "ts": "1642533173.010700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3UI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "毎日blender生活その2\n角の丸みがこだわり\n\nメモ\n・円メッシュの頂点数は最初に設定せなあかん。\n・3.0verでのナイフ投影のやり方覚えた。\n・Iで拡大・縮小の押し出し。これも色々使えそう。\n・円のサイズは後から数値で変更可能\n・辺ループ選択便利\n・辺選択後、ベベルで丸みを。セグメント多くしてより滑らかにできる。ただ、フリーズしやすいので注意。\n・キーボードの入力ソースを画面上で英語にしておくと、ショートカットのエラーが起きない。\n・重複頂点が起きると色々だるいので、定期的に距離でマージせよ（全選択→m→距離でマージ）。ベベルミスとか面の挿入ミスとか色々起きる。\n・こまめに保存しておくべき。\n・辺の挿入などは相変わらず汎用性の高いテクニック。\n・複製はctrl +D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02AWQ4BE1L",
+            "ts": "1642565201.000000"
+        },
+        "client_msg_id": "400ae48c-8282-4c21-804a-38c8ae2317bd",
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02BT600G8G"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

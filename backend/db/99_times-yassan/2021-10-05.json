@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "521da056-4669-49d2-bdf5-7354ffa294d6",
+        "type": "message",
+        "text": "<https:\/\/uxdesign.cc\/how-airbnb-drives-users-actions-with-their-landing-page-design-a-ux-analysis-d99effa9f536>\n\nairbnbのLPを分析した記事",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633500763.000700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "How Airbnb drives users actions with their landing page design — a UX analysis",
+                "title_link": "https:\/\/uxdesign.cc\/how-airbnb-drives-users-actions-with-their-landing-page-design-a-ux-analysis-d99effa9f536",
+                "text": "There is a reason you are not familiar with many -maybe not even one- of Airbnb’s competitors. The renting\/booking marketplace “giant” has…",
+                "fallback": "Medium: How Airbnb drives users actions with their landing page design — a UX analysis",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*5mUah6pLzW7AWtCnnxADtQ.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1591617931,
+                "from_url": "https:\/\/uxdesign.cc\/how-airbnb-drives-users-actions-with-their-landing-page-design-a-ux-analysis-d99effa9f536",
+                "image_width": 592,
+                "image_height": 250,
+                "image_bytes": 122028,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/uxdesign.cc\/how-airbnb-drives-users-actions-with-their-landing-page-design-a-ux-analysis-d99effa9f536"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KiMsH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/uxdesign.cc\/how-airbnb-drives-users-actions-with-their-landing-page-design-a-ux-analysis-d99effa9f536"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nairbnbのLPを分析した記事"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "fd582ce5-93c3-448b-8717-bb4d04513e3f",
+        "type": "message",
+        "text": "EthereumとPolkadotをつくったギャビン・ウッドが書いた，「Web3.0とは何か」が面白い\n<https:\/\/japancryptocoin.org\/2022\/01\/18\/web3\/>",
+        "user": "U02BT600G8G",
+        "ts": "1646471137.105999",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/japancryptocoin.org\/2022\/01\/18\/web3\/",
+                "image_url": "https:\/\/japancryptocoin.org\/wp-content\/uploads\/2022\/01\/snapshot-21.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 97450,
+                "service_icon": "https:\/\/japancryptocoin.org\/wp-content\/uploads\/2017\/11\/cropped-favicon-base-jcca-512px-300x300.png",
+                "id": 1,
+                "original_url": "https:\/\/japancryptocoin.org\/2022\/01\/18\/web3\/",
+                "fallback": "一般社団法人日本クリプトコイン協会: Web3.0とはどの様なものかをギャビン・ウッド氏のブログから学ぶ | 一般社団法人日本クリプトコイン協会",
+                "text": "Web3.0の概念と必要性を世界で初めて提唱したのは、Etherumeの創設者であり、ポルカドットとクサマの創設者として、現在も広く知られています。そんなギャビン・ウッド氏が2014年に書いたブログ記事「Dapps: What Web 3.0 Looks Like」が非常に興味深かったので、今回取り上げる事にしました。",
+                "title": "Web3.0とはどの様なものかをギャビン・ウッド氏のブログから学ぶ | 一般社団法人日本クリプトコイン協会",
+                "title_link": "https:\/\/japancryptocoin.org\/2022\/01\/18\/web3\/",
+                "service_name": "一般社団法人日本クリプトコイン協会"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UC5Ah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EthereumとPolkadotをつくったギャビン・ウッドが書いた，「Web3.0とは何か」が面白い\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/japancryptocoin.org\/2022\/01\/18\/web3\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U032L2QR03F",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

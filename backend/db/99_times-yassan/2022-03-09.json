@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "text": "Luupなんだかんだ初めて使ってみた。\n\nソフトウェア世界と現実世界の融合",
+        "files": [
+            {
+                "id": "F036BKPD71B",
+                "created": 1646895393,
+                "timestamp": 1646895393,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02AWQ4BE1L",
+                "editable": false,
+                "size": 263191,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F036BKPD71B\/ios__________.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F036BKPD71B\/download\/ios__________.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________960.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F036BKPD71B-2cb855c8b1\/ios___________1024.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABrRO1FycACjcpbHOR7VHdK7QMqDJNVHmnMmMFckYAGRQBo9aQKAMYFRwsxDBlwQx7VLQAHODjrURLZG5UH\/AAKpTTCEbqoP1FADlOR0GO2DS0i4xhRgCloAilWQt8jgD0puyb+\/+tSMm5w2elJsb+\/+lArDFSYMMyDFT00Jz1P506gErH\/\/2Q==",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02AWQ4BE1L\/F036BKPD71B\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F036BKPD71B-d1b7bb924c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02AWQ4BE1L",
+        "display_as_bot": false,
+        "ts": "1646895502.360769",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U3VYc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Luupなんだかんだ初めて使ってみた。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ソフトウェア世界と現実世界の融合"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "84C490E7-B11E-4DBD-AE05-1054717F8948",
+        "reactions": [
+            {
+                "name": "japan",
+                "users": [
+                    "U032L2QR03F",
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

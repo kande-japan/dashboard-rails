@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "6915be31-5d1d-4e56-b00e-61909b207583",
+        "type": "message",
+        "text": "単発バイト系って、結構色々ある\n<https:\/\/li-le.net\/rcontents\/archives\/4655>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1633783194.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "らくジョブ バイト選び",
+                "title": "「単発バイト」8サービス簡単理解！タイミー、シェアフルなど | らくジョブ バイト選び",
+                "title_link": "https:\/\/li-le.net\/rcontents\/archives\/4655",
+                "text": "タイミー 、スキマワークス、ショットワークス、ジョブクイッカー、シェアフル、wakumo、おてつだいネットワークス、ワクラクなどの単発アルバイトサービスについて、利用者数やエリア、仕事内容、報酬などについてまとめました。",
+                "fallback": "らくジョブ バイト選び: 「単発バイト」8サービス簡単理解！タイミー、シェアフルなど | らくジョブ バイト選び",
+                "thumb_url": "https:\/\/li-le.net\/rcontents\/wp-content\/uploads\/2020\/02\/e44c3e006e2310ed19171238e520d003_s-min.jpg",
+                "ts": 1582556443,
+                "from_url": "https:\/\/li-le.net\/rcontents\/archives\/4655",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/li-le.net\/rcontents\/wp-content\/uploads\/2019\/10\/cropped-logol-1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/li-le.net\/rcontents\/archives\/4655"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Btw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "単発バイト系って、結構色々ある\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/li-le.net\/rcontents\/archives\/4655"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

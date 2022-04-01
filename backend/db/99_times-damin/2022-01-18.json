@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "0C82BFC7-E660-4964-93BC-F8C7357752F0",
+        "type": "message",
+        "text": "マイクロソフトはゲームから攻めるってことか…？\n<https:\/\/twitter.com\/wsjjapan\/status\/1483456161965871116?s=21|https:\/\/twitter.com\/wsjjapan\/status\/1483456161965871116?s=21>",
+        "user": "U02BT600G8G",
+        "ts": "1642526278.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PXDoY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マイクロソフトはゲームから攻めるってことか…？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/wsjjapan\/status\/1483456161965871116?s=21",
+                                "text": "https:\/\/twitter.com\/wsjjapan\/status\/1483456161965871116?s=21"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642526278.000500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642532199.000700",
+        "reply_users": [
+            "U02AWQ4BE1L"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1642532199.000700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1642532199.000700"
+    },
+    {
+        "client_msg_id": "416def01-cf1b-4b5c-8629-2a7fb61c67c1",
+        "type": "message",
+        "text": "どうなんやろ。普通の規模の買収でも最初の発案から買収完了までに1年かかることも多く、メタバースの文脈ではない気もする。単純にTencentとかへの対抗として意図されていたのかも。\n\nまた、7.8兆円全額現金で買収とスケールは半端ないが、それでもこの会社はセクハラ問題発覚で昨年夏から株価が暴落してここに落ち着いており、マイクロソフトからすればかなりのお買い得である。僥倖か。\n\nでも、もしかしたら、1年以上も前から、Metaの猛攻及びアクティビジョンの株価暴落など全てを何らかの筋の情報で予想し、異次元の規模の買収の準備を果敢に仕掛けていたのかもしれない。\n\n我々末端のものには何も分からんが、GithubといいLinkedinといい、やっぱり今3代目CEOやってるあのハゲのおっさんマジでタダもんじゃねえ",
+        "user": "U02AWQ4BE1L",
+        "ts": "1642532199.000700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうなんやろ。普通の規模の買収でも最初の発案から買収完了までに1年かかることも多く、メタバースの文脈ではない気もする。単純にTencentとかへの対抗として意図されていたのかも。\n\nまた、7.8兆円全額現金で買収とスケールは半端ないが、それでもこの会社はセクハラ問題発覚で昨年夏から株価が暴落してここに落ち着いており、マイクロソフトからすればかなりのお買い得である。僥倖か。\n\nでも、もしかしたら、1年以上も前から、Metaの猛攻及びアクティビジョンの株価暴落など全てを何らかの筋の情報で予想し、異次元の規模の買収の準備を果敢に仕掛けていたのかもしれない。\n\n我々末端のものには何も分からんが、GithubといいLinkedinといい、やっぱり今3代目CEOやってるあのハゲのおっさんマジでタダもんじゃねえ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1642526278.000500",
+        "parent_user_id": "U02BT600G8G",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

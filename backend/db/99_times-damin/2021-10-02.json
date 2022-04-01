@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "97C410A7-4494-4E19-AD8C-D8E6D65EBFE0",
+        "type": "message",
+        "text": "<https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9|https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9>",
+        "user": "U02BT600G8G",
+        "ts": "1633190907.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "22 Best Practices to Take Your API Design Skills to the Next Level",
+                "title_link": "https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9",
+                "text": "Practical advices for designing REST APIs",
+                "fallback": "Medium: 22 Best Practices to Take Your API Design Skills to the Next Level",
+                "image_url": "https:\/\/miro.medium.com\/max\/1200\/1*bGuAtdLThns0yU1pHHfwzA.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1630149135,
+                "from_url": "https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9",
+                "image_width": 319,
+                "image_height": 250,
+                "image_bytes": 118553,
+                "service_icon": "https:\/\/miro.medium.com\/fit\/c\/152\/152\/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+                "id": 1,
+                "original_url": "https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wkz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9",
+                                "text": "https:\/\/betterprogramming.pub\/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

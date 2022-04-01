@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "2CF551AD-5E59-4A6F-954E-BB07355575C7",
+        "type": "message",
+        "text": "ほーん\n<https:\/\/corporate.coincheck.com\/press\/I8E199JI|https:\/\/corporate.coincheck.com\/press\/I8E199JI>",
+        "user": "U02BT600G8G",
+        "ts": "1643610627.330809",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/corporate.coincheck.com\/press\/I8E199JI",
+                "image_url": "https:\/\/storage.googleapis.com\/studio-cms-assets\/projects\/4BqNm3zPOr\/s-750x393_v-fs_webp_b4d597e5-74e5-49af-807d-fd30b2553d29.png",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 552864,
+                "service_icon": "https:\/\/storage.googleapis.com\/production-os-assets\/assets\/a2fd3bdc-98bf-4597-812d-be544b8d6f1d",
+                "id": 1,
+                "original_url": "https:\/\/corporate.coincheck.com\/press\/I8E199JI",
+                "fallback": "コインチェック株式会社: コインチェックとThe Sandbox、メタバース上で都市開発を開始 ｜コインチェック株式会社",
+                "text": "*English is belowコインチェック株式会社（本社：東京都渋谷区、代表取締役：蓮尾 聡）とゲーム分野においてメタバースの活用を推進する『The Sandbox』は、コインチェックが保有する『The Sandbox』上の土地「LAND」に、2035年の近未来都市「Oasis TOKYO」を制作するプロジェクトを開始しました。本取り組みは、メタバース上での活動を体験する機会を提供することや...",
+                "title": "コインチェックとThe Sandbox、メタバース上で都市開発を開始 ｜コインチェック株式会社",
+                "title_link": "https:\/\/corporate.coincheck.com\/press\/I8E199JI",
+                "service_name": "コインチェック株式会社"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+s\/e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ほーん\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/corporate.coincheck.com\/press\/I8E199JI",
+                                "text": "https:\/\/corporate.coincheck.com\/press\/I8E199JI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

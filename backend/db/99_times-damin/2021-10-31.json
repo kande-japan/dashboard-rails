@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "text": "Quasarだとsafariでも全然遅くない！とてもいい！",
+        "files": [
+            {
+                "id": "F02L1NZFAQZ",
+                "created": 1635691319,
+                "timestamp": 1635691319,
+                "name": "Screen Recording 2021-10-31 at 23.40.53.mov",
+                "title": "Screen Recording 2021-10-31 at 23.40.53.mov",
+                "mimetype": "video\/quicktime",
+                "filetype": "mov",
+                "pretty_type": "QuickTime Movie",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 5441397,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02L1NZFAQZ-a0ec39d7fe\/screen_recording_2021-10-31_at_23.40.53.mp4?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02L1NZFAQZ-a0ec39d7fe\/screen_recording_2021-10-31_at_23.40.53.mp4?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F02L1NZFAQZ\/download\/screen_recording_2021-10-31_at_23.40.53.mov?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02L1NZFAQZ-a0ec39d7fe\/file.m3u8?_xcb=d0398&t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9NzYxNTE1LEFWRVJBR0UtQkFORFdJRFRIPTY5NjE1NyxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj00OTh4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVFqQkdWVWhMVmpNdFJqQXlUREZPV2taQlVWb3RZVEJsWXpNNVpEZG1aUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXlRakJHVlVoTFZqTXRSakF5VERGT1drWkJVVm90WVRCbFl6TTVaRGRtWlM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF5UWpCR1ZVaExWak10UmpBeVRERk9Xa1pCVVZvdFlUQmxZek01WkRkbVpTOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TXk1MGN3b2pSVmhVU1U1R09qQXVNVFkzTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeVFqQkdWVWhMVmpNdFJqQXlUREZPV2taQlVWb3RZVEJsWXpNNVpEZG1aUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05DNTBjd29qUlZoVUxWZ3RSVTVFVEVsVFZBbz0KI0VYVC1YLVNUUkVBTS1JTkY6QkFORFdJRFRIPTUxNjg1OSxBVkVSQUdFLUJBTkRXSURUSD00NzQ5NTYsQ09ERUNTPSJhdmMxLjY0MDAxZSxtcDRhLjQwLjUiLFJFU09MVVRJT049MzMyeDcyMCxGUkFNRS1SQVRFPTI5Ljk3MApodHRwczovL2ZpbGVzLnNsYWNrLmNvbS9maWxlcy10bWIvVDAyQjBGVUhLVjMtRjAyTDFOWkZBUVotYTBlYzM5ZDdmZS9maWxlX0hfMjY0XzEyODB4NzIwXzM1MDBLQlBTXzdRVkJSLm0zdTgK",
+                "duration_ms": 18184,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F02L1NZFAQZ-a0ec39d7fe\/screen_recording_2021-10-31_at_23.40.53_thumb_video.jpeg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_video_w": 642,
+                "thumb_video_h": 1392,
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F02L1NZFAQZ\/screen_recording_2021-10-31_at_23.40.53.mov",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F02L1NZFAQZ-5c947631d3",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1635691343.000700",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LOa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Quasarだとsafariでも全然遅くない！とてもいい！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2b3212e7-c44c-4270-b7bc-8fd8eaa50749",
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

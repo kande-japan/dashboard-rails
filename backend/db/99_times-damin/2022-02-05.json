@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "973D858D-1FCD-4492-B63E-CF85B01F138A",
+        "type": "message",
+        "text": "激アツだな\n<https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/|https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/>",
+        "user": "U02BT600G8G",
+        "ts": "1644077420.288259",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/",
+                "image_url": "https:\/\/i.gzn.jp\/img\/2021\/12\/21\/human-brain-play-pong-ai\/00.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 80500,
+                "service_icon": "https:\/\/gigazine.net\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/",
+                "fallback": "GIGAZINE: 実験室内で培養した人の「ミニ脳」にゲームをプレイさせることに成功、AIよりも速いわずか5分で習得",
+                "text": "オーストラリアとイギリスの研究チームが、ペトリ皿の中で培養した人間の脳細胞に卓球ゲームの「PONG」の1人用モードをプレイさせることに成功したと発表しました。",
+                "title": "実験室内で培養した人の「ミニ脳」にゲームをプレイさせることに成功、AIよりも速いわずか5分で習得",
+                "title_link": "https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/",
+                "service_name": "GIGAZINE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yH4gP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "激アツだな\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/",
+                                "text": "https:\/\/gigazine.net\/news\/20211221-human-brain-play-pong-ai\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U02FXPP41QD",
+                    "U02AWQ4BE1L",
+                    "U032L2QR03F"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "client_msg_id": "C57C48F9-E224-4501-A060-2F1C8C4FA298",
+        "type": "message",
+        "text": "smartHR、Rubyで書かれてたのか…！",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644715513.560619",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iClW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "smartHR、Rubyで書かれてたのか…！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B284FE53-BE88-4B8E-9190-BEF6CEDAA8BB",
+        "type": "message",
+        "text": "<https:\/\/t.co\/L0gIjANjcW|https:\/\/t.co\/L0gIjANjcW>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1644715515.785309",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/logmi.jp\/tech\/articles\/320728",
+                "image_url": "https:\/\/img.logmi.jp\/articles\/LdJPrXMmi8zzYhbF1AauSi.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 162938,
+                "service_icon": "https:\/\/logmi.jp\/img\/icons\/logmi-tech.png",
+                "id": 1,
+                "original_url": "https:\/\/logmi.jp\/tech\/articles\/320728",
+                "fallback": "ログミーTech: なぜ開発言語にRubyを選んだのか？　SmartHRが明かす、成長の軌跡と技術選定 - Part1",
+                "text": "2018年12月14日、品川シーズンテラスカンファレンスにてRubyアソシエーションが主催するイベント「Ruby Business Users Conference 2018 Winter」が開催されました。すでにRubyを活用しているユーザーや、これからRubyをビジネスに活用しようと考えている人が集い、情報交換を行いました。基調講演「スタートアップの銀行口座残高と技術選定」に登壇したのは、株式会社SmartHR副社長兼最高開発責任者の内藤研介氏。創業から今日に至るまでの軌跡と、開発言語としてRubyを選択した理由を語ります。",
+                "title": "なぜ開発言語にRubyを選んだのか？　SmartHRが明かす、成長の軌跡と技術選定 - Part1",
+                "title_link": "https:\/\/logmi.jp\/tech\/articles\/320728",
+                "service_name": "ログミーTech"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WMx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/L0gIjANjcW",
+                                "text": "https:\/\/t.co\/L0gIjANjcW"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

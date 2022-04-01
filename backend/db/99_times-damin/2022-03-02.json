@@ -1,0 +1,364 @@
+[
+    {
+        "client_msg_id": "b552bc64-eaf7-4167-83cc-5289fdbe297f",
+        "type": "message",
+        "text": "kindleで買っても7日間以内なら完全に購入キャンセルできるらしいというのを利用すれば，一瞬買って全部スクショして返金してもらうっていうのできるっていうライフハックを思いついた（よくなさすぎる）",
+        "user": "U02BT600G8G",
+        "ts": "1646212471.827689",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wbf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "kindleで買っても7日間以内なら完全に購入キャンセルできるらしいというのを利用すれば，一瞬買って全部スクショして返金してもらうっていうのできるっていうライフハックを思いついた（よくなさすぎる）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646212471.827689",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1646213763.782729",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1646213763.782729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "995B7017-9297-47E1-9456-466771F97E43",
+        "type": "message",
+        "text": "やりましょう。\nまとめとか自分が重要だと思った事は、メモしてとけば完璧。\n\n削減できる経費は徹底的に削減します！",
+        "user": "U02AWQ4BE1L",
+        "ts": "1646212570.262669",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やりましょう。\nまとめとか自分が重要だと思った事は、メモしてとけば完璧。\n\n削減できる経費は徹底的に削減します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646212570.262669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1646212814.647019",
+        "reply_users": [
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1646212814.647019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1646212814.647019",
+        "reactions": [
+            {
+                "name": "innocent",
+                "users": [
+                    "U02FXPP41QD",
+                    "U032L2QR03F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12a6283e-0508-4c52-91b3-e11d142c0292",
+        "type": "message",
+        "text": "www",
+        "user": "U02BT600G8G",
+        "ts": "1646212814.647019",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "80+ZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "www"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646212570.262669",
+        "parent_user_id": "U02AWQ4BE1L"
+    },
+    {
+        "client_msg_id": "287dd4bd-a0a6-4b96-a4ef-ce83b72fbf59",
+        "type": "message",
+        "text": "Amazonもバカじゃなくて結構読み進めてたり返金しまくってると嫌われて返金できなくなるらしい…悲しい",
+        "user": "U02BT600G8G",
+        "ts": "1646213763.782729",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dfNK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazonもバカじゃなくて結構読み進めてたり返金しまくってると嫌われて返金できなくなるらしい…悲しい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1646212471.827689",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "05471d35-d0e2-4102-97cc-39e9a283bc6b",
+        "type": "message",
+        "text": "DAppsにSolidity以外のbackendは要るのか？\n1. cacheしてガス代節約する時\n2. Clientでできないことをする時\n3. off-chainに何か保存していて特別な操作が必要な時\n(etc…)\nに必要\n\n<https:\/\/www.reddit.com\/r\/ethdev\/comments\/nxvk43\/do_dapps_really_need_backend\/>",
+        "user": "U02BT600G8G",
+        "ts": "1646225609.068959",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.reddit.com\/r\/ethdev\/comments\/nxvk43\/do_dapps_really_need_backend\/",
+                "thumb_url": "https:\/\/www.redditstatic.com\/new-icon.png",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/ethdev\/comments\/nxvk43\/do_dapps_really_need_backend\/",
+                "fallback": "reddit: Do Dapps Really Need Backend?",
+                "text": "I'm a UI developer trying to learn about dapp development and so far it seems to me like dapps could be built with just a UI + a library for...",
+                "title": "Do Dapps Really Need Backend?",
+                "title_link": "https:\/\/www.reddit.com\/r\/ethdev\/comments\/nxvk43\/do_dapps_really_need_backend\/",
+                "service_name": "reddit"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xvKbt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DAppsにSolidity以外のbackendは要るのか？\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "cacheしてガス代節約する時"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Clientでできないことをする時"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "off-chainに何か保存していて特別な操作が必要な時"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(etc…)\nに必要\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/ethdev\/comments\/nxvk43\/do_dapps_really_need_backend\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD",
+                    "U032L2QR03F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62e41323-2914-428d-b192-fa8ccb9e994d",
+        "type": "message",
+        "text": "全く東工大の話だけど学籍番号のチェックサムなんてものあったんだ…（そして自分ので試したら合ってた）\n<https:\/\/twitter.com\/int0dh\/status\/876685599490453504>",
+        "user": "U02BT600G8G",
+        "ts": "1646232724.498119",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OaWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全く東工大の話だけど学籍番号のチェックサムなんてものあったんだ…（そして自分ので試したら合ってた）\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/int0dh\/status\/876685599490453504"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U032L2QR03F",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

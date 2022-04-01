@@ -1,0 +1,205 @@
+[
+    {
+        "client_msg_id": "C0ABBEA5-9867-44FB-9901-8379C57A3000",
+        "type": "message",
+        "text": "<https:\/\/discord.gg\/J4A7ECjD|https:\/\/discord.gg\/J4A7ECjD>",
+        "user": "U02BT600G8G",
+        "ts": "1639309705.000100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/discord.gg\/J4A7ECjD",
+                "image_url": "https:\/\/cdn.discordapp.com\/icons\/914960638365810748\/434e9a9e23dd02107bbb8d5738595b37.jpg?size=256",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 9887,
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/J4A7ECjD",
+                "fallback": "Discord: Join the 和組 Discord Server!",
+                "text": "和組は、Web3の最新情報を共有・議論するコミュニティです。Web3, DeFi, DAO, Crypto, NFT, Blockchain, Metaverse などの話題を対象にしています。初心者でもお気軽にどうぞ。 | 2,085 members",
+                "title": "Join the 和組 Discord Server!",
+                "title_link": "https:\/\/discord.gg\/J4A7ECjD",
+                "service_name": "Discord"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xav",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/J4A7ECjD",
+                                "text": "https:\/\/discord.gg\/J4A7ECjD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639309705.000100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1639366575.003400",
+        "reply_users": [
+            "U02AWQ4BE1L",
+            "U02BT600G8G"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1639364611.002500"
+            },
+            {
+                "user": "U02BT600G8G",
+                "ts": "1639366575.003400"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1639366575.003400"
+    },
+    {
+        "client_msg_id": "8575bf1d-24fa-4ff9-959e-56d3495d0a36",
+        "type": "message",
+        "text": "crypto系の界隈だと大学生でちゃんと投資して何千万稼ぐ人とか高校生でNFTで2億稼ぐ人とか本当にいるんだなと感慨深い気持ちに…",
+        "user": "U02BT600G8G",
+        "ts": "1639320711.002100",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KVEMG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "crypto系の界隈だと大学生でちゃんと投資して何千万稼ぐ人とか高校生でNFTで2億稼ぐ人とか本当にいるんだなと感慨深い気持ちに…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "god",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0BEBB24E-D3F3-4917-A79B-E139F3669442",
+        "type": "message",
+        "text": "俺これ入ってる",
+        "user": "U02AWQ4BE1L",
+        "ts": "1639364611.002500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5js",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "俺これ入ってる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639309705.000100",
+        "parent_user_id": "U02BT600G8G"
+    },
+    {
+        "client_msg_id": "6BCF775E-1B36-4088-A6EC-5C7EEAAFA65E",
+        "type": "message",
+        "text": "ええぇぇ結構最近できたやつですよね！早い",
+        "user": "U02BT600G8G",
+        "ts": "1639366575.003400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zho",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ええぇぇ結構最近できたやつですよね！早い"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1639309705.000100",
+        "parent_user_id": "U02BT600G8G"
+    }
+]

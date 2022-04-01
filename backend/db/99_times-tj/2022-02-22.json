@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "4A734990-AEEF-482B-9D98-D2869E49F1E3",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/elonmusk\/status\/1496252264171941888?s=21|https:\/\/twitter.com\/elonmusk\/status\/1496252264171941888?s=21>\n\n誰か解説してほしい()",
+        "user": "U02FXPP41QD",
+        "ts": "1645570094.239079",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9\/cM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/elonmusk\/status\/1496252264171941888?s=21",
+                                "text": "https:\/\/twitter.com\/elonmusk\/status\/1496252264171941888?s=21"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n誰か解説してほしい()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645570094.239079",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1645586190.517359",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1645577621.235339"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1645586190.517359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5D109C93-661D-47FA-B39D-624CD86045C3",
+        "type": "message",
+        "text": "Web1はラリーペイジとセルゲイブリン（映画）、Web2はマーク・ザッカーバーグ（映画）、Web3はビタリックブテリン、らしい",
+        "user": "U02BT600G8G",
+        "ts": "1645577621.235339",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4HGqW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Web1はラリーペイジとセルゲイブリン（映画）、Web2はマーク・ザッカーバーグ（映画）、Web3はビタリックブテリン、らしい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645570094.239079",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "173EA126-5CBB-4503-9211-CD6A022A304D",
+        "type": "message",
+        "text": "ザッカーバーグ言われても分からない:innocent:\nビタリックブテリンは普通に知らなかったな",
+        "user": "U02FXPP41QD",
+        "ts": "1645586190.517359",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+pz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ザッカーバーグ言われても分からない"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nビタリックブテリンは普通に知らなかったな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1645570094.239079",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

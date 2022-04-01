@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "512e07c8-a655-4231-b316-ce2d72fbbc4b",
+        "type": "message",
+        "text": "<https:\/\/book.ethereum-jp.net\/>",
+        "user": "U02BT600G8G",
+        "ts": "1640052504.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rkx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/book.ethereum-jp.net\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1640052504.000200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1640053577.002700",
+        "reply_users": [
+            "U02AWQ4BE1L"
+        ],
+        "replies": [
+            {
+                "user": "U02AWQ4BE1L",
+                "ts": "1640053577.002700"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1640053577.002700",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "177CC400-F1FC-44CF-BB5F-D8AC2D689AEE",
+        "type": "message",
+        "text": "他のプログラミング分野もそうやけど、blockchain系のドキュメントは特に、良質なものは英語圏のものしかないイメージがあった",
+        "user": "U02AWQ4BE1L",
+        "ts": "1640053577.002700",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XEV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他のプログラミング分野もそうやけど、blockchain系のドキュメントは特に、良質なものは英語圏のものしかないイメージがあった"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1640052504.000200",
+        "parent_user_id": "U02BT600G8G",
+        "reactions": [
+            {
+                "name": "point_right",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

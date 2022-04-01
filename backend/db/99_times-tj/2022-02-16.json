@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "text": "コロナが流行り出したときに作ったアプリ。App Store のガイドラインに抵触するので出せなくて、Code For Japan の人に掛け合って東京都として出しませんかというお願いをしたんだけど、通らなかったことで営業力のなさ(？)を痛感したというエピソード。(受験を控えてたということもあったんだけどねもちろん)",
+        "files": [
+            {
+                "id": "F033DU5G7S9",
+                "created": 1645083457,
+                "timestamp": 1645083457,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U02FXPP41QD",
+                "editable": false,
+                "size": 148654,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F033DU5G7S9\/image_from_ios.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F033DU5G7S9\/download\/image_from_ios.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_64.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_80.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_360.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 175,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_480.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 233,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_160.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_720.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 349,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F033DU5G7S9-784104bdbb\/image_from_ios_800.png?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 388,
+                "thumb_800_h": 800,
+                "original_w": 398,
+                "original_h": 820,
+                "thumb_tiny": "AwAwABeGK1llj3oFxzjPemC3uGYDymGeMkVo2OfsiYx3\/nU4Uf3Rn6U7gZE9vLbgF9uDxkVDk1p6mC0KAdd39KzfLb0qoks1bIf6InBOM9PrVnFQWX\/Hsv4\/zqeoKKepHEKEf3\/6Vm+Y1aOqf6lf97+lZdVElmxYkCzj59f51Y6jrxVKyuYUtlR3CsM5B+tT\/bLf\/nqP1qSiHVBiBP8Ae\/pWXV\/ULiKWJFjfcd2TiqFUhM\/\/2Q==",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02FXPP41QD\/F033DU5G7S9\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F033DU5G7S9-cd2fc7f4e4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02FXPP41QD",
+        "display_as_bot": false,
+        "ts": "1645083592.981699",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "imaqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナが流行り出したときに作ったアプリ。App Store のガイドラインに抵触するので出せなくて、Code For Japan の人に掛け合って東京都として出しませんかというお願いをしたんだけど、通らなかったことで営業力のなさ(？)を痛感したというエピソード。(受験を控えてたということもあったんだけどねもちろん)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U02FXPP41QD",
+            "ts": "1645083679.000000"
+        },
+        "client_msg_id": "B74E7B0A-0D02-488D-865C-7AB5F06119CF",
+        "reactions": [
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pro",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02BT600G8G",
+                    "U032L2QR03F"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

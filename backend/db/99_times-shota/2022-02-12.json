@@ -1,0 +1,313 @@
+[
+    {
+        "client_msg_id": "87778112-5f14-4eae-8777-69116ce7991a",
+        "type": "message",
+        "text": "僕が部内ハッカソンの時にgoで作ったカスアプリをrailsで作り直して最適化するプロジェクトやります",
+        "user": "U032L2QR03F",
+        "ts": "1644672129.557799",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1644672307.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yqqcG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕が部内ハッカソンの時にgoで作ったカスアプリをrailsで作り直して最適化するプロジェクトやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            },
+            {
+                "name": "wow",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9a0133b-df93-401c-b69e-8f0403550236",
+        "type": "message",
+        "text": "<https:\/\/frontend-opal-delta-19.vercel.app\/>",
+        "user": "U032L2QR03F",
+        "ts": "1644672312.509709",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/frontend-opal-delta-19.vercel.app\/",
+                "service_icon": "https:\/\/frontend-opal-delta-19.vercel.app\/logo192.png",
+                "id": 1,
+                "original_url": "https:\/\/frontend-opal-delta-19.vercel.app\/",
+                "fallback": "Palamo",
+                "text": "Palamoは記憶の宮殿を作成して共有するサービスです",
+                "title": "Palamo",
+                "title_link": "https:\/\/frontend-opal-delta-19.vercel.app\/",
+                "service_name": "frontend-opal-delta-19.vercel.app"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sAtEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/frontend-opal-delta-19.vercel.app\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "487999a7-b683-4c75-8ab6-dc8f6d54fc65",
+        "type": "message",
+        "text": "<https:\/\/github.com\/shota-aa\/rails-docker-mysql>",
+        "user": "U032L2QR03F",
+        "ts": "1644717963.464839",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/github.com\/shota-aa\/rails-docker-mysql",
+                "image_url": "https:\/\/opengraph.githubassets.com\/31beda05ea283fbdeb1291d3e33505706d5bd2eae0a57e8469f4831b74730506\/shota-aa\/rails-docker-mysql",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 125018,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/shota-aa\/rails-docker-mysql",
+                "fallback": "GitHub: GitHub - shota-aa\/rails-docker-mysql",
+                "text": "Contribute to shota-aa\/rails-docker-mysql development by creating an account on GitHub.",
+                "title": "GitHub - shota-aa\/rails-docker-mysql",
+                "title_link": "https:\/\/github.com\/shota-aa\/rails-docker-mysql",
+                "service_name": "GitHub"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JTiPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/shota-aa\/rails-docker-mysql"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "983a8b55-5181-4fd0-b22d-10c8d0ef444e",
+        "type": "message",
+        "text": "docker mysql railsの開発環境整えてみたのでまだでしたら",
+        "user": "U032L2QR03F",
+        "ts": "1644718004.874129",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U032L2QR03F",
+            "ts": "1644718013.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "docker mysql railsの開発環境整えてみたのでまだでしたら"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9beb186-263b-4ac2-be7e-d77c240dc0fc",
+        "type": "message",
+        "text": "REMIND.MEに色々書きました",
+        "user": "U032L2QR03F",
+        "ts": "1644718036.937099",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Tc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "REMIND.MEに色々書きました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B708B40D-4012-4688-B3E8-8868647E9761",
+        "type": "message",
+        "text": "皆のgithub見てみたいなあ",
+        "user": "U032L2QR03F",
+        "ts": "1644720201.784809",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04Acp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆のgithub見てみたいなあ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

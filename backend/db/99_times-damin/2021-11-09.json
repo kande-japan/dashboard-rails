@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "70b61fae-a610-44f9-a348-5f09815d7204",
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/100045793613255\/videos\/270515208443434\/>",
+        "user": "U02BT600G8G",
+        "ts": "1636495190.000200",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3Jv\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.facebook.com\/100045793613255\/videos\/270515208443434\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

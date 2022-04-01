@@ -1,0 +1,227 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568558.914739",
+        "user": "U032L2QR03F",
+        "text": "<@U032L2QR03F>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568780.106499",
+        "user": "U0328BSUGT1",
+        "text": "<@U0328BSUGT1>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "b0cd98eb-8ad9-438e-8560-8392ad2b9e3e",
+        "type": "message",
+        "text": "めっちゃ楽しい1日だった()",
+        "user": "U02BT600G8G",
+        "ts": "1644591168.021069",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLSte",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めっちゃ楽しい1日だった()"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U032L2QR03F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92b4ec0f-66a9-434d-b868-79136db6b054",
+        "type": "message",
+        "text": "Procっていうのはcallbackとかdelegateみたいな関数オブジェクト的なやつなのね\n<https:\/\/qiita.com\/kasei-san\/items\/0392097791d3a5998216>",
+        "user": "U02BT600G8G",
+        "ts": "1644625708.002049",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/kasei-san\/items\/0392097791d3a5998216",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JTI2JUU2JUJDJTk0JUU3JUFFJTk3JUU1JUFEJTkwJUUzJTgxJUE4JUUzJTgwJTgxcHJvYyVFMyU4MSVBOCVFMyU4MCU4MU9iamVjdCUyM21ldGhvZCUyMCVFMyU4MSVBQiVFMyU4MSVBNCVFMyU4MSU4NCVFMyU4MSVBNiVFNyU5MCU4NiVFOCVBNyVBMyVFMyU4MSU5NyVFMyU4MSVBQSVFMyU4MSU4QSVFMyU4MSU5OSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MGRlM2Y3ODIwMjNjMDljNDY2MTkxOTgzZDFlZTcxZGY%26mark-x%3D142%26mark-y%3D112%26s%3Dec38d509d69f4c79d32ff34a951659b3?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwa2FzZWktc2FuJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00YTQ2MjhjNjA3M2IxOTQ1ZTQyMjk0Yjc5OTczMDQ1OQ&mark-x=142&mark-y=491&s=0703789926156d58e6fe1a63ee09cfcc",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 51877,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/kasei-san\/items\/0392097791d3a5998216",
+                "fallback": "Qiita: &amp;演算子と、procと、Object#method について理解しなおす - Qiita",
+                "text": "事の始まり @kasei_san [1,2,3].each &amp;method(:puts)的な…— ほしの hoshinotsuyoshi (@hoppiestar) 2015, 1月 20 やってみる ir...",
+                "title": "&amp;演算子と、procと、Object#method について理解しなおす - Qiita",
+                "title_link": "https:\/\/qiita.com\/kasei-san\/items\/0392097791d3a5998216",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d=UD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Procっていうのはcallbackとかdelegateみたいな関数オブジェクト的なやつなのね\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/kasei-san\/items\/0392097791d3a5998216"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "音楽NFT関連のサービス、もうこんなにあって草",
+        "files": [
+            {
+                "id": "F0336BUM3DF",
+                "created": 1644640424,
+                "timestamp": 1644640424,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U02BT600G8G",
+                "editable": false,
+                "size": 258656,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F0336BUM3DF\/image_from_ios.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T02B0FUHKV3-F0336BUM3DF\/download\/image_from_ios.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_64.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_80.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_360.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_480.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_160.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_720.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_720_w": 720,
+                "thumb_720_h": 446,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_800.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_800_w": 800,
+                "thumb_800_h": 496,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_960.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_960_w": 960,
+                "thumb_960_h": 595,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T02B0FUHKV3-F0336BUM3DF-5f602728f9\/image_from_ios_1024.jpg?t=xoxe-2374538597989-3325491294981-3330713115988-4512d6a25a4b9a9231073e0ca5db51d7",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 634,
+                "original_w": 1600,
+                "original_h": 991,
+                "thumb_tiny": "AwAdADC8T8x47+pobg8jH4mgkhm5PWhST+VACh8Dt+dBb5u350DOw0nOOOn1oAUkgZIx+NOU5APNMzlT6+uachHTvQA0kbjknilHfnOaUpknnr7UoQDPvQAwcKaCQF6ZzxTwmPcfSk2e\/fNACbSBnvQvLZpxGRgHFCrtoA\/\/2Q==",
+                "permalink": "https:\/\/kandejp.slack.com\/files\/U02BT600G8G\/F0336BUM3DF\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T02B0FUHKV3-F0336BUM3DF-b2f8553288",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U02BT600G8G",
+        "display_as_bot": false,
+        "ts": "1644640432.214339",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecIg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音楽NFT関連のサービス、もうこんなにあって草"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "20DD416C-E671-4A98-8628-ECBBE8730FB5",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02AWQ4BE1L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "face_with_rolling_eyes",
+                "users": [
+                    "U032L2QR03F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

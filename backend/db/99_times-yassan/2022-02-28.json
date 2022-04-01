@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "EECA894E-4B1D-4090-B096-2ECCB1BDCD02",
+        "type": "message",
+        "text": "ブロックチェーンのスケーラビリティ問題について、今年はイーサリアムのレイヤー2ソリューションが熱くなってきとる。\n\nデータ圧縮技術も勉強せなｧｧｧ\n\n<https:\/\/t.co\/imUyuaWBSD|https:\/\/t.co\/imUyuaWBSD>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1646052345.044949",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/note.com\/tomohiro_tagami\/n\/nf094ed754057",
+                "image_url": "https:\/\/assets.st-note.com\/production\/uploads\/images\/73168808\/rectangle_large_type_2_9449c49359ead819032f6731ecdd983f.png?fit=bounds&quality=85&width=1280",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 15025,
+                "service_icon": "https:\/\/d291vdycu0ht11.cloudfront.net\/nuxt\/static\/metaicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/note.com\/tomohiro_tagami\/n\/nf094ed754057",
+                "fallback": "note（ノート）: イーサリアムセカンドレイヤー Arbitrum と Optimism の比較｜Tomohiro Tagami \/ 田上智裕｜note",
+                "text": "今年はイーサリアムのセカンドレイヤー元年です。イーサリアムのガス代が高騰したことで2021年はマルチチェーン時代となりましたが、セカンドレイヤーが台頭してきたことで今後どのような変遷となるか注目です。 セカンドレイヤーはデータ圧縮技術の賜物であり、起業家なら誰もが愛する映画「シリコンバレー」に登場する「Pied Piper」の技術を再現しているかのようでワクワクします。 セカンドレイヤー（L2）では、基本的にRollup（ロールアップ）と呼ばれる仕組みが使用されます。このRollupをさらに大別したのが「Optimistic Rollup（オプティミスティック ロールアップ）」と「",
+                "title": "イーサリアムセカンドレイヤー Arbitrum と Optimism の比較｜Tomohiro Tagami \/ 田上智裕｜note",
+                "title_link": "https:\/\/note.com\/tomohiro_tagami\/n\/nf094ed754057",
+                "service_name": "note（ノート）"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mtf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ブロックチェーンのスケーラビリティ問題について、今年はイーサリアムのレイヤー2ソリューションが熱くなってきとる。\n\nデータ圧縮技術も勉強せなｧｧｧ\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/imUyuaWBSD",
+                                "text": "https:\/\/t.co\/imUyuaWBSD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

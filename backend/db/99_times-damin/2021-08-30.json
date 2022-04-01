@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "D24CF834-CA16-405A-86FB-FD1394305DC2",
+        "type": "message",
+        "text": "<https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform|https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform>\n↑こういうアプローチもありなのか…",
+        "user": "U02AWQ4BE1L",
+        "ts": "1630388913.000500",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+                "title": "「Meety」がコロナ禍でピボット、企業の〝なかのひと〟と繋がれるカジュアル面談プラットフォームに | BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+                "title_link": "https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform",
+                "text": "東京を拠点とするスタートアップ Meety は14日、カジュアル面談プラットフォーム「Meety」をβローンチした。Meety は昨年11月に企業の人材採用に特化したミートアップ掲載プラットフォームとしてローンチしていたが、コロナ禍で直接対面でのミートアップが抑制される中、事実上のピボットとなる。 Meety はミートアップ掲載プラットフォームとして、サービス開始4ヶ月目となる今年2月時点で登録企",
+                "fallback": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報: 「Meety」がコロナ禍でピボット、企業の〝なかのひと〟と繋がれるカジュアル面談プラットフォームに | BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
+                "image_url": "https:\/\/thebridge.jp\/wp-content\/uploads\/2020\/10\/meety_featuredimage-640x403.png",
+                "image_width": 397,
+                "image_height": 250,
+                "ts": 1602633649,
+                "from_url": "https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform",
+                "image_bytes": 135133,
+                "service_icon": "https:\/\/thebridge.jp\/wp-content\/uploads\/2019\/11\/cropped-apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "orjG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform",
+                                "text": "https:\/\/thebridge.jp\/2020\/10\/meety-pivoted-to-casual-interview-platform"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n↑こういうアプローチもありなのか…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB38BFE5-4764-4B9D-9AFE-87024AC5EBE7",
+        "type": "message",
+        "text": "活用すべきアドツールとかも、後々リサーチしとこう\n<https:\/\/t.co\/qaOMykEVg8|https:\/\/t.co\/qaOMykEVg8>",
+        "user": "U02AWQ4BE1L",
+        "ts": "1630389028.001400",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "2124078e8906",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-09-08\/2459508092342_2124078e890616bf8bd9_72.png",
+            "first_name": "西原　靖貴",
+            "real_name": "西原　靖貴",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "yakkun20000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "株式会社ライスカレー",
+                "title": "SNSマーケティングツール「Buffet」インターネット集客ツール「アドスタ」にフルリニューアル | 株式会社ライスカレー",
+                "title_link": "https:\/\/ricecurry.co.jp\/column_news\/news\/462\/",
+                "fallback": "株式会社ライスカレー: SNSマーケティングツール「Buffet」インターネット集客ツール「アドスタ」にフルリニューアル | 株式会社ライスカレー",
+                "image_url": "https:\/\/ricecurry.co.jp\/wp\/wp-content\/uploads\/2021\/08\/160209b97d90c8a32175242e79c01fbe.png",
+                "image_width": 568,
+                "image_height": 250,
+                "ts": 1627885241,
+                "from_url": "https:\/\/ricecurry.co.jp\/column_news\/news\/462\/",
+                "image_bytes": 200595,
+                "service_icon": "https:\/\/ricecurry.co.jp\/wp\/wp-content\/uploads\/2018\/11\/cropped-sub1-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/ricecurry.co.jp\/column_news\/news\/462\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPQcx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "活用すべきアドツールとかも、後々リサーチしとこう\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/qaOMykEVg8",
+                                "text": "https:\/\/t.co\/qaOMykEVg8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

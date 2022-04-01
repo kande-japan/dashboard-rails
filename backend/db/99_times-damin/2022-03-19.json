@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "E330610D-76C8-4FD6-B74B-64E538A5BB6E",
+        "type": "message",
+        "text": "Ruby on RailsでのClean Architecture\n<https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468|https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468>",
+        "user": "U02BT600G8G",
+        "ts": "1647685658.777419",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9UmFpbHMlRTMlODElQThDbGVhbiUyMEFyY2hpdGVjdHVyZSVFMyU4MSVBQiVFOSU5NiVBMiVFMyU4MSU5OSVFMyU4MiU4QiVFOCU4MCU4MyVFNSVBRiU5RiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9OWQ4YjM2ZWRkNDcwMzJhZDgwNDllNDljMzQyN2Q0MTQ&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwc2h1bmppa29uaXNoaSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9ODBjNjFkY2I3NGY5MDBjZGJmZWJmY2ZhMTFhOWZlODg&blend-x=142&blend-y=491&blend-mode=normal&s=d4bacdfde37527628c394dce9b328064",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 39436,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468",
+                "fallback": "Qiita: RailsとClean Architectureに関する考察 - Qiita",
+                "text": "Railsのアプリケーションの設計について考える機会があったのでその過程で考えたこととをまとめておきます。 背景 Railsをメインで使用している企業で新規のWebアプリケーションを0ベースで作ることになった。 その企業はRai...",
+                "title": "RailsとClean Architectureに関する考察 - Qiita",
+                "title_link": "https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VMqc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ruby on RailsでのClean Architecture\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468",
+                                "text": "https:\/\/qiita.com\/shunjikonishi\/items\/e39ed8091e1dca817468"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pro",
+                "users": [
+                    "U02AWQ4BE1L",
+                    "U02FXPP41QD"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15508F5D-BBD6-4DE7-9F34-4F62D538EF61",
+        "type": "message",
+        "text": "Go vs Ruby\nﾌｧｲｯ\n<https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b|https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b>",
+        "user": "U02BT600G8G",
+        "ts": "1647685948.966429",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9V2FudGVkbHklMjAlRTMlODElQUIlRTMlODElOEElRTMlODElOTElRTMlODIlOEIlMjBHbyUyMCVFNSVCMCU4RSVFNSU4NSVBNSVFMyU4MSVBQiVFMyU4MSVCRSVFMyU4MSVBNCVFMyU4MiU4RiVFMyU4MiU4QiVFNiU4QSU4MCVFOCVBMSU5MyVFOCU4MyU4QyVFNiU5OSVBRiZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1jbGlwPWVsbGlwc2lzJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YmE0YTVhZmQ1MjRmMDkxODQ4OWEyZTEyZTFhOTk5NzE&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwQWx0ZWNoJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz0yNjBhNWYxNGIzN2EzNTU1NWM2OTlhZmYyOTQ2NTQwZQ&blend-x=142&blend-y=491&blend-mode=normal&s=ac81cd5d998b5ec51780457b587913b7",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 47578,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b",
+                "fallback": "Qiita: Wantedly における Go 導入にまつわる技術背景 - Qiita",
+                "text": "（本記事は Go Conference 2019 Autumn にて無料配布した冊子『WANTEDLY TECHBOOK GoCon Edition vol.2』からの掲載です） 配布した冊子の前半では Go の導入にあたってどのよ...",
+                "title": "Wantedly における Go 導入にまつわる技術背景 - Qiita",
+                "title_link": "https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O025",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Go vs Ruby\nﾌｧｲｯ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b",
+                                "text": "https:\/\/qiita.com\/Altech\/items\/d0f7986ae86a4626199b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U02FXPP41QD"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

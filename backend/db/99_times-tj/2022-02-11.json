@@ -1,0 +1,520 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568558.959949",
+        "user": "U032L2QR03F",
+        "text": "<@U032L2QR03F>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1644568780.164959",
+        "user": "U0328BSUGT1",
+        "text": "<@U0328BSUGT1>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "E21377FD-D9BE-4A89-8B1F-29C91D28861A",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5|https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5>",
+        "user": "U02FXPP41QD",
+        "ts": "1644569129.999589",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9V2ViJUUzJTgyJUEyJUUzJTgzJTk3JUUzJTgzJUFBJUUzJTgyJUIxJUUzJTgzJUJDJUUzJTgyJUI3JUUzJTgzJUE3JUUzJTgzJUIzJUUzJTgzJTk1JUUzJTgzJUFDJUUzJTgzJUJDJUUzJTgzJUEwJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgyJUFGJUU1JUIwJThFJUU1JTg1JUE1JUU2JTk5JTgyJUUzJTgxJUFCJUU4JTgwJTgzJUU2JTg1JUFFJUUzJTgxJTk5JUUzJTgxJUI5JUUzJTgxJThEMjIlRTMlODElQUUlRTglQTYlQjMlRTclODIlQjkmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPWM3MWQ0YWFiZDFiZDRmNWJlNmRkZTkzMTFhODg1ZjIx%26mark-x%3D142%26mark-y%3D112%26s%3D78dcabbf0e66898291f795cdaff8639e?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwdG1rbm9tJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00NWEwMjA2Zjc5ZGVjYmI1ZTJlYjNhN2RmODhlNjZiMA&mark-x=142&mark-y=491&s=bd989e618d4a54dc4cf577a4ff472291",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 51705,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5",
+                "fallback": "Qiita: Webアプリケーションフレームワーク導入時に考慮すべき22の観点 - Qiita",
+                "text": "本記事では、 チームによる持続的に変更可能なWebアプリケーションの開発を目標に、フレームワーク導入時に考慮すべき22の観点を紹介する。 フレームワークによって特徴は異なるが、本番導入にあたって、考慮すべきポイントはあまり変わらない...",
+                "title": "Webアプリケーションフレームワーク導入時に考慮すべき22の観点 - Qiita",
+                "title_link": "https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikMl5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5",
+                                "text": "https:\/\/qiita.com\/tmknom\/items\/08b69594e32a92bccee5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U02BT600G8G",
+                    "U02AWQ4BE1L",
+                    "U032L2QR03F"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2C2DC70F-03E3-4144-B264-82E6DF0A4D27",
+        "type": "message",
+        "text": "コインハイブ事件がマシに思える\n\n<https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28|https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28>",
+        "user": "U02FXPP41QD",
+        "ts": "1644569236.152209",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28",
+                "image_url": "https:\/\/qiita-user-contents.imgix.net\/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9R29vZ2xlJUUzJTgzJTk1JUUzJTgyJUE5JUUzJTgzJUIzJUUzJTgzJTg4JUUzJTgyJTkyJUU0JUJEJUJGJUUzJTgxJTg2JUUzJTgxJUE4JUU3JThBJUFGJUU3JUJEJUFBJUUzJTgxJUFCJUUzJTgxJUFBJUUzJTgyJThCJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz00M2Q0ZGQ4YTAwMDhiODIxOTU1MWRjM2Q1NjEyMzIxMw%26mark-x%3D142%26mark-y%3D112%26s%3D557dfe8de64c26c6d4eb1ca57a4304c1?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwcmFuYV9rdWFsdSZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9OWEyOTM0NDEzMjY2OGY0ODNmNzM4MTFlNmFhMTMzY2U&mark-x=142&mark-y=491&s=13a534bd7e08604a9e129503dc1fa0f7",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 37606,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28",
+                "fallback": "Qiita: Googleフォントを使うと犯罪になる - Qiita",
+                "text": "&lt;link href=\"<https:\/\/fonts.googleapis.com>\"&gt;って書くと罰金取られます。 以下はGerman Court Rules Websites Embedding Google Fonts ...",
+                "title": "Googleフォントを使うと犯罪になる - Qiita",
+                "title_link": "https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28",
+                "service_name": "Qiita"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OvQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コインハイブ事件がマシに思える\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28",
+                                "text": "https:\/\/qiita.com\/rana_kualu\/items\/23a844a9f9b03cb8ff28"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C2C47545-54A2-4398-BBD4-70FB684EC55B",
+        "type": "message",
+        "text": "よろしくお願いします？",
+        "user": "U02FXPP41QD",
+        "ts": "1644569355.049189",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U02FXPP41QD",
+            "ts": "1644569379.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0t4X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1644577871.827729",
+        "reply_users": [
+            "U02BT600G8G",
+            "U02FXPP41QD",
+            "U0328BSUGT1",
+            "U032L2QR03F"
+        ],
+        "replies": [
+            {
+                "user": "U02BT600G8G",
+                "ts": "1644570015.785189"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644570110.270149"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644570122.448319"
+            },
+            {
+                "user": "U0328BSUGT1",
+                "ts": "1644570492.241949"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644570547.704379"
+            },
+            {
+                "user": "U032L2QR03F",
+                "ts": "1644576594.434319"
+            },
+            {
+                "user": "U02FXPP41QD",
+                "ts": "1644577871.827729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "54155ec4-854a-464c-b627-29863e04a967",
+        "type": "message",
+        "text": "東工大情理1年のしょうたと，藝大2年の藤森さん！今度は田島も一緒に会おう！！",
+        "user": "U02BT600G8G",
+        "ts": "1644570015.785189",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "de4af6a60ae6",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-01-01\/2883180134951_de4af6a60ae64f9f21bc_72.jpg",
+            "first_name": "本田大明",
+            "real_name": "本田大明",
+            "display_name": "Hiroaki Honda",
+            "team": "T02B0FUHKV3",
+            "name": "hddamin6844",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7tlT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東工大情理1年のしょうたと，藝大2年の藤森さん！今度は田島も一緒に会おう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "B52F2063-637D-4B86-80D4-63BF48B17424",
+        "type": "message",
+        "text": "河野さん実は通学(？)初日に会ってるからびっくりした",
+        "user": "U02FXPP41QD",
+        "ts": "1644570110.270149",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dpk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "河野さん実は通学(？)初日に会ってるからびっくりした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U02BT600G8G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8FE0E071-7BA2-4853-90DA-39E01AAAC2DD",
+        "type": "message",
+        "text": "藝大とはすごいな……ぜひぜひ",
+        "user": "U02FXPP41QD",
+        "ts": "1644570122.448319",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OX2G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "藝大とはすごいな……ぜひぜひ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "6a3e8c8d-8dc7-4edd-80f6-6307b8ea1869",
+        "type": "message",
+        "text": "よろしくお願いします！",
+        "user": "U0328BSUGT1",
+        "ts": "1644570492.241949",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "g05c33ff84d7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/05c33ff84d78832b524267f57fbec4d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "Naoki",
+            "real_name": "Naoki Fujimori",
+            "display_name": "",
+            "team": "T02B0FUHKV3",
+            "name": "s1120166",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/rtws",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "DC00CD17-4257-4248-85B3-0BFF883CFC82",
+        "type": "message",
+        "text": "よろしくお願いします:man-bowing:",
+        "user": "U02FXPP41QD",
+        "ts": "1644570547.704379",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oM3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "E3CD9F2B-AF95-4087-808B-019048E3137B",
+        "type": "message",
+        "text": "田島君お久しぶりです！よろしく！",
+        "user": "U032L2QR03F",
+        "ts": "1644576594.434319",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "d2b79da82c00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-02-23\/3159336455297_d2b79da82c006c25507f_72.jpg",
+            "first_name": "河野将太",
+            "real_name": "河野将太",
+            "display_name": "shota",
+            "team": "T02B0FUHKV3",
+            "name": "dqx1005",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "田島君お久しぶりです！よろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD"
+    },
+    {
+        "client_msg_id": "16568CA7-F864-44F7-8B11-985C07C50DE5",
+        "type": "message",
+        "text": "よろしく！",
+        "user": "U02FXPP41QD",
+        "ts": "1644577871.827729",
+        "team": "T02B0FUHKV3",
+        "user_team": "T02B0FUHKV3",
+        "source_team": "T02B0FUHKV3",
+        "user_profile": {
+            "avatar_hash": "10dfe3b5c924",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2021-10-24\/2626201270839_10dfe3b5c924e3d61970_72.png",
+            "first_name": "TAJIMA",
+            "real_name": "TAJIMA Yukito",
+            "display_name": "TJ",
+            "team": "T02B0FUHKV3",
+            "name": "yj_ykt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ioAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1644569355.049189",
+        "parent_user_id": "U02FXPP41QD"
+    }
+]

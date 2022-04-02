@@ -30,6 +30,7 @@ export interface Actions {
 const actions: ActionTree<IAuthState, IState> & Actions = {
   async [ActionTypes.login](context, payload) {
     const { data } = await api.post<ILoginResponse>('/token', payload);
+    console.log(data);
     context.commit(MutationTypes.SET_NEW_TOKEN, data);
   },
 

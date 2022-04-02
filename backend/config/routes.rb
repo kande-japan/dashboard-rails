@@ -11,6 +11,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       post 'token', to: 'sessions#session'
       post 'token/refresh', to: 'sessions#refresh'
+      get 'users/me', to: 'users#me'
       resources :users, only: %i[index create]
       resources :contents, only: %i[index]
     end

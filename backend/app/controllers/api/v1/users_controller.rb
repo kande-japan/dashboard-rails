@@ -6,8 +6,12 @@ class Api::V1::UsersController < ApplicationController
   skip_before_action :authenticate, only: %i[create]
 
   def index
-    @users = User.all
-    render json: @users, each_serializer: UserSerializer
+    users = User.all
+    render json: users, each_serializer: UserSerializer
+  end
+
+  def me
+    render json: current_user, serializer: UserSerializer
   end
 
   def create

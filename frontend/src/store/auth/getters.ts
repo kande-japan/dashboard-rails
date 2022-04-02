@@ -4,7 +4,7 @@ import { IAuthState } from './state';
 
 export interface IDefaultConfig {
   headers: {
-    Authoriazation: string;
+    Authorization: string;
   };
 }
 
@@ -16,7 +16,7 @@ const getters: GetterTree<IAuthState, IState> & Getters = {
   defaultAxiosConfig(context) {
     return {
       headers: {
-        Authoriazation: `Bearer ${context.access}`,
+        Authorization: `Bearer ${context.access}`,
       },
     };
   },

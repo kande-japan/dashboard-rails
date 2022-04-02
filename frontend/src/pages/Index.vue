@@ -52,6 +52,7 @@ import { defineComponent, ref } from 'vue';
 import { useStore } from 'src/store';
 import { ActionTypes as AuthActionTypes } from 'src/store/auth/actions';
 import { useRouter } from 'vue-router';
+import { useQuasar } from 'quasar';
 
 export default defineComponent({
   name: 'Index',
@@ -62,6 +63,7 @@ export default defineComponent({
 
     const store = useStore();
     const router = useRouter();
+    const $q = useQuasar();
 
     return {
       email,
@@ -72,22 +74,27 @@ export default defineComponent({
         required: (value: string) => !!value || 'This field is required.',
       },
 
-      async login() {
+      login() {
         loading.value = true;
 
-        await store
+        store
           .dispatch(AuthActionTypes.login, {
             email: email.value,
             password: password.value,
           })
+          .then(() => {
+            loading.value = false;
+            console.log('succeeded!');
+            void router.push('/dashboard');
+          })
           .catch((err) => {
             loading.value = false;
             console.log(err);
+            $q.notify({
+              message: 'Your email or password are not correct. Try again.',
+              color: 'negative',
+            });
           });
-
-        loading.value = false;
-        console.log('succeed!!');
-        void router.push('/dashboard');
       },
     };
   },
